@@ -28,6 +28,15 @@ Acer Veriton L4630G
 Advantech ARK-DS520
 Advantech DS-570
 Advantech UTC-520F
+Apple Mac Mini 7,1
+Apple MacBook Air 6,1
+Apple Macbook 7,1
+Apple Macbook Air 5,1
+Apple Macbook Air 7,2
+Apple Macbook Pro 11,2
+Apple Macbook Pro 9,2
+Apple iMac 11,2
+Apple iMac 12,1
 Dell Inspiron 15 3531
 Dell Inspiron 3280 AiO
 Dell Inspiron 3501
