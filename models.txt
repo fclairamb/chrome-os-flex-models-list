@@ -25,18 +25,14 @@ Acer TravelMate Spin B118-RN
 Acer Travelmate B113-E
 Acer Travelmate B113-M
 Acer Veriton L4630G
-Advantech ARK-DS520
-Advantech DS-570
 Advantech UTC-520F
 Apple Mac Mini 7,1
 Apple MacBook Air 6,1
-Apple Macbook 7,1
 Apple Macbook Air 5,1
 Apple Macbook Air 7,2
 Apple Macbook Pro 11,2
 Apple Macbook Pro 9,2
 Apple iMac 11,2
-Apple iMac 12,1
 Dell Inspiron 15 3531
 Dell Inspiron 3280 AiO
 Dell Inspiron 3501
@@ -48,7 +44,6 @@ Dell Latitude 3180
 Dell Latitude 3189
 Dell Latitude 3190
 Dell Latitude 3190 2-in-1
-Dell Latitude 3300
 Dell Latitude 3330
 Dell Latitude 3340
 Dell Latitude 3350
@@ -77,7 +72,6 @@ Dell Latitude 7280
 Dell Latitude 7400
 Dell Latitude 7420
 Dell Latitude 7480
-Dell Latitude 7490
 Dell Latitude E5410
 Dell Latitude E5420
 Dell Latitude E5430
@@ -94,7 +88,6 @@ Dell Latitude E6410
 Dell Latitude E6420
 Dell Latitude E6430
 Dell Latitude E6440
-Dell Latitude E6510
 Dell Latitude E6520
 Dell Latitude E7240
 Dell Latitude E7270
@@ -148,7 +141,6 @@ Dell Vostro 3550
 Dell Vostro 3560
 Dell Wyse 5060 Thin Client
 Dell Wyse 5070 Thin Client
-Dell Wyse 5070 Thin Client Extended Chassis
 Dell Wyse 5470 Mobile Thin Client
 Dell Wyse 7020 Thin Client
 Dell XPS 13 2-in-1 9365
@@ -162,8 +154,8 @@ Fujitsu Lifebook A743/G
 Fujitsu Lifebook T726
 HP 20-r013 AiO
 HP 215 G1
+HP 255 G7
 HP 255 G7 (Ryzen)
-HP 255 G7 
 HP 3115m
 HP 630
 HP Compaq 6000 Pro
@@ -230,7 +222,7 @@ HP ProOne 600 G1 AIO
 HP Probook 11 EE G1
 HP Probook 11 G2
 HP Probook 430 G3
-HP Probook 440 G2 
+HP Probook 440 G2
 HP Probook 440 G3
 HP Probook 440 G6
 HP Probook 4430s
@@ -289,7 +281,6 @@ Intel NUC NUC6i3SYH
 Intel NUC NUC7i3BNH
 Intel NUC NUC8i5BEH
 Intel NUC NUC8i7BEH
-Justice Tech Securebook 5.0
 LG 14ZT980 Mobile Thin Client
 LG Gram 15Z995
 Lenovo 100e 2nd Gen (Intel)
@@ -333,7 +324,6 @@ Lenovo ThinkPad 11e G3
 Lenovo ThinkPad 11e G4
 Lenovo ThinkPad 11e G5
 Lenovo ThinkPad E15
-Lenovo ThinkPad E440
 Lenovo ThinkPad E450
 Lenovo ThinkPad E480
 Lenovo ThinkPad E531
@@ -342,17 +332,14 @@ Lenovo ThinkPad E560
 Lenovo ThinkPad Edge E430
 Lenovo ThinkPad Edge E530
 Lenovo ThinkPad L420
-Lenovo ThinkPad L430
 Lenovo ThinkPad L440
 Lenovo ThinkPad L460
 Lenovo ThinkPad L480
 Lenovo ThinkPad T14 Gen 1
 Lenovo ThinkPad T14s Gen 1
 Lenovo ThinkPad T410
-Lenovo ThinkPad T420
 Lenovo ThinkPad T430
 Lenovo ThinkPad T430u
-Lenovo ThinkPad T440p
 Lenovo ThinkPad T460
 Lenovo ThinkPad T470s
 Lenovo ThinkPad T480
@@ -397,7 +384,6 @@ Lenovo Thinkpad T560
 Lenovo V330-20ICB AIO
 Lenovo v310z AiO
 Microsoft Surface Laptop SE
-Microsoft Surface Pro 3
 Minisforum N36 Mini PC
 Minisforum S41
 Panasonic Toughbook FZ55
@@ -414,6 +400,5 @@ Zotac ZBOX CI320 nano
 Zotac ZBOX CI327
 Zotac ZBOX CI329 nano
 Zotac ZBOX MA760
-Zotac ZBOX PI335 Pico
 Zotac ZBOX PRO CI342GL
 Zotac ZBOX PRO PI336GL Series (SparkLan)
