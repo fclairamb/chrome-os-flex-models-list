@@ -1,1 +1,420 @@
 Model,Status,Year
+AOPEN DE3450,Certified,2028
+AOPEN DEX5750,Certified,2030
+AOpen eTILE 19M AiO,Certified,2028
+ASUS EeeBook E402SA,Certified,2029
+ASUS VivoBook L203MA,Certified,2028
+ASUS Vivobook Flip 14 TP401NA,Certified,2028
+ASUS X401U,Certified,2024
+ASUS X55C,Certified,2024
+ASUS Zenbook Flip X360CA,Certified,2027
+ASUS x200m,Certified,2026
+Acer Aspire 3 A315,Certified,2030
+Acer Aspire E3-111,Certified,2026
+Acer Aspire One 11 AO1-132,Certified,2027
+Acer Aspire V5 131,Certified,2025
+Acer Aspire V5-122P,Certified,2026
+Acer One 14 Z2-485,Certified,2028
+Acer R3-131T,Certified,2027
+Acer TravelMate B115-MP,Certified,2026
+Acer TravelMate B3 11R-31,Certified,2028
+Acer TravelMate B3 B311,Certified,2028
+Acer TravelMate P214,Certified,2030
+Acer TravelMate P459-G2-M,Certified,2028
+Acer TravelMate Spin B118-G2-RN,Certified,2028
+Acer TravelMate Spin B118-RN,Certified,2028
+Acer Travelmate B113-E,Certified,2027
+Acer Travelmate B113-M,Certified,2024
+Acer Veriton L4630G,Certified,2026
+Advantech ARK-DS520,Minor issues expected,2023
+Advantech DS-570,Minor issues expected,2026
+Advantech UTC-520F,Certified,2027
+"Apple Mac Mini 7,1",Certified,2026
+"Apple MacBook Air 6,1",Certified,2026
+"Apple Macbook 7,1",Minor issues expected,2023
+"Apple Macbook Air 5,1",Certified,2025
+"Apple Macbook Air 7,2",Certified,2027
+"Apple Macbook Pro 11,2",Certified,2025
+"Apple Macbook Pro 9,2",Certified,2025
+"Apple iMac 11,2",Certified,2024
+"Apple iMac 12,1",Minor issues expected,2024
+Dell Inspiron 15 3531,Certified,2026
+Dell Inspiron 3280 AiO,Certified,2028
+Dell Inspiron 3501,Certified,2030
+Dell Inspiron 3505,Certified,2030
+Dell Inspiron N5010,Certified,2023
+Dell Latitude 3150,Certified,2026
+Dell Latitude 3160,Certified,2027
+Dell Latitude 3180,Certified,2028
+Dell Latitude 3189,Certified,2027
+Dell Latitude 3190,Certified,2028
+Dell Latitude 3190 2-in-1,Certified,2028
+Dell Latitude 3300,Minor issues expected,2028
+Dell Latitude 3330,Certified,2025
+Dell Latitude 3340,Certified,2026
+Dell Latitude 3350,Certified,2027
+Dell Latitude 3380,Certified,2028
+Dell Latitude 3390 2-in-1,Certified,2028
+Dell Latitude 3400,Certified,2028
+Dell Latitude 3410,Certified,2028
+Dell Latitude 3420,Certified,2030
+Dell Latitude 3440,Certified,2026
+Dell Latitude 3450,Certified,2027
+Dell Latitude 3460,Certified,2027
+Dell Latitude 3470,Certified,2027
+Dell Latitude 3480,Certified,2027
+Dell Latitude 3490,Certified,2028
+Dell Latitude 3510,Certified,2028
+Dell Latitude 5290,Certified,2028
+Dell Latitude 5290 2-in-1,Certified,2028
+Dell Latitude 5300 2-in1,Certified,2028
+Dell Latitude 5400,Certified,2028
+Dell Latitude 5420,Certified,2030
+Dell Latitude 5480,Certified,2028
+Dell Latitude 5500,Certified,2028
+Dell Latitude 5580,Certified,2028
+Dell Latitude 5590,Certified,2028
+Dell Latitude 7280,Certified,2027
+Dell Latitude 7400,Certified,2028
+Dell Latitude 7420,Certified,2030
+Dell Latitude 7480,Certified,2028
+Dell Latitude 7490,Minor issues expected,2028
+Dell Latitude E5410,Certified,2023
+Dell Latitude E5420,Certified,2024
+Dell Latitude E5430,Certified,2025
+Dell Latitude E5440,Certified,2026
+Dell Latitude E5450,Certified,2027
+Dell Latitude E5470,Certified,2027
+Dell Latitude E5510,Certified,2023
+Dell Latitude E5520,Certified,2024
+Dell Latitude E5530,Certified,2025
+Dell Latitude E5540,Certified,2026
+Dell Latitude E5570,Certified,2027
+Dell Latitude E6230,Certified,2025
+Dell Latitude E6410,Certified,2023
+Dell Latitude E6420,Certified,2025
+Dell Latitude E6430,Certified,2025
+Dell Latitude E6440,Certified,2026
+Dell Latitude E6510,Minor issues expected,2024
+Dell Latitude E6520,Certified,2024
+Dell Latitude E7240,Certified,2026
+Dell Latitude E7270,Certified,2027
+Dell Latitude E7440,Certified,2026
+Dell Latitude E7450,Certified,2027
+Dell Latitude E7470,Certified,2027
+Dell OptiPlex 3030 AiO,Certified,2026
+Dell OptiPlex 3090,Certified,2028
+Dell OptiPlex 3240 AIO,Certified,2027
+Dell OptiPlex 5050,Certified,2027
+Dell Optiplex 3010,Certified,2025
+Dell Optiplex 3011 AiO,Certified,2025
+Dell Optiplex 3020,Certified,2026
+Dell Optiplex 3040,Certified,2027
+Dell Optiplex 3046,Certified,2027
+Dell Optiplex 3050,Certified,2028
+Dell Optiplex 3060,Certified,2028
+Dell Optiplex 3070,Certified,2028
+Dell Optiplex 3080,Certified,2028
+Dell Optiplex 3280 AiO,Certified,2028
+Dell Optiplex 390,Certified,2024
+Dell Optiplex 5000,Certified,2030
+Dell Optiplex 5040,Certified,2027
+Dell Optiplex 5060,Certified,2028
+Dell Optiplex 5070,Certified,2028
+Dell Optiplex 5080,Certified,2028
+Dell Optiplex 5250 AIO,Certified,2028
+Dell Optiplex 5270 AIO,Certified,2028
+Dell Optiplex 5480 AIO,Certified,2028
+Dell Optiplex 580,Certified,2023
+Dell Optiplex 7010,Certified,2025
+Dell Optiplex 7020,Certified,2026
+Dell Optiplex 7040,Certified,2027
+Dell Optiplex 7050,Certified,2027
+Dell Optiplex 7060,Certified,2028
+Dell Optiplex 7070,Certified,2028
+Dell Optiplex 7080,Certified,2028
+Dell Optiplex 7450 AIO,Certified,2028
+Dell Optiplex 790,Certified,2024
+Dell Optiplex 9010,Certified,2025
+Dell Optiplex 9020,Certified,2026
+Dell Optiplex 9020 AIO,Certified,2026
+Dell Optiplex 9030 AIO,Certified,2026
+Dell Optiplex 980,Certified,2023
+Dell Optiplex 990,Certified,2024
+Dell Vostro 1220,Certified,2022
+Dell Vostro 15 3568,Certified,2028
+Dell Vostro 230,Certified,2022
+Dell Vostro 3470,Certified,2028
+Dell Vostro 3550,Certified,2024
+Dell Vostro 3560,Certified,2025
+Dell Wyse 5060 Thin Client,Certified,2027
+Dell Wyse 5070 Thin Client,Certified,2028
+Dell Wyse 5070 Thin Client Extended Chassis,Major Issues,2029
+Dell Wyse 5470 Mobile Thin Client,Certified,2028
+Dell Wyse 7020 Thin Client,Certified,2027
+Dell XPS 13 2-in-1 9365,Certified,2028
+Dell XPS 13 9300,Certified,2029
+Dell XPS 13 9310,Certified,2030
+Dell XPS 13 9380,Certified,2028
+Elo 19M2 Rev A,Certified,2024
+Fujitsu Futro s720 Thin Client,Certified,2027
+Fujitsu Lifebook A574/H,Certified,2026
+Fujitsu Lifebook A743/G,Certified,2025
+Fujitsu Lifebook T726,Certified,2027
+HP 20-r013 AiO,Certified,2027
+HP 215 G1,Certified,2027
+HP 255 G7,Certified,2028
+HP 255 G7 (Ryzen),Certified,2030
+HP 3115m,Certified,2024
+HP 630,Certified,2023
+HP Compaq 6000 Pro,Certified,2022
+HP Compaq 6005 Pro,Certified,2023
+HP Compaq 6200 Pro,Certified,2024
+HP Compaq 6300 Pro,Certified,2025
+HP Compaq 8200 Elite,Certified,2024
+HP Compaq Elite 8100,Certified,2023
+HP Compaq Elite 8300,Certified,2025
+HP Compaq Pro 6305,Certified,2025
+HP EliteBook 820 G1,Certified,2026
+HP EliteBook 840 G5,Certified,2028
+HP EliteBook 840 G6,Certified,2028
+HP EliteBook 8440p,Certified,2023
+HP EliteDesk 705 G1,Certified,2025
+HP EliteDesk 705 G3,Certified,2028
+HP EliteDesk 705 G4,Certified,2028
+HP EliteDesk 800 G1,Certified,2026
+HP EliteDesk 800 G2,Certified,2027
+HP EliteDesk 800 G3,Certified,2027
+HP EliteDesk 800 G4,Certified,2028
+HP EliteDesk 800 G5,Certified,2028
+HP EliteDesk 800 G6,Certified,2028
+HP Elitebook 2560p,Certified,2024
+HP Elitebook 2740p,Certified,2023
+HP Elitebook 820 G2,Certified,2027
+HP Elitebook 820 G3,Certified,2027
+HP Elitebook 840 G1,Certified,2026
+HP Elitebook 840 G2,Certified,2027
+HP Elitebook 840 G3,Certified,2027
+HP Elitebook 840 G4,Certified,2028
+HP Elitebook 8460p,Certified,2024
+HP Elitebook 8470p,Certified,2025
+HP Elitebook Folio 9470m,Certified,2025
+HP Elitebook x360 1030 G2,Certified,2028
+HP Elitedesk 705 G5,Certified,2030
+HP Engage One Essential AIO,Certified,2030
+HP Engage One Pro AIO,Certified,2030
+HP Notebook 15-ay015dx,Certified,2027
+HP ProBook 250 G7,Certified,2028
+HP ProBook 430 G1,Certified,2026
+HP ProBook 440 G5,Certified,2028
+HP ProBook 450 G2,Certified,2027
+HP ProBook 450 G3,Certified,2027
+HP ProBook 645 G1,Certified,2025
+HP ProBook 6465b,Certified,2024
+HP ProBook 6470b,Certified,2025
+HP ProBook 6550b,Certified,2023
+HP ProBook 6560b,Certified,2024
+HP ProBook x360 11 G1 EE,Certified,2028
+HP ProBook x360 11 G3 EE,Certified,2028
+HP ProBook x360 11 G5 EE,Certified,2028
+HP ProDesk 400 G1,Certified,2026
+HP ProDesk 600 G1,Certified,2026
+HP ProDesk 600 G2,Certified,2027
+HP ProDesk 600 G4,Certified,2028
+HP ProOne 400 G1 AIO,Certified,2026
+HP ProOne 400 G2 AIO,Certified,2027
+HP ProOne 400 G3 AIO,Certified,2027
+HP ProOne 400 G4 AIO,Certified,2028
+HP ProOne 400 G5 AIO,Certified,2028
+HP ProOne 400 G6,Certified,2028
+HP ProOne 600 G1 AIO,Certified,2026
+HP Probook 11 EE G1,Certified,2027
+HP Probook 11 G2,Certified,2027
+HP Probook 430 G3,Certified,2027
+HP Probook 440 G2,Certified,2027
+HP Probook 440 G3,Certified,2027
+HP Probook 440 G6,Certified,2028
+HP Probook 4430s,Certified,2024
+HP Probook 4440s,Certified,2025
+HP Probook 450 G1,Certified,2026
+HP Probook 450 G5,Certified,2028
+HP Probook 450 G6,Certified,2028
+HP Probook 450 G7,Certified,2028
+HP Probook 4520s,Certified,2023
+HP Probook 4530s,Certified,2024
+HP Probook 4540s,Certified,2025
+HP Probook 455 G2,Certified,2027
+HP Probook 455 G3,Certified,2027
+HP Probook 6460b,Certified,2024
+HP Probook 650 G1,Certified,2026
+HP Probook 650 G2,Certified,2027
+HP Probook 655,Certified,2025
+HP Probook 6570b,Certified,2025
+HP Probook x360 11 G2 EE,Certified,2028
+HP Probook x360 11 G4 EE,Certified,2028
+HP Prodesk 400 G2.5,Certified,2026
+HP Spectre x360 13 (2017),Certified,2028
+HP Spectre x360 13 (2018),Certified,2028
+HP Stream 11 Pro G1,Certified,2026
+HP Stream 11 Pro G2,Certified,2027
+HP Stream 11 Pro G3,Certified,2027
+HP Stream 11 Pro G4 EE,Certified,2028
+HP Stream 11 Pro G5,Certified,2028
+HP Stream 13,Certified,2026
+HP Stream 14-ax010nr,Certified,2027
+HP Stream x360 Convertible PC 11,Certified,2026
+HP Z230,Certified,2026
+HP mt41 Mobile Thin Client,Certified,2025
+HP mt43 Mobile Thin Client,Certified,2028
+HP mt45 Mobile Thin Client,Certified,2030
+HP t430 Thin Client,Certified,2028
+HP t520 Thin Client,Certified,2027
+HP t530 Thin Client,Certified,2028
+HP t610 Thin Client,Certified,2024
+HP t620 Thin Client,Certified,2027
+HP t630 Thin Client,Certified,2028
+HP t640 Thin Client,Certified,2030
+HP t730 Thin Client,Certified,2027
+HP t740 Thin Client,Certified,2030
+HP x360 310 G2,Certified,2027
+HP Probook 440 G1,Certified,2026
+Intel Compute Stick STK1AW32SC,Certified,2027
+Intel Compute Stick STK2m364CC,Certified,2027
+Intel NUC 8 Rugged NUC8CCHK,Certified,2028
+Intel NUC D34010WYK,Certified,2026
+Intel NUC DC3217IYE,Certified,2025
+Intel NUC NUC10i7FNH,Certified,2028
+Intel NUC NUC5CPYH,Certified,2027
+Intel NUC NUC5i3RYH,Certified,2027
+Intel NUC NUC6i3SYH,Certified,2027
+Intel NUC NUC7i3BNH,Certified,2028
+Intel NUC NUC8i5BEH,Certified,2028
+Intel NUC NUC8i7BEH,Certified,2028
+Justice Tech Securebook 5.0,Minor issues expected,2028
+LG 14ZT980 Mobile Thin Client,Certified,2028
+LG Gram 15Z995,Certified,2028
+Lenovo 100e 2nd Gen (Intel),Certified,2028
+Lenovo 14w Gen 1,Certified,2029
+Lenovo 300e 1st Gen,Certified,2028
+Lenovo 300e 2nd Gen,Certified,2028
+Lenovo B590,Certified,2025
+Lenovo IdeaPad S145,Certified,2028
+Lenovo N22,Certified,2027
+Lenovo N23,Certified,2027
+Lenovo N24,Certified,2028
+Lenovo ThinkCentre E73,Certified,2026
+Lenovo ThinkCentre M53,Certified,2026
+Lenovo ThinkCentre M600,Certified,2027
+Lenovo ThinkCentre M625q,Certified,2028
+Lenovo ThinkCentre M700,Certified,2027
+Lenovo ThinkCentre M70q,Certified,2028
+Lenovo ThinkCentre M710q,Certified,2027
+Lenovo ThinkCentre M71e,Certified,2024
+Lenovo ThinkCentre M720q,Certified,2028
+Lenovo ThinkCentre M72e,Certified,2025
+Lenovo ThinkCentre M72z All in One,Certified,2025
+Lenovo ThinkCentre M73,Certified,2026
+Lenovo ThinkCentre M73z,Certified,2026
+Lenovo ThinkCentre M77,Certified,2023
+Lenovo ThinkCentre M78,Certified,2025
+Lenovo ThinkCentre M800,Certified,2027
+Lenovo ThinkCentre M81,Certified,2024
+Lenovo ThinkCentre M810z,Certified,2027
+Lenovo ThinkCentre M82,Certified,2025
+Lenovo ThinkCentre M83,Certified,2026
+Lenovo ThinkCentre M900,Certified,2027
+Lenovo ThinkCentre M90n IoT,Certified,2028
+Lenovo ThinkCentre M91p,Certified,2024
+Lenovo ThinkCentre M920q,Certified,2028
+Lenovo ThinkCentre M92p,Certified,2025
+Lenovo ThinkCentre M93p,Certified,2026
+Lenovo ThinkPad 11e G1,Certified,2026
+Lenovo ThinkPad 11e G2,Certified,2027
+Lenovo ThinkPad 11e G3,Certified,2027
+Lenovo ThinkPad 11e G4,Certified,2028
+Lenovo ThinkPad 11e G5,Certified,2028
+Lenovo ThinkPad E15,Certified,2028
+Lenovo ThinkPad E440,Minor issues expected,2027
+Lenovo ThinkPad E450,Certified,2027
+Lenovo ThinkPad E480,Certified,2028
+Lenovo ThinkPad E531,Certified,2025
+Lenovo ThinkPad E550,Certified,2027
+Lenovo ThinkPad E560,Certified,2027
+Lenovo ThinkPad Edge E430,Certified,2025
+Lenovo ThinkPad Edge E530,Certified,2025
+Lenovo ThinkPad L420,Certified,2024
+Lenovo ThinkPad L430,Minor issues expected,2025
+Lenovo ThinkPad L440,Certified,2026
+Lenovo ThinkPad L460,Certified,2027
+Lenovo ThinkPad L480,Certified,2028
+Lenovo ThinkPad T14 Gen 1,Certified,2028
+Lenovo ThinkPad T14s Gen 1,Certified,2030
+Lenovo ThinkPad T410,Certified,2023
+Lenovo ThinkPad T420,Minor issues expected,2024
+Lenovo ThinkPad T430,Certified,2025
+Lenovo ThinkPad T430u,Certified,2025
+Lenovo ThinkPad T440p,Minor issues expected,2026
+Lenovo ThinkPad T460,Certified,2027
+Lenovo ThinkPad T470s,Certified,2028
+Lenovo ThinkPad T480,Certified,2028
+Lenovo ThinkPad T490,Certified,2028
+Lenovo ThinkPad T510,Certified,2023
+Lenovo ThinkPad T530,Certified,2025
+Lenovo ThinkPad T570,Certified,2028
+Lenovo ThinkPad T590,Certified,2028
+Lenovo ThinkPad X1 Carbon 1st Gen,Certified,2025
+Lenovo ThinkPad X1 Carbon 2nd Gen,Certified,2026
+Lenovo ThinkPad X1 Carbon 3rd Gen,Certified,2027
+Lenovo ThinkPad X1 Carbon 4th Gen,Certified,2027
+Lenovo ThinkPad X1 Carbon 5th Gen,Certified,2027
+Lenovo ThinkPad X1 Carbon 6th Gen,Certified,2028
+Lenovo ThinkPad X1 Carbon 7th Gen,Certified,2028
+Lenovo ThinkPad X1 Carbon 8th Gen,Certified,2028
+Lenovo ThinkPad X1 Carbon 9th Gen,Certified,2030
+Lenovo ThinkPad X140e,Certified,2026
+Lenovo ThinkPad X230,Certified,2025
+Lenovo ThinkPad X240,Certified,2026
+Lenovo ThinkPad X250,Certified,2027
+Lenovo ThinkPad X260,Certified,2027
+Lenovo ThinkPad Yoga 11e G1,Certified,2026
+Lenovo ThinkPad Yoga 11e G2,Certified,2027
+Lenovo ThinkPad Yoga 11e G3,Certified,2028
+Lenovo ThinkPad Yoga 11e G4,Certified,2028
+Lenovo ThinkPad Yoga 11e G5,Certified,2028
+Lenovo ThinkPad Yoga 11e G6,Certified,2028
+Lenovo ThinkPad Yoga L390,Certified,2028
+Lenovo ThinkPad x201,Certified,2023
+Lenovo ThinkPad x201T Tablet,Certified,2023
+Lenovo ThinkPad x220,Certified,2024
+Lenovo ThinkPad x270,Certified,2027
+Lenovo ThinkPad x280,Certified,2028
+Lenovo ThinkPad x380,Certified,2028
+Lenovo Thinkcentre M800Z,Certified,2027
+Lenovo Thinkpad E14 Gen 1,Certified,2028
+Lenovo Thinkpad E14 Gen 2,Certified,2030
+Lenovo Thinkpad T450,Certified,2027
+Lenovo Thinkpad T540p,Certified,2026
+Lenovo Thinkpad T560,Certified,2027
+Lenovo V330-20ICB AIO,Certified,2028
+Lenovo v310z AiO,Certified,2028
+Microsoft Surface Laptop SE,Certified,2028
+Microsoft Surface Pro 3,Minor issues expected,2026
+Minisforum N36 Mini PC,Certified,2027
+Minisforum S41,Certified,2028
+Panasonic Toughbook FZ55,Certified,2028
+Toshiba Portege Z30-C,Certified,2027
+Toshiba Satellite C55-B,Certified,2026
+Toshiba Satellite Pro A30-D,Certified,2028
+Toshiba Satellite Pro R50-B,Certified,2026
+Toshiba Satellite Pro R50-C,Certified,2027
+Toshiba Tecra A40-C,Certified,2027
+Toshiba Tecra C40-C,Certified,2027
+Zotac MA761,Certified,2026
+Zotac ZBOX AQ01 PLUS,Certified,2026
+Zotac ZBOX CI320 nano,Certified,2026
+Zotac ZBOX CI327,Certified,2028
+Zotac ZBOX CI329 nano,Certified,2028
+Zotac ZBOX MA760,Certified,2027
+Zotac ZBOX PI335 Pico,Minor issues expected,2028
+Zotac ZBOX PRO CI342GL,Certified,2029
+Zotac ZBOX PRO PI336GL Series (SparkLan),Certified,2029
