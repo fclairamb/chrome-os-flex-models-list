@@ -27,6 +27,7 @@ Acer Travelmate B113-E,Certified,2027
 Acer Travelmate B113-M,Certified,2024
 Acer Veriton L4630G,Certified,2026
 Advantech ARK-DS520,Minor issues expected,2023
+Advantech DS-085,Certified,2030
 Advantech DS-570,Minor issues expected,2026
 Advantech UTC-520F,Certified,2027
 "Apple Mac Mini 7,1",Certified,2026
@@ -38,6 +39,7 @@ Advantech UTC-520F,Certified,2027
 "Apple Macbook Pro 9,2",Certified,2025
 "Apple iMac 11,2",Certified,2024
 "Apple iMac 12,1",Minor issues expected,2024
+Cybernet Cybermed T10C,Certified,2025
 Dell Inspiron 15 3531,Certified,2026
 Dell Inspiron 3280 AiO,Certified,2028
 Dell Inspiron 3501,Certified,2030
@@ -49,7 +51,7 @@ Dell Latitude 3180,Certified,2028
 Dell Latitude 3189,Certified,2027
 Dell Latitude 3190,Certified,2028
 Dell Latitude 3190 2-in-1,Certified,2028
-Dell Latitude 3300,Minor issues expected,2028
+Dell Latitude 3300,Certified,2028
 Dell Latitude 3330,Certified,2025
 Dell Latitude 3340,Certified,2026
 Dell Latitude 3350,Certified,2027
@@ -103,9 +105,9 @@ Dell Latitude E7440,Certified,2026
 Dell Latitude E7450,Certified,2027
 Dell Latitude E7470,Certified,2027
 Dell OptiPlex 3030 AiO,Certified,2026
-Dell OptiPlex 3090,Certified,2028
 Dell OptiPlex 3240 AIO,Certified,2027
 Dell OptiPlex 5050,Certified,2027
+Dell Optiplex 3000 Thin Client,Certified,2029
 Dell Optiplex 3010,Certified,2025
 Dell Optiplex 3011 AiO,Certified,2025
 Dell Optiplex 3020,Certified,2026
@@ -115,6 +117,7 @@ Dell Optiplex 3050,Certified,2028
 Dell Optiplex 3060,Certified,2028
 Dell Optiplex 3070,Certified,2028
 Dell Optiplex 3080,Certified,2028
+Dell Optiplex 3090,Certified,2028
 Dell Optiplex 3280 AiO,Certified,2028
 Dell Optiplex 390,Certified,2024
 Dell Optiplex 5000,Certified,2030
@@ -122,6 +125,7 @@ Dell Optiplex 5040,Certified,2027
 Dell Optiplex 5060,Certified,2028
 Dell Optiplex 5070,Certified,2028
 Dell Optiplex 5080,Certified,2028
+Dell Optiplex 5090,Certified,2029
 Dell Optiplex 5250 AIO,Certified,2028
 Dell Optiplex 5270 AIO,Certified,2028
 Dell Optiplex 5480 AIO,Certified,2028
@@ -133,6 +137,7 @@ Dell Optiplex 7050,Certified,2027
 Dell Optiplex 7060,Certified,2028
 Dell Optiplex 7070,Certified,2028
 Dell Optiplex 7080,Certified,2028
+Dell Optiplex 7440 AIO,Certified,2027
 Dell Optiplex 7450 AIO,Certified,2028
 Dell Optiplex 790,Certified,2024
 Dell Optiplex 9010,Certified,2025
@@ -147,15 +152,17 @@ Dell Vostro 230,Certified,2022
 Dell Vostro 3470,Certified,2028
 Dell Vostro 3550,Certified,2024
 Dell Vostro 3560,Certified,2025
+Dell Vostro 3671,Certified,2028
 Dell Wyse 5060 Thin Client,Certified,2027
 Dell Wyse 5070 Thin Client,Certified,2028
-Dell Wyse 5070 Thin Client Extended Chassis,Major Issues,2029
+Dell Wyse 5070 Thin Client Extended Chassis,Certified,2028
 Dell Wyse 5470 Mobile Thin Client,Certified,2028
 Dell Wyse 7020 Thin Client,Certified,2027
 Dell XPS 13 2-in-1 9365,Certified,2028
 Dell XPS 13 9300,Certified,2029
 Dell XPS 13 9310,Certified,2030
 Dell XPS 13 9380,Certified,2028
+ECS LIVA Q2,Certified,2028
 Elo 19M2 Rev A,Certified,2024
 Fujitsu Futro s720 Thin Client,Certified,2027
 Fujitsu Lifebook A574/H,Certified,2026
@@ -226,8 +233,9 @@ HP ProOne 400 G2 AIO,Certified,2027
 HP ProOne 400 G3 AIO,Certified,2027
 HP ProOne 400 G4 AIO,Certified,2028
 HP ProOne 400 G5 AIO,Certified,2028
-HP ProOne 400 G6,Certified,2028
+HP ProOne 400 G6 AIO,Certified,2028
 HP ProOne 600 G1 AIO,Certified,2026
+HP ProOne 600 G6 AIO,Certified,2028
 HP Probook 11 EE G1,Certified,2027
 HP Probook 11 G2,Certified,2027
 HP Probook 430 G3,Certified,2027
@@ -293,6 +301,7 @@ Intel NUC NUC8i7BEH,Certified,2028
 Justice Tech Securebook 5.0,Minor issues expected,2028
 LG 14ZT980 Mobile Thin Client,Certified,2028
 LG Gram 15Z995,Certified,2028
+LG 27KC3PJ,Certified,2029
 Lenovo 100e 2nd Gen (Intel),Certified,2028
 Lenovo 14w Gen 1,Certified,2029
 Lenovo 300e 1st Gen,Certified,2028
@@ -308,6 +317,8 @@ Lenovo ThinkCentre M600,Certified,2027
 Lenovo ThinkCentre M625q,Certified,2028
 Lenovo ThinkCentre M700,Certified,2027
 Lenovo ThinkCentre M70q,Certified,2028
+Lenovo ThinkCentre M70q Gen 2,Certified,2030
+Lenovo ThinkCentre M70q Gen 3,Certified,2030
 Lenovo ThinkCentre M710q,Certified,2027
 Lenovo ThinkCentre M71e,Certified,2024
 Lenovo ThinkCentre M720q,Certified,2028
@@ -315,6 +326,7 @@ Lenovo ThinkCentre M72e,Certified,2025
 Lenovo ThinkCentre M72z All in One,Certified,2025
 Lenovo ThinkCentre M73,Certified,2026
 Lenovo ThinkCentre M73z,Certified,2026
+Lenovo ThinkCentre M75n,Certified,2030
 Lenovo ThinkCentre M77,Certified,2023
 Lenovo ThinkCentre M78,Certified,2025
 Lenovo ThinkCentre M800,Certified,2027
@@ -334,7 +346,7 @@ Lenovo ThinkPad 11e G3,Certified,2027
 Lenovo ThinkPad 11e G4,Certified,2028
 Lenovo ThinkPad 11e G5,Certified,2028
 Lenovo ThinkPad E15,Certified,2028
-Lenovo ThinkPad E440,Minor issues expected,2027
+Lenovo ThinkPad E440,Certified,2027
 Lenovo ThinkPad E450,Certified,2027
 Lenovo ThinkPad E480,Certified,2028
 Lenovo ThinkPad E531,Certified,2025
@@ -343,17 +355,17 @@ Lenovo ThinkPad E560,Certified,2027
 Lenovo ThinkPad Edge E430,Certified,2025
 Lenovo ThinkPad Edge E530,Certified,2025
 Lenovo ThinkPad L420,Certified,2024
-Lenovo ThinkPad L430,Minor issues expected,2025
+Lenovo ThinkPad L430,Certified,2025
 Lenovo ThinkPad L440,Certified,2026
 Lenovo ThinkPad L460,Certified,2027
 Lenovo ThinkPad L480,Certified,2028
 Lenovo ThinkPad T14 Gen 1,Certified,2028
 Lenovo ThinkPad T14s Gen 1,Certified,2030
 Lenovo ThinkPad T410,Certified,2023
-Lenovo ThinkPad T420,Minor issues expected,2024
+Lenovo ThinkPad T420,Certified,2024
 Lenovo ThinkPad T430,Certified,2025
 Lenovo ThinkPad T430u,Certified,2025
-Lenovo ThinkPad T440p,Minor issues expected,2026
+Lenovo ThinkPad T440p,Certified,2026
 Lenovo ThinkPad T460,Certified,2027
 Lenovo ThinkPad T470s,Certified,2028
 Lenovo ThinkPad T480,Certified,2028
@@ -401,6 +413,7 @@ Microsoft Surface Laptop SE,Certified,2028
 Microsoft Surface Pro 3,Minor issues expected,2026
 Minisforum N36 Mini PC,Certified,2027
 Minisforum S41,Certified,2028
+Naver Whalebook,Certified,2028
 Panasonic Toughbook FZ55,Certified,2028
 Toshiba Portege Z30-C,Certified,2027
 Toshiba Satellite C55-B,Certified,2026

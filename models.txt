@@ -25,6 +25,7 @@ Acer TravelMate Spin B118-RN
 Acer Travelmate B113-E
 Acer Travelmate B113-M
 Acer Veriton L4630G
+Advantech DS-085
 Advantech UTC-520F
 Apple Mac Mini 7,1
 Apple MacBook Air 6,1
@@ -33,6 +34,7 @@ Apple Macbook Air 7,2
 Apple Macbook Pro 11,2
 Apple Macbook Pro 9,2
 Apple iMac 11,2
+Cybernet Cybermed T10C
 Dell Inspiron 15 3531
 Dell Inspiron 3280 AiO
 Dell Inspiron 3501
@@ -44,6 +46,7 @@ Dell Latitude 3180
 Dell Latitude 3189
 Dell Latitude 3190
 Dell Latitude 3190 2-in-1
+Dell Latitude 3300
 Dell Latitude 3330
 Dell Latitude 3340
 Dell Latitude 3350
@@ -95,9 +98,9 @@ Dell Latitude E7440
 Dell Latitude E7450
 Dell Latitude E7470
 Dell OptiPlex 3030 AiO
-Dell OptiPlex 3090
 Dell OptiPlex 3240 AIO
 Dell OptiPlex 5050
+Dell Optiplex 3000 Thin Client
 Dell Optiplex 3010
 Dell Optiplex 3011 AiO
 Dell Optiplex 3020
@@ -107,6 +110,7 @@ Dell Optiplex 3050
 Dell Optiplex 3060
 Dell Optiplex 3070
 Dell Optiplex 3080
+Dell Optiplex 3090
 Dell Optiplex 3280 AiO
 Dell Optiplex 390
 Dell Optiplex 5000
@@ -114,6 +118,7 @@ Dell Optiplex 5040
 Dell Optiplex 5060
 Dell Optiplex 5070
 Dell Optiplex 5080
+Dell Optiplex 5090
 Dell Optiplex 5250 AIO
 Dell Optiplex 5270 AIO
 Dell Optiplex 5480 AIO
@@ -125,6 +130,7 @@ Dell Optiplex 7050
 Dell Optiplex 7060
 Dell Optiplex 7070
 Dell Optiplex 7080
+Dell Optiplex 7440 AIO
 Dell Optiplex 7450 AIO
 Dell Optiplex 790
 Dell Optiplex 9010
@@ -139,14 +145,17 @@ Dell Vostro 230
 Dell Vostro 3470
 Dell Vostro 3550
 Dell Vostro 3560
+Dell Vostro 3671
 Dell Wyse 5060 Thin Client
 Dell Wyse 5070 Thin Client
+Dell Wyse 5070 Thin Client Extended Chassis
 Dell Wyse 5470 Mobile Thin Client
 Dell Wyse 7020 Thin Client
 Dell XPS 13 2-in-1 9365
 Dell XPS 13 9300
 Dell XPS 13 9310
 Dell XPS 13 9380
+ECS LIVA Q2
 Elo 19M2 Rev A
 Fujitsu Futro s720 Thin Client
 Fujitsu Lifebook A574/H
@@ -217,8 +226,9 @@ HP ProOne 400 G2 AIO
 HP ProOne 400 G3 AIO
 HP ProOne 400 G4 AIO
 HP ProOne 400 G5 AIO
-HP ProOne 400 G6
+HP ProOne 400 G6 AIO
 HP ProOne 600 G1 AIO
+HP ProOne 600 G6 AIO
 HP Probook 11 EE G1
 HP Probook 11 G2
 HP Probook 430 G3
@@ -283,6 +293,7 @@ Intel NUC NUC8i5BEH
 Intel NUC NUC8i7BEH
 LG 14ZT980 Mobile Thin Client
 LG Gram 15Z995
+LG 27KC3PJ
 Lenovo 100e 2nd Gen (Intel)
 Lenovo 14w Gen 1
 Lenovo 300e 1st Gen
@@ -298,6 +309,8 @@ Lenovo ThinkCentre M600
 Lenovo ThinkCentre M625q
 Lenovo ThinkCentre M700
 Lenovo ThinkCentre M70q
+Lenovo ThinkCentre M70q Gen 2
+Lenovo ThinkCentre M70q Gen 3
 Lenovo ThinkCentre M710q
 Lenovo ThinkCentre M71e
 Lenovo ThinkCentre M720q
@@ -305,6 +318,7 @@ Lenovo ThinkCentre M72e
 Lenovo ThinkCentre M72z All in One
 Lenovo ThinkCentre M73
 Lenovo ThinkCentre M73z
+Lenovo ThinkCentre M75n
 Lenovo ThinkCentre M77
 Lenovo ThinkCentre M78
 Lenovo ThinkCentre M800
@@ -324,6 +338,7 @@ Lenovo ThinkPad 11e G3
 Lenovo ThinkPad 11e G4
 Lenovo ThinkPad 11e G5
 Lenovo ThinkPad E15
+Lenovo ThinkPad E440
 Lenovo ThinkPad E450
 Lenovo ThinkPad E480
 Lenovo ThinkPad E531
@@ -332,14 +347,17 @@ Lenovo ThinkPad E560
 Lenovo ThinkPad Edge E430
 Lenovo ThinkPad Edge E530
 Lenovo ThinkPad L420
+Lenovo ThinkPad L430
 Lenovo ThinkPad L440
 Lenovo ThinkPad L460
 Lenovo ThinkPad L480
 Lenovo ThinkPad T14 Gen 1
 Lenovo ThinkPad T14s Gen 1
 Lenovo ThinkPad T410
+Lenovo ThinkPad T420
 Lenovo ThinkPad T430
 Lenovo ThinkPad T430u
+Lenovo ThinkPad T440p
 Lenovo ThinkPad T460
 Lenovo ThinkPad T470s
 Lenovo ThinkPad T480
@@ -386,6 +404,7 @@ Lenovo v310z AiO
 Microsoft Surface Laptop SE
 Minisforum N36 Mini PC
 Minisforum S41
+Naver Whalebook
 Panasonic Toughbook FZ55
 Toshiba Portege Z30-C
 Toshiba Satellite C55-B
