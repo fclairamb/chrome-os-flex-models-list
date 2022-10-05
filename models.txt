@@ -166,6 +166,7 @@ HP 215 G1
 HP 255 G7
 HP 255 G7 (Ryzen)
 HP 3115m
+HP 3125 Notebook
 HP 630
 HP Compaq 6000 Pro
 HP Compaq 6005 Pro
