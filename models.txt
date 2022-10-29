@@ -163,8 +163,8 @@ Fujitsu Lifebook A743/G
 Fujitsu Lifebook T726
 HP 20-r013 AiO
 HP 215 G1
-HP 255 G7
-HP 255 G7 (Ryzen)
+HP 255 G7 (AMD)
+HP 255 G7 (Intel)
 HP 3115m
 HP 3125 Notebook
 HP 630
@@ -352,7 +352,7 @@ Lenovo ThinkPad L430
 Lenovo ThinkPad L440
 Lenovo ThinkPad L460
 Lenovo ThinkPad L480
-Lenovo ThinkPad T14 Gen 1
+Lenovo ThinkPad T14 Gen 1 (Intel)
 Lenovo ThinkPad T14s Gen 1
 Lenovo ThinkPad T410
 Lenovo ThinkPad T420
@@ -393,7 +393,7 @@ Lenovo ThinkPad x201T Tablet
 Lenovo ThinkPad x220
 Lenovo ThinkPad x270
 Lenovo ThinkPad x280
-Lenovo ThinkPad x380
+Lenovo ThinkPad x380 Yoga
 Lenovo Thinkcentre M800Z
 Lenovo Thinkpad E14 Gen 1
 Lenovo Thinkpad E14 Gen 2

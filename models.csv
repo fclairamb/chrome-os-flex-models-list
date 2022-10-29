@@ -170,8 +170,8 @@ Fujitsu Lifebook A743/G,Certified,2025
 Fujitsu Lifebook T726,Certified,2027
 HP 20-r013 AiO,Certified,2027
 HP 215 G1,Certified,2027
-HP 255 G7,Certified,2028
-HP 255 G7 (Ryzen),Certified,2030
+HP 255 G7 (AMD),Certified,2030
+HP 255 G7 (Intel),Certified,2028
 HP 3115m,Certified,2024
 HP 3125 Notebook,Certified,2024
 HP 630,Certified,2023
@@ -360,7 +360,7 @@ Lenovo ThinkPad L430,Certified,2025
 Lenovo ThinkPad L440,Certified,2026
 Lenovo ThinkPad L460,Certified,2027
 Lenovo ThinkPad L480,Certified,2028
-Lenovo ThinkPad T14 Gen 1,Certified,2028
+Lenovo ThinkPad T14 Gen 1 (Intel),Certified,2028
 Lenovo ThinkPad T14s Gen 1,Certified,2030
 Lenovo ThinkPad T410,Certified,2023
 Lenovo ThinkPad T420,Certified,2024
@@ -401,7 +401,7 @@ Lenovo ThinkPad x201T Tablet,Certified,2023
 Lenovo ThinkPad x220,Certified,2024
 Lenovo ThinkPad x270,Certified,2027
 Lenovo ThinkPad x280,Certified,2028
-Lenovo ThinkPad x380,Certified,2028
+Lenovo ThinkPad x380 Yoga,Certified,2028
 Lenovo Thinkcentre M800Z,Certified,2027
 Lenovo Thinkpad E14 Gen 1,Certified,2028
 Lenovo Thinkpad E14 Gen 2,Certified,2030
