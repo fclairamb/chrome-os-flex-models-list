@@ -26,6 +26,7 @@ Acer Travelmate B113-E
 Acer Travelmate B113-M
 Acer Veriton L4630G
 Advantech DS-085
+Advantech PPC-3150SW
 Advantech UTC-520F
 Apple Mac Mini 7,1
 Apple MacBook Air 6,1
@@ -156,6 +157,7 @@ Dell XPS 13 9300
 Dell XPS 13 9310
 Dell XPS 13 9380
 ECS LIVA Q2
+ECS Liva X BAT2NBW
 Elo 19M2 Rev A
 Fujitsu Futro s720 Thin Client
 Fujitsu Lifebook A574/H
@@ -229,6 +231,7 @@ HP ProOne 400 G4 AIO
 HP ProOne 400 G5 AIO
 HP ProOne 400 G6 AIO
 HP ProOne 600 G1 AIO
+HP ProOne 600 G2 AIO
 HP ProOne 600 G6 AIO
 HP Probook 11 EE G1
 HP Probook 11 G2
@@ -410,6 +413,7 @@ Panasonic Toughbook FZ55
 Toshiba Portege Z30-C
 Toshiba Satellite C55-B
 Toshiba Satellite Pro A30-D
+Toshiba Satellite Pro A40-D
 Toshiba Satellite Pro R50-B
 Toshiba Satellite Pro R50-C
 Toshiba Tecra A40-C

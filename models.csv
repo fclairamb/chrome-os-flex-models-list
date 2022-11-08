@@ -29,6 +29,7 @@ Acer Veriton L4630G,Certified,2026
 Advantech ARK-DS520,Minor issues expected,2023
 Advantech DS-085,Certified,2030
 Advantech DS-570,Minor issues expected,2026
+Advantech PPC-3150SW,Certified,2028
 Advantech UTC-520F,Certified,2027
 "Apple Mac Mini 7,1",Certified,2026
 "Apple MacBook Air 6,1",Certified,2026
@@ -163,6 +164,7 @@ Dell XPS 13 9300,Certified,2029
 Dell XPS 13 9310,Certified,2030
 Dell XPS 13 9380,Certified,2028
 ECS LIVA Q2,Certified,2028
+ECS Liva X BAT2NBW,Certified,2026
 Elo 19M2 Rev A,Certified,2024
 Fujitsu Futro s720 Thin Client,Certified,2027
 Fujitsu Lifebook A574/H,Certified,2026
@@ -236,6 +238,7 @@ HP ProOne 400 G4 AIO,Certified,2028
 HP ProOne 400 G5 AIO,Certified,2028
 HP ProOne 400 G6 AIO,Certified,2028
 HP ProOne 600 G1 AIO,Certified,2026
+HP ProOne 600 G2 AIO,Certified,2027
 HP ProOne 600 G6 AIO,Certified,2028
 HP Probook 11 EE G1,Certified,2027
 HP Probook 11 G2,Certified,2027
@@ -419,6 +422,7 @@ Panasonic Toughbook FZ55,Certified,2028
 Toshiba Portege Z30-C,Certified,2027
 Toshiba Satellite C55-B,Certified,2026
 Toshiba Satellite Pro A30-D,Certified,2028
+Toshiba Satellite Pro A40-D,Certified,2028
 Toshiba Satellite Pro R50-B,Certified,2026
 Toshiba Satellite Pro R50-C,Certified,2027
 Toshiba Tecra A40-C,Certified,2027
