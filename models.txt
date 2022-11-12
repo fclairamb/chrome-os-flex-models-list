@@ -1,4 +1,6 @@
 AOPEN DE3450
+AOPEN DE3650
+AOPEN DE3650S
 AOPEN DEX5750
 AOpen eTILE 19M AiO
 ASUS EeeBook E402SA
@@ -250,6 +252,7 @@ HP Probook 4530s
 HP Probook 4540s
 HP Probook 455 G2
 HP Probook 455 G3
+HP Probook 640 G1
 HP Probook 6460b
 HP Probook 650 G1
 HP Probook 650 G2
@@ -283,6 +286,7 @@ HP t730 Thin Client
 HP t740 Thin Client
 HP x360 310 G2
 HP Probook 440 G1
+INP i1000BT Thin Client
 Intel Compute Stick STK1AW32SC
 Intel Compute Stick STK2m364CC
 Intel NUC 8 Rugged NUC8CCHK
@@ -295,7 +299,9 @@ Intel NUC NUC6i3SYH
 Intel NUC NUC7i3BNH
 Intel NUC NUC8i5BEH
 Intel NUC NUC8i7BEH
+Justice Tech Securebook 5.0
 LG 14ZT980 Mobile Thin Client
+LG 55CT5WJ
 LG Gram 15Z995
 LG 27KC3PJ
 Lenovo 100e 2nd Gen (Intel)
@@ -410,6 +416,8 @@ Minisforum N36 Mini PC
 Minisforum S41
 Naver Whalebook
 Panasonic Toughbook FZ55
+Satsuki Mirai Touch MP-OPS-FW
+Sharp NEC SDM-VI3W-IS
 Toshiba Portege Z30-C
 Toshiba Satellite C55-B
 Toshiba Satellite Pro A30-D

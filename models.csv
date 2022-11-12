@@ -1,5 +1,7 @@
 Model,Status,Year
 AOPEN DE3450,Certified,2028
+AOPEN DE3650,Certified,2029
+AOPEN DE3650S,Certified,2029
 AOPEN DEX5750,Certified,2030
 AOpen eTILE 19M AiO,Certified,2028
 ASUS EeeBook E402SA,Certified,2029
@@ -257,6 +259,7 @@ HP Probook 4530s,Certified,2024
 HP Probook 4540s,Certified,2025
 HP Probook 455 G2,Certified,2027
 HP Probook 455 G3,Certified,2027
+HP Probook 640 G1,Certified,2026
 HP Probook 6460b,Certified,2024
 HP Probook 650 G1,Certified,2026
 HP Probook 650 G2,Certified,2027
@@ -290,6 +293,7 @@ HP t730 Thin Client,Certified,2027
 HP t740 Thin Client,Certified,2030
 HP x360 310 G2,Certified,2027
 HP Probook 440 G1,Certified,2026
+INP i1000BT Thin Client,Certified,2028
 Intel Compute Stick STK1AW32SC,Certified,2027
 Intel Compute Stick STK2m364CC,Certified,2027
 Intel NUC 8 Rugged NUC8CCHK,Certified,2028
@@ -302,8 +306,9 @@ Intel NUC NUC6i3SYH,Certified,2027
 Intel NUC NUC7i3BNH,Certified,2028
 Intel NUC NUC8i5BEH,Certified,2028
 Intel NUC NUC8i7BEH,Certified,2028
-Justice Tech Securebook 5.0,Minor issues expected,2028
+Justice Tech Securebook 5.0,Certified,2028
 LG 14ZT980 Mobile Thin Client,Certified,2028
+LG 55CT5WJ,Certified,2029
 LG Gram 15Z995,Certified,2028
 LG 27KC3PJ,Certified,2029
 Lenovo 100e 2nd Gen (Intel),Certified,2028
@@ -419,6 +424,8 @@ Minisforum N36 Mini PC,Certified,2027
 Minisforum S41,Certified,2028
 Naver Whalebook,Certified,2028
 Panasonic Toughbook FZ55,Certified,2028
+Satsuki Mirai Touch MP-OPS-FW,Certified,2028
+Sharp NEC SDM-VI3W-IS,Certified,2028
 Toshiba Portege Z30-C,Certified,2027
 Toshiba Satellite C55-B,Certified,2026
 Toshiba Satellite Pro A30-D,Certified,2028
