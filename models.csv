@@ -48,6 +48,7 @@ Dell Inspiron 3280 AiO,Certified,2028
 Dell Inspiron 3501,Certified,2030
 Dell Inspiron 3505,Certified,2030
 Dell Inspiron N5010,Certified,2023
+Dell Latitude 3120,Certified,2029
 Dell Latitude 3150,Certified,2026
 Dell Latitude 3160,Certified,2027
 Dell Latitude 3180,Certified,2028
@@ -316,9 +317,10 @@ Lenovo 14w Gen 1,Certified,2029
 Lenovo 300e 1st Gen,Certified,2028
 Lenovo 300e 2nd Gen,Certified,2028
 Lenovo B590,Certified,2025
+Lenovo E40-80,Certified,2027
 Lenovo IdeaPad S145,Certified,2028
 Lenovo N22,Certified,2027
-Lenovo N23,Certified,2027
+Lenovo N23 (Windows),Certified,2027
 Lenovo N24,Certified,2028
 Lenovo ThinkCentre E73,Certified,2026
 Lenovo ThinkCentre M53,Certified,2026
@@ -369,7 +371,8 @@ Lenovo ThinkPad L440,Certified,2026
 Lenovo ThinkPad L460,Certified,2027
 Lenovo ThinkPad L480,Certified,2028
 Lenovo ThinkPad T14 Gen 1 (Intel),Certified,2028
-Lenovo ThinkPad T14s Gen 1,Certified,2030
+Lenovo ThinkPad T14s Gen 1 (AMD),Certified,2030
+Lenovo ThinkPad T15 Gen 2,Certified,2030
 Lenovo ThinkPad T410,Certified,2023
 Lenovo ThinkPad T420,Certified,2024
 Lenovo ThinkPad T430,Certified,2025
@@ -443,3 +446,4 @@ Zotac ZBOX MA760,Certified,2027
 Zotac ZBOX PI335 Pico,Minor issues expected,2028
 Zotac ZBOX PRO CI342GL,Certified,2029
 Zotac ZBOX PRO PI336GL Series (SparkLan),Certified,2029
+Zotac ZP-CI342-AUS,Certified,2029

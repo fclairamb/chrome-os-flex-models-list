@@ -43,6 +43,7 @@ Dell Inspiron 3280 AiO
 Dell Inspiron 3501
 Dell Inspiron 3505
 Dell Inspiron N5010
+Dell Latitude 3120
 Dell Latitude 3150
 Dell Latitude 3160
 Dell Latitude 3180
@@ -309,9 +310,10 @@ Lenovo 14w Gen 1
 Lenovo 300e 1st Gen
 Lenovo 300e 2nd Gen
 Lenovo B590
+Lenovo E40-80
 Lenovo IdeaPad S145
 Lenovo N22
-Lenovo N23
+Lenovo N23 (Windows)
 Lenovo N24
 Lenovo ThinkCentre E73
 Lenovo ThinkCentre M53
@@ -362,7 +364,8 @@ Lenovo ThinkPad L440
 Lenovo ThinkPad L460
 Lenovo ThinkPad L480
 Lenovo ThinkPad T14 Gen 1 (Intel)
-Lenovo ThinkPad T14s Gen 1
+Lenovo ThinkPad T14s Gen 1 (AMD)
+Lenovo ThinkPad T15 Gen 2
 Lenovo ThinkPad T410
 Lenovo ThinkPad T420
 Lenovo ThinkPad T430
@@ -434,3 +437,4 @@ Zotac ZBOX CI329 nano
 Zotac ZBOX MA760
 Zotac ZBOX PRO CI342GL
 Zotac ZBOX PRO PI336GL Series (SparkLan)
+Zotac ZP-CI342-AUS
