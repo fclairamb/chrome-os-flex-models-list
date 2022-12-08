@@ -302,9 +302,9 @@ Intel NUC NUC8i5BEH
 Intel NUC NUC8i7BEH
 Justice Tech Securebook 5.0
 LG 14ZT980 Mobile Thin Client
+LG 27KC3PJ
 LG 55CT5WJ
 LG Gram 15Z995
-LG 27KC3PJ
 Lenovo 100e 2nd Gen (Intel)
 Lenovo 14w Gen 1
 Lenovo 300e 1st Gen
