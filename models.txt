@@ -4,6 +4,7 @@ AOPEN DE3650S
 AOPEN DEX5750
 AOpen eTILE 19M AiO
 ASUS EeeBook E402SA
+ASUS Mini PC PN41
 ASUS VivoBook L203MA
 ASUS Vivobook Flip 14 TP401NA
 ASUS X401U
@@ -282,6 +283,7 @@ HP t530 Thin Client
 HP t610 Thin Client
 HP t620 Thin Client
 HP t630 Thin Client
+HP t638 Thin Client
 HP t640 Thin Client
 HP t730 Thin Client
 HP t740 Thin Client
@@ -302,6 +304,7 @@ Intel NUC NUC8i5BEH
 Intel NUC NUC8i7BEH
 Justice Tech Securebook 5.0
 LG 14ZT980 Mobile Thin Client
+LG 24CN670NK6N
 LG 27KC3PJ
 LG 55CT5WJ
 LG Gram 15Z995
@@ -437,4 +440,5 @@ Zotac ZBOX CI329 nano
 Zotac ZBOX MA760
 Zotac ZBOX PRO CI342GL
 Zotac ZBOX PRO PI336GL Series (SparkLan)
+Zotac ZP-CI332-AUS
 Zotac ZP-CI342-AUS

@@ -5,6 +5,7 @@ AOPEN DE3650S,Certified,2029
 AOPEN DEX5750,Certified,2030
 AOpen eTILE 19M AiO,Certified,2028
 ASUS EeeBook E402SA,Certified,2029
+ASUS Mini PC PN41,Certified,2029
 ASUS VivoBook L203MA,Certified,2028
 ASUS Vivobook Flip 14 TP401NA,Certified,2028
 ASUS X401U,Certified,2024
@@ -289,6 +290,7 @@ HP t530 Thin Client,Certified,2028
 HP t610 Thin Client,Certified,2024
 HP t620 Thin Client,Certified,2027
 HP t630 Thin Client,Certified,2028
+HP t638 Thin Client,Certified,2028
 HP t640 Thin Client,Certified,2030
 HP t730 Thin Client,Certified,2027
 HP t740 Thin Client,Certified,2030
@@ -309,6 +311,7 @@ Intel NUC NUC8i5BEH,Certified,2028
 Intel NUC NUC8i7BEH,Certified,2028
 Justice Tech Securebook 5.0,Certified,2028
 LG 14ZT980 Mobile Thin Client,Certified,2028
+LG 24CN670NK6N,Certified,2028
 LG 27KC3PJ,Certified,2029
 LG 55CT5WJ,Certified,2029
 LG Gram 15Z995,Certified,2028
@@ -446,4 +449,5 @@ Zotac ZBOX MA760,Certified,2027
 Zotac ZBOX PI335 Pico,Minor issues expected,2028
 Zotac ZBOX PRO CI342GL,Certified,2029
 Zotac ZBOX PRO PI336GL Series (SparkLan),Certified,2029
+Zotac ZP-CI332-AUS,Certified,2029
 Zotac ZP-CI342-AUS,Certified,2029
