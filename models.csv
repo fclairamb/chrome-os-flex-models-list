@@ -43,6 +43,7 @@ Advantech UTC-520F,Certified,2027
 "Apple Macbook Pro 9,2",Certified,2025
 "Apple iMac 11,2",Certified,2024
 "Apple iMac 12,1",Minor issues expected,2024
+Azulle Access 4,Certified,2028
 Cybernet Cybermed T10C,Certified,2025
 Dell Inspiron 15 3531,Certified,2026
 Dell Inspiron 3280 AiO,Certified,2028
@@ -79,6 +80,7 @@ Dell Latitude 5400,Certified,2028
 Dell Latitude 5420,Certified,2030
 Dell Latitude 5480,Certified,2028
 Dell Latitude 5500,Certified,2028
+Dell Latitude 5510,Certified,2028
 Dell Latitude 5580,Certified,2028
 Dell Latitude 5590,Certified,2028
 Dell Latitude 7280,Certified,2027
@@ -425,12 +427,13 @@ Lenovo Thinkpad T560,Certified,2027
 Lenovo V330-20ICB AIO,Certified,2028
 Lenovo v310z AiO,Certified,2028
 Microsoft Surface Laptop SE,Certified,2028
-Microsoft Surface Pro 3,Minor issues expected,2026
+Microsoft Surface Pro 3,Certified,2026
 Minisforum N36 Mini PC,Certified,2027
 Minisforum S41,Certified,2028
 Naver Whalebook,Certified,2028
 Panasonic Toughbook FZ55,Certified,2028
 Satsuki Mirai Touch MP-OPS-FW,Certified,2028
+Seneca Element MP USFS-05,Certified,2029
 Sharp NEC SDM-VI3W-IS,Certified,2028
 Toshiba Portege Z30-C,Certified,2027
 Toshiba Satellite C55-B,Certified,2026

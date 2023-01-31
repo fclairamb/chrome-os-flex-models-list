@@ -38,6 +38,7 @@ Apple Macbook Air 7,2
 Apple Macbook Pro 11,2
 Apple Macbook Pro 9,2
 Apple iMac 11,2
+Azulle Access 4
 Cybernet Cybermed T10C
 Dell Inspiron 15 3531
 Dell Inspiron 3280 AiO
@@ -74,6 +75,7 @@ Dell Latitude 5400
 Dell Latitude 5420
 Dell Latitude 5480
 Dell Latitude 5500
+Dell Latitude 5510
 Dell Latitude 5580
 Dell Latitude 5590
 Dell Latitude 7280
@@ -418,11 +420,13 @@ Lenovo Thinkpad T560
 Lenovo V330-20ICB AIO
 Lenovo v310z AiO
 Microsoft Surface Laptop SE
+Microsoft Surface Pro 3
 Minisforum N36 Mini PC
 Minisforum S41
 Naver Whalebook
 Panasonic Toughbook FZ55
 Satsuki Mirai Touch MP-OPS-FW
+Seneca Element MP USFS-05
 Sharp NEC SDM-VI3W-IS
 Toshiba Portege Z30-C
 Toshiba Satellite C55-B
