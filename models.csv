@@ -3,14 +3,14 @@ AOPEN DE3450,Certified,2028
 AOPEN DE3650,Certified,2029
 AOPEN DE3650S,Certified,2029
 AOPEN DEX5750,Certified,2030
-AOpen eTILE 19M AiO,Certified,2028
+AOpen eTILE 19M AIO,Certified,2028
 ASUS EeeBook E402SA,Certified,2029
 ASUS Mini PC PN41,Certified,2029
 ASUS VivoBook L203MA,Certified,2028
 ASUS Vivobook Flip 14 TP401NA,Certified,2028
 ASUS X401U,Certified,2024
 ASUS X55C,Certified,2024
-ASUS Zenbook Flip X360CA,Certified,2027
+ASUS Zenbook Flip UX360CA,Certified,2027
 ASUS x200m,Certified,2026
 Acer Aspire 3 A315,Certified,2030
 Acer Aspire E3-111,Certified,2026
@@ -31,7 +31,7 @@ Acer Travelmate B113-M,Certified,2024
 Acer Veriton L4630G,Certified,2026
 Advantech ARK-DS520,Minor issues expected,2023
 Advantech DS-085,Certified,2030
-Advantech DS-570,Minor issues expected,2026
+Advantech DS-570,Certified,2026
 Advantech PPC-3150SW,Certified,2028
 Advantech UTC-520F,Certified,2027
 "Apple Mac Mini 7,1",Certified,2026
@@ -46,7 +46,7 @@ Advantech UTC-520F,Certified,2027
 Azulle Access 4,Certified,2028
 Cybernet Cybermed T10C,Certified,2025
 Dell Inspiron 15 3531,Certified,2026
-Dell Inspiron 3280 AiO,Certified,2028
+Dell Inspiron 3280 AIO,Certified,2028
 Dell Inspiron 3501,Certified,2030
 Dell Inspiron 3505,Certified,2030
 Dell Inspiron N5010,Certified,2023
@@ -75,7 +75,7 @@ Dell Latitude 3490,Certified,2028
 Dell Latitude 3510,Certified,2028
 Dell Latitude 5290,Certified,2028
 Dell Latitude 5290 2-in-1,Certified,2028
-Dell Latitude 5300 2-in1,Certified,2028
+Dell Latitude 5300 2-in-1,Certified,2028
 Dell Latitude 5400,Certified,2028
 Dell Latitude 5420,Certified,2030
 Dell Latitude 5480,Certified,2028
@@ -111,12 +111,12 @@ Dell Latitude E7270,Certified,2027
 Dell Latitude E7440,Certified,2026
 Dell Latitude E7450,Certified,2027
 Dell Latitude E7470,Certified,2027
-Dell OptiPlex 3030 AiO,Certified,2026
+Dell OptiPlex 3030 AIO,Certified,2026
 Dell OptiPlex 3240 AIO,Certified,2027
 Dell OptiPlex 5050,Certified,2027
 Dell Optiplex 3000 Thin Client,Certified,2029
 Dell Optiplex 3010,Certified,2025
-Dell Optiplex 3011 AiO,Certified,2025
+Dell Optiplex 3011 AIO,Certified,2025
 Dell Optiplex 3020,Certified,2026
 Dell Optiplex 3040,Certified,2027
 Dell Optiplex 3046,Certified,2027
@@ -125,7 +125,7 @@ Dell Optiplex 3060,Certified,2028
 Dell Optiplex 3070,Certified,2028
 Dell Optiplex 3080,Certified,2028
 Dell Optiplex 3090,Certified,2028
-Dell Optiplex 3280 AiO,Certified,2028
+Dell Optiplex 3280 AIO,Certified,2028
 Dell Optiplex 390,Certified,2024
 Dell Optiplex 5000,Certified,2030
 Dell Optiplex 5040,Certified,2027
@@ -153,9 +153,9 @@ Dell Optiplex 9020 AIO,Certified,2026
 Dell Optiplex 9030 AIO,Certified,2026
 Dell Optiplex 980,Certified,2023
 Dell Optiplex 990,Certified,2024
-Dell Vostro 1220,Certified,2022
+Dell Vostro 1220,Decertified,2022
 Dell Vostro 15 3568,Certified,2028
-Dell Vostro 230,Certified,2022
+Dell Vostro 230,Decertified,2022
 Dell Vostro 3470,Certified,2028
 Dell Vostro 3550,Certified,2024
 Dell Vostro 3560,Certified,2025
@@ -176,14 +176,14 @@ Fujitsu Futro s720 Thin Client,Certified,2027
 Fujitsu Lifebook A574/H,Certified,2026
 Fujitsu Lifebook A743/G,Certified,2025
 Fujitsu Lifebook T726,Certified,2027
-HP 20-r013 AiO,Certified,2027
+HP 20-r013 AIO,Certified,2027
 HP 215 G1,Certified,2027
 HP 255 G7 (AMD),Certified,2030
 HP 255 G7 (Intel),Certified,2028
 HP 3115m,Certified,2024
 HP 3125 Notebook,Certified,2024
 HP 630,Certified,2023
-HP Compaq 6000 Pro,Certified,2022
+HP Compaq 6000 Pro,Decertified,2022
 HP Compaq 6005 Pro,Certified,2023
 HP Compaq 6200 Pro,Certified,2024
 HP Compaq 6300 Pro,Certified,2025
@@ -339,7 +339,7 @@ Lenovo ThinkCentre M710q,Certified,2027
 Lenovo ThinkCentre M71e,Certified,2024
 Lenovo ThinkCentre M720q,Certified,2028
 Lenovo ThinkCentre M72e,Certified,2025
-Lenovo ThinkCentre M72z All in One,Certified,2025
+Lenovo ThinkCentre M72z AIO,Certified,2025
 Lenovo ThinkCentre M73,Certified,2026
 Lenovo ThinkCentre M73z,Certified,2026
 Lenovo ThinkCentre M75n,Certified,2030
@@ -392,9 +392,9 @@ Lenovo ThinkPad T530,Certified,2025
 Lenovo ThinkPad T570,Certified,2028
 Lenovo ThinkPad T590,Certified,2028
 Lenovo ThinkPad X1 Carbon 1st Gen,Certified,2025
-Lenovo ThinkPad X1 Carbon 2nd Gen,Certified,2026
+Lenovo ThinkPad X1 Carbon 2nd Gen,Certified,2026
 Lenovo ThinkPad X1 Carbon 3rd Gen,Certified,2027
-Lenovo ThinkPad X1 Carbon 4th Gen,Certified,2027
+Lenovo ThinkPad X1 Carbon 4th Gen,Certified,2027
 Lenovo ThinkPad X1 Carbon 5th Gen,Certified,2027
 Lenovo ThinkPad X1 Carbon 6th Gen,Certified,2028
 Lenovo ThinkPad X1 Carbon 7th Gen,Certified,2028
@@ -425,7 +425,7 @@ Lenovo Thinkpad T450,Certified,2027
 Lenovo Thinkpad T540p,Certified,2026
 Lenovo Thinkpad T560,Certified,2027
 Lenovo V330-20ICB AIO,Certified,2028
-Lenovo v310z AiO,Certified,2028
+Lenovo v310z AIO,Certified,2028
 Microsoft Surface Laptop SE,Certified,2028
 Microsoft Surface Pro 3,Certified,2026
 Minisforum N36 Mini PC,Certified,2027

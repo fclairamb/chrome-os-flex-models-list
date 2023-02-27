@@ -30,10 +30,10 @@ def get_models_list() -> List[Model]:
         rows = table.find_all('tr')
         for row in rows:
             columns = row.find_all('td')
-            if len(columns) == 3:
+            if len(columns) == 4:
                 model = columns[0].text.strip()
                 status = columns[1].text.strip()
-                year = int(columns[2].text)
+                year = int(columns[3].text)
                 models.append(Model(model, status, year))
     return models
 

@@ -2,14 +2,14 @@ AOPEN DE3450
 AOPEN DE3650
 AOPEN DE3650S
 AOPEN DEX5750
-AOpen eTILE 19M AiO
+AOpen eTILE 19M AIO
 ASUS EeeBook E402SA
 ASUS Mini PC PN41
 ASUS VivoBook L203MA
 ASUS Vivobook Flip 14 TP401NA
 ASUS X401U
 ASUS X55C
-ASUS Zenbook Flip X360CA
+ASUS Zenbook Flip UX360CA
 ASUS x200m
 Acer Aspire 3 A315
 Acer Aspire E3-111
@@ -29,6 +29,7 @@ Acer Travelmate B113-E
 Acer Travelmate B113-M
 Acer Veriton L4630G
 Advantech DS-085
+Advantech DS-570
 Advantech PPC-3150SW
 Advantech UTC-520F
 Apple Mac Mini 7,1
@@ -41,7 +42,7 @@ Apple iMac 11,2
 Azulle Access 4
 Cybernet Cybermed T10C
 Dell Inspiron 15 3531
-Dell Inspiron 3280 AiO
+Dell Inspiron 3280 AIO
 Dell Inspiron 3501
 Dell Inspiron 3505
 Dell Inspiron N5010
@@ -70,7 +71,7 @@ Dell Latitude 3490
 Dell Latitude 3510
 Dell Latitude 5290
 Dell Latitude 5290 2-in-1
-Dell Latitude 5300 2-in1
+Dell Latitude 5300 2-in-1
 Dell Latitude 5400
 Dell Latitude 5420
 Dell Latitude 5480
@@ -104,12 +105,12 @@ Dell Latitude E7270
 Dell Latitude E7440
 Dell Latitude E7450
 Dell Latitude E7470
-Dell OptiPlex 3030 AiO
+Dell OptiPlex 3030 AIO
 Dell OptiPlex 3240 AIO
 Dell OptiPlex 5050
 Dell Optiplex 3000 Thin Client
 Dell Optiplex 3010
-Dell Optiplex 3011 AiO
+Dell Optiplex 3011 AIO
 Dell Optiplex 3020
 Dell Optiplex 3040
 Dell Optiplex 3046
@@ -118,7 +119,7 @@ Dell Optiplex 3060
 Dell Optiplex 3070
 Dell Optiplex 3080
 Dell Optiplex 3090
-Dell Optiplex 3280 AiO
+Dell Optiplex 3280 AIO
 Dell Optiplex 390
 Dell Optiplex 5000
 Dell Optiplex 5040
@@ -146,9 +147,7 @@ Dell Optiplex 9020 AIO
 Dell Optiplex 9030 AIO
 Dell Optiplex 980
 Dell Optiplex 990
-Dell Vostro 1220
 Dell Vostro 15 3568
-Dell Vostro 230
 Dell Vostro 3470
 Dell Vostro 3550
 Dell Vostro 3560
@@ -169,14 +168,13 @@ Fujitsu Futro s720 Thin Client
 Fujitsu Lifebook A574/H
 Fujitsu Lifebook A743/G
 Fujitsu Lifebook T726
-HP 20-r013 AiO
+HP 20-r013 AIO
 HP 215 G1
 HP 255 G7 (AMD)
 HP 255 G7 (Intel)
 HP 3115m
 HP 3125 Notebook
 HP 630
-HP Compaq 6000 Pro
 HP Compaq 6005 Pro
 HP Compaq 6200 Pro
 HP Compaq 6300 Pro
@@ -332,7 +330,7 @@ Lenovo ThinkCentre M710q
 Lenovo ThinkCentre M71e
 Lenovo ThinkCentre M720q
 Lenovo ThinkCentre M72e
-Lenovo ThinkCentre M72z All in One
+Lenovo ThinkCentre M72z AIO
 Lenovo ThinkCentre M73
 Lenovo ThinkCentre M73z
 Lenovo ThinkCentre M75n
@@ -385,9 +383,9 @@ Lenovo ThinkPad T530
 Lenovo ThinkPad T570
 Lenovo ThinkPad T590
 Lenovo ThinkPad X1 Carbon 1st Gen
-Lenovo ThinkPad X1 Carbon 2nd Gen
+Lenovo ThinkPad X1 Carbon 2nd Gen
 Lenovo ThinkPad X1 Carbon 3rd Gen
-Lenovo ThinkPad X1 Carbon 4th Gen
+Lenovo ThinkPad X1 Carbon 4th Gen
 Lenovo ThinkPad X1 Carbon 5th Gen
 Lenovo ThinkPad X1 Carbon 6th Gen
 Lenovo ThinkPad X1 Carbon 7th Gen
@@ -418,7 +416,7 @@ Lenovo Thinkpad T450
 Lenovo Thinkpad T540p
 Lenovo Thinkpad T560
 Lenovo V330-20ICB AIO
-Lenovo v310z AiO
+Lenovo v310z AIO
 Microsoft Surface Laptop SE
 Microsoft Surface Pro 3
 Minisforum N36 Mini PC
