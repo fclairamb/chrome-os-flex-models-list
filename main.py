@@ -3,16 +3,17 @@
 URL = 'https://support.google.com/chromeosflex/answer/11513094'
 
 import csv
-from typing import List
+from typing import List, Optional
 import bs4
 import requests
 import logging
 
 class Model:
-    def __init__(self, name: str, status: str, year: int):
+    def __init__(self, name: str, status: str, year: int, version: Optional[int]):
         self.name = name
         self.status = status
         self.year = year
+        self.version = version
 
     def __lt__(self, other: 'Model'):
         return self.name < other.name
@@ -33,8 +34,9 @@ def get_models_list() -> List[Model]:
             if len(columns) == 4:
                 model = columns[0].text.strip()
                 status = columns[1].text.strip()
+                version = columns[2].text.strip()
                 year = int(columns[3].text)
-                models.append(Model(model, status, year))
+                models.append(Model(model, status, year, version))
     return models
 
 def write_to_file(models: List[Model]) -> None:
@@ -48,9 +50,9 @@ def write_to_file(models: List[Model]) -> None:
     # We write all models
     with open('models.csv', 'w') as f:
         writer = csv.writer(f)
-        writer.writerow(['Model', 'Status', 'Year'])
+        writer.writerow(['Model', 'Status', 'Certified since version', 'Year'])
         for model in models:
-            writer.writerow([model.name, model.status, model.year])
+            writer.writerow([model.name, model.status, int(model.version) if model.version != '—' else None, model.year])
 
 def main():
     models = get_models_list()
