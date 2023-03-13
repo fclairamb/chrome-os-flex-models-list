@@ -29,6 +29,6 @@ jobs:
       - name: Generate
         run: |
           pipenv run ./main.py
-      - uses: EndBug/add-and-commit@v9.0.0
+      - uses: EndBug/add-and-commit@v9.1.1
         with:
           default_author: github_actions
