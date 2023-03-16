@@ -4,6 +4,7 @@ AOPEN DE3650,Certified,107,2029
 AOPEN DE3650S,Certified,107,2029
 AOPEN DEX5750,Certified,103,2030
 AOpen eTILE 19M AIO,Certified,103,2028
+ASUS BR1100FK,Certified,110,2029
 ASUS EeeBook E402SA,Certified,103,2029
 ASUS Mini PC PN41,Certified,108,2029
 ASUS VivoBook L203MA,Certified,103,2028
@@ -26,13 +27,16 @@ Acer TravelMate P214,Certified,103,2030
 Acer TravelMate P459-G2-M,Certified,103,2028
 Acer TravelMate Spin B118-G2-RN,Certified,103,2028
 Acer TravelMate Spin B118-RN,Certified,103,2028
+Acer TravelMate Spin B3 TMB311R,Certified,110,2028
 Acer Travelmate B113-E,Certified,103,2027
 Acer Travelmate B113-M,Certified,103,2024
 Acer Veriton L4630G,Certified,103,2026
 Advantech ARK-DS520,Minor issues expected,,2023
 Advantech DS-085,Certified,103,2030
+Advantech DS-410,Certified,110,2029
 Advantech DS-570,Certified,103,2026
 Advantech PPC-3150SW,Certified,105,2028
+Advantech UTC-120,Certified,110,2028
 Advantech UTC-520F,Certified,103,2027
 "Apple Mac Mini 7,1",Certified,103,2026
 "Apple MacBook Air 6,1",Certified,103,2026
@@ -174,6 +178,7 @@ ECS Liva X BAT2NBW,Certified,103,2026
 Elo 19M2 Rev A,Certified,103,2024
 Fujitsu Futro s720 Thin Client,Certified,103,2027
 Fujitsu Lifebook A574/H,Certified,103,2026
+Fujitsu Lifebook A576/TX,Certified,110,2027
 Fujitsu Lifebook A743/G,Certified,103,2025
 Fujitsu Lifebook T726,Certified,103,2027
 HP 20-r013 AIO,Certified,103,2027
@@ -327,6 +332,7 @@ Lenovo IdeaPad S145,Certified,103,2028
 Lenovo N22,Certified,103,2027
 Lenovo N23 (Windows),Certified,103,2027
 Lenovo N24,Certified,103,2028
+Lenovo ThinkBook 14 G2,Certified,110,2030
 Lenovo ThinkCentre E73,Certified,103,2026
 Lenovo ThinkCentre M53,Certified,103,2026
 Lenovo ThinkCentre M600,Certified,103,2027
@@ -419,6 +425,7 @@ Lenovo ThinkPad x270,Certified,103,2027
 Lenovo ThinkPad x280,Certified,103,2028
 Lenovo ThinkPad x380 Yoga,Certified,103,2028
 Lenovo Thinkcentre M800Z,Certified,103,2027
+Lenovo Thinkcentre M910q,Certified,110,2027
 Lenovo Thinkpad E14 Gen 1,Certified,103,2028
 Lenovo Thinkpad E14 Gen 2,Certified,103,2030
 Lenovo Thinkpad T450,Certified,103,2027

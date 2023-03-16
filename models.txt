@@ -3,6 +3,7 @@ AOPEN DE3650
 AOPEN DE3650S
 AOPEN DEX5750
 AOpen eTILE 19M AIO
+ASUS BR1100FK
 ASUS EeeBook E402SA
 ASUS Mini PC PN41
 ASUS VivoBook L203MA
@@ -25,12 +26,15 @@ Acer TravelMate P214
 Acer TravelMate P459-G2-M
 Acer TravelMate Spin B118-G2-RN
 Acer TravelMate Spin B118-RN
+Acer TravelMate Spin B3 TMB311R
 Acer Travelmate B113-E
 Acer Travelmate B113-M
 Acer Veriton L4630G
 Advantech DS-085
+Advantech DS-410
 Advantech DS-570
 Advantech PPC-3150SW
+Advantech UTC-120
 Advantech UTC-520F
 Apple Mac Mini 7,1
 Apple MacBook Air 6,1
@@ -166,6 +170,7 @@ ECS Liva X BAT2NBW
 Elo 19M2 Rev A
 Fujitsu Futro s720 Thin Client
 Fujitsu Lifebook A574/H
+Fujitsu Lifebook A576/TX
 Fujitsu Lifebook A743/G
 Fujitsu Lifebook T726
 HP 20-r013 AIO
@@ -318,6 +323,7 @@ Lenovo IdeaPad S145
 Lenovo N22
 Lenovo N23 (Windows)
 Lenovo N24
+Lenovo ThinkBook 14 G2
 Lenovo ThinkCentre E73
 Lenovo ThinkCentre M53
 Lenovo ThinkCentre M600
@@ -410,6 +416,7 @@ Lenovo ThinkPad x270
 Lenovo ThinkPad x280
 Lenovo ThinkPad x380 Yoga
 Lenovo Thinkcentre M800Z
+Lenovo Thinkcentre M910q
 Lenovo Thinkpad E14 Gen 1
 Lenovo Thinkpad E14 Gen 2
 Lenovo Thinkpad T450
