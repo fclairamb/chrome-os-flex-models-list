@@ -4,6 +4,7 @@ AOPEN DE3650,Certified,107,2029
 AOPEN DE3650S,Certified,107,2029
 AOPEN DEX5750,Certified,103,2030
 AOpen eTILE 19M AIO,Certified,103,2028
+ASUS BR1100CKA,Certified,111,2029
 ASUS BR1100FK,Certified,110,2029
 ASUS EeeBook E402SA,Certified,103,2029
 ASUS Mini PC PN41,Certified,108,2029
@@ -30,6 +31,7 @@ Acer TravelMate Spin B118-RN,Certified,103,2028
 Acer TravelMate Spin B3 TMB311R,Certified,110,2028
 Acer Travelmate B113-E,Certified,103,2027
 Acer Travelmate B113-M,Certified,103,2024
+Acer VN4640G,Certified,111,2027
 Acer Veriton L4630G,Certified,103,2026
 Advantech ARK-DS520,Minor issues expected,,2023
 Advantech DS-085,Certified,103,2030
@@ -37,6 +39,7 @@ Advantech DS-410,Certified,110,2029
 Advantech DS-570,Certified,103,2026
 Advantech PPC-3150SW,Certified,105,2028
 Advantech UTC-120,Certified,110,2028
+Advantech UTC-124G3,Certified,111,2028
 Advantech UTC-520F,Certified,103,2027
 "Apple Mac Mini 7,1",Certified,103,2026
 "Apple MacBook Air 6,1",Certified,103,2026
@@ -77,6 +80,7 @@ Dell Latitude 3470,Certified,103,2027
 Dell Latitude 3480,Certified,103,2027
 Dell Latitude 3490,Certified,103,2028
 Dell Latitude 3510,Certified,103,2028
+Dell Latitude 3550,Certified,111,2027
 Dell Latitude 5290,Certified,103,2028
 Dell Latitude 5290 2-in-1,Certified,103,2028
 Dell Latitude 5300 2-in-1,Certified,103,2028
@@ -167,6 +171,7 @@ Dell Vostro 3671,Certified,104,2028
 Dell Wyse 5060 Thin Client,Certified,103,2027
 Dell Wyse 5070 Thin Client,Certified,103,2028
 Dell Wyse 5070 Thin Client Extended Chassis,Certified,103,2028
+Dell Wyse 5470 AIO,Certified,111,2028
 Dell Wyse 5470 Mobile Thin Client,Certified,103,2028
 Dell Wyse 7020 Thin Client,Certified,103,2027
 Dell XPS 13 2-in-1 9365,Certified,103,2028
@@ -176,6 +181,7 @@ Dell XPS 13 9380,Certified,103,2028
 ECS LIVA Q2,Certified,104,2028
 ECS Liva X BAT2NBW,Certified,103,2026
 Elo 19M2 Rev A,Certified,103,2024
+Elo ESY 15i2,Certified,111,2028
 Fujitsu Futro s720 Thin Client,Certified,103,2027
 Fujitsu Lifebook A574/H,Certified,103,2026
 Fujitsu Lifebook A576/TX,Certified,110,2027
@@ -222,6 +228,7 @@ HP Elitebook 8470p,Certified,103,2025
 HP Elitebook Folio 9470m,Certified,103,2025
 HP Elitebook x360 1030 G2,Certified,103,2028
 HP Elitedesk 705 G5,Certified,103,2030
+HP Engage Flex Mini,Certified,111,2028
 HP Engage One Essential AIO,Certified,103,2030
 HP Engage One Pro AIO,Certified,103,2030
 HP Notebook 15-ay015dx,Certified,103,2027
@@ -321,6 +328,7 @@ LG 14ZT980 Mobile Thin Client,Certified,103,2028
 LG 24CN670NK6N,Certified,108,2028
 LG 27KC3PJ,Certified,105,2029
 LG 55CT5WJ,Certified,106,2029
+LG CL600N-6N,Certified,111,2028
 LG Gram 15Z995,Certified,103,2028
 Lenovo 100e 2nd Gen (Intel),Certified,103,2028
 Lenovo 14w Gen 1,Certified,103,2029

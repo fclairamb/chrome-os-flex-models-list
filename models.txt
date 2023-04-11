@@ -3,6 +3,7 @@ AOPEN DE3650
 AOPEN DE3650S
 AOPEN DEX5750
 AOpen eTILE 19M AIO
+ASUS BR1100CKA
 ASUS BR1100FK
 ASUS EeeBook E402SA
 ASUS Mini PC PN41
@@ -29,12 +30,14 @@ Acer TravelMate Spin B118-RN
 Acer TravelMate Spin B3 TMB311R
 Acer Travelmate B113-E
 Acer Travelmate B113-M
+Acer VN4640G
 Acer Veriton L4630G
 Advantech DS-085
 Advantech DS-410
 Advantech DS-570
 Advantech PPC-3150SW
 Advantech UTC-120
+Advantech UTC-124G3
 Advantech UTC-520F
 Apple Mac Mini 7,1
 Apple MacBook Air 6,1
@@ -73,6 +76,7 @@ Dell Latitude 3470
 Dell Latitude 3480
 Dell Latitude 3490
 Dell Latitude 3510
+Dell Latitude 3550
 Dell Latitude 5290
 Dell Latitude 5290 2-in-1
 Dell Latitude 5300 2-in-1
@@ -159,6 +163,7 @@ Dell Vostro 3671
 Dell Wyse 5060 Thin Client
 Dell Wyse 5070 Thin Client
 Dell Wyse 5070 Thin Client Extended Chassis
+Dell Wyse 5470 AIO
 Dell Wyse 5470 Mobile Thin Client
 Dell Wyse 7020 Thin Client
 Dell XPS 13 2-in-1 9365
@@ -168,6 +173,7 @@ Dell XPS 13 9380
 ECS LIVA Q2
 ECS Liva X BAT2NBW
 Elo 19M2 Rev A
+Elo ESY 15i2
 Fujitsu Futro s720 Thin Client
 Fujitsu Lifebook A574/H
 Fujitsu Lifebook A576/TX
@@ -213,6 +219,7 @@ HP Elitebook 8470p
 HP Elitebook Folio 9470m
 HP Elitebook x360 1030 G2
 HP Elitedesk 705 G5
+HP Engage Flex Mini
 HP Engage One Essential AIO
 HP Engage One Pro AIO
 HP Notebook 15-ay015dx
@@ -312,6 +319,7 @@ LG 14ZT980 Mobile Thin Client
 LG 24CN670NK6N
 LG 27KC3PJ
 LG 55CT5WJ
+LG CL600N-6N
 LG Gram 15Z995
 Lenovo 100e 2nd Gen (Intel)
 Lenovo 14w Gen 1
