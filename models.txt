@@ -324,7 +324,7 @@ LG Gram 15Z995
 Lenovo 100e 2nd Gen (Intel)
 Lenovo 14w Gen 1
 Lenovo 300e 1st Gen
-Lenovo 300e 2nd Gen
+Lenovo 300e 2nd Gen (Intel)
 Lenovo B590
 Lenovo E40-80
 Lenovo IdeaPad S145
