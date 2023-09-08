@@ -2,10 +2,12 @@ AOPEN DE3450
 AOPEN DE3650
 AOPEN DE3650S
 AOPEN DEX5750
-AOpen eTILE 19M AIO
+AOPEN eTILE 15M-FP2
+AOPEN eTILE 19M AIO
 ASUS BR1100CKA
 ASUS BR1100FK
 ASUS EeeBook E402SA
+ASUS ExpertCenter E5 24 AiO
 ASUS Mini PC PN41
 ASUS VivoBook L203MA
 ASUS Vivobook Flip 14 TP401NA
@@ -47,6 +49,7 @@ Apple Macbook Pro 11,2
 Apple Macbook Pro 9,2
 Apple iMac 11,2
 Azulle Access 4
+Beelink Mini S N5095
 Cybernet Cybermed T10C
 Dell Inspiron 15 3531
 Dell Inspiron 3280 AIO
@@ -61,6 +64,7 @@ Dell Latitude 3189
 Dell Latitude 3190
 Dell Latitude 3190 2-in-1
 Dell Latitude 3300
+Dell Latitude 3310
 Dell Latitude 3330
 Dell Latitude 3340
 Dell Latitude 3350
@@ -93,6 +97,8 @@ Dell Latitude 5520
 Dell Latitude 5580
 Dell Latitude 5590
 Dell Latitude 7280
+Dell Latitude 7310
+Dell Latitude 7380
 Dell Latitude 7400
 Dell Latitude 7420
 Dell Latitude 7480
@@ -161,6 +167,7 @@ Dell Optiplex 9030 AIO
 Dell Optiplex 980
 Dell Optiplex 990
 Dell Vostro 15 3568
+Dell Vostro 3401
 Dell Vostro 3470
 Dell Vostro 3550
 Dell Vostro 3560
@@ -181,6 +188,7 @@ ECS LIVA Q2
 ECS Liva X BAT2NBW
 Elo 19M2 Rev A
 Elo 22-inch I-Series
+Elo ECMG4
 Elo ESY 15i2
 Elo ESY 15i3
 Elo ESY 15i5
@@ -189,6 +197,10 @@ Fujitsu Lifebook A574/H
 Fujitsu Lifebook A576/TX
 Fujitsu Lifebook A743/G
 Fujitsu Lifebook T726
+Fujitsu Stylistic Q738
+GeoBook 1e
+Giada DM6
+Giada VM27
 HP 20-r013 AIO
 HP 215 G1
 HP 255 G7 (AMD)
@@ -208,6 +220,7 @@ HP EliteBook 2740p
 HP EliteBook 820 G1
 HP EliteBook 820 G2
 HP EliteBook 820 G3
+HP EliteBook 830 G6
 HP EliteBook 840 G1
 HP EliteBook 840 G2
 HP EliteBook 840 G3
@@ -243,6 +256,7 @@ HP ProBook 440 G2
 HP ProBook 440 G3
 HP ProBook 440 G5
 HP ProBook 440 G6
+HP ProBook 440 G7
 HP ProBook 4430s
 HP ProBook 4440s
 HP ProBook 450 G1
@@ -268,11 +282,14 @@ HP ProBook 6550b
 HP ProBook 6560b
 HP ProBook 6570b
 HP ProBook x360 11 G1 EE
+HP ProBook x360 11 G2 EE
 HP ProBook x360 11 G3 EE
 HP ProBook x360 11 G4 EE
 HP ProBook x360 11 G5 EE
 HP ProBook x360 11 G7 EE
 HP ProDesk 400 G1
+HP ProDesk 400 G2.5
+HP ProDesk 400 G5
 HP ProDesk 600 G1
 HP ProDesk 600 G2
 HP ProDesk 600 G4
@@ -285,8 +302,6 @@ HP ProOne 400 G6 AIO
 HP ProOne 600 G1 AIO
 HP ProOne 600 G2 AIO
 HP ProOne 600 G6 AIO
-HP Probook x360 11 G2 EE
-HP Prodesk 400 G2.5
 HP Spectre x360 13 (2017)
 HP Spectre x360 13 (2018)
 HP Stream 11 Pro G1
@@ -313,7 +328,10 @@ HP t730 Thin Client
 HP t740 Thin Client
 HP x360 310 G2
 HP ProBook 440 G1
+IBASE SE-102-N
+IBASE SI-626
 INP i1000BT Thin Client
+Imago IMC-OPS-VI-11G-I5
 Intel Compute Stick STK1AW32SC
 Intel Compute Stick STK2m364CC
 Intel NUC 8 Rugged NUC8CCHK
@@ -337,6 +355,8 @@ LG 55CT5WJ
 LG CL600N-6N
 LG Gram 15Z995
 LG Gram 15ZT90P
+LG Gram 16UT70Q
+LG OPS-C001
 Lenovo 100e 2nd Gen (Intel)
 Lenovo 14w Gen 1
 Lenovo 300e 1st Gen
@@ -368,6 +388,7 @@ Lenovo ThinkCentre M75n
 Lenovo ThinkCentre M77
 Lenovo ThinkCentre M78
 Lenovo ThinkCentre M800
+Lenovo ThinkCentre M80q Gen 2
 Lenovo ThinkCentre M81
 Lenovo ThinkCentre M810z
 Lenovo ThinkCentre M82
@@ -449,7 +470,10 @@ Lenovo Thinkpad E14 Gen 2
 Lenovo Thinkpad T450
 Lenovo Thinkpad T540p
 Lenovo Thinkpad T560
+Lenovo V330 AIO
 Lenovo V330-20ICB AIO
+Lenovo V520
+Lenovo V530
 Lenovo v310z AIO
 Microsoft Surface Laptop SE
 Microsoft Surface Pro 3
@@ -459,6 +483,7 @@ Naver Whalebook
 Panasonic Toughbook FZ55
 Satsuki Mirai Touch MP-OPS-FW
 Seneca Element MP USFS-05
+Seneca Element MP-EL
 Sharp NEC SDM-VI3W-IS
 Techno Horizon ELMO Chrome-OPS S084
 Toshiba Portege Z30-C
@@ -477,5 +502,6 @@ Zotac ZBOX CI329 nano
 Zotac ZBOX MA760
 Zotac ZBOX PRO CI342GL
 Zotac ZBOX PRO PI336GL Series (SparkLan)
+Zotac ZBOX-CI331-AUS
 Zotac ZP-CI332-AUS
 Zotac ZP-CI342-AUS
