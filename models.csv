@@ -3,12 +3,14 @@ AOPEN DE3450,Certified,103,2028
 AOPEN DE3650,Certified,107,2029
 AOPEN DE3650S,Certified,107,2029
 AOPEN DEX5750,Certified,103,2030
+AOPEN WB5116,Certified,116,2030
 AOPEN eTILE 15M-FP2,Certified,114,2028
 AOPEN eTILE 19M AIO,Certified,103,2028
 ASUS BR1100CKA,Certified,111,2029
 ASUS BR1100FK,Certified,110,2029
 ASUS EeeBook E402SA,Certified,103,2029
 ASUS ExpertCenter E5 24 AiO,Certified,114,2030
+ASUS Mini PC PL64,Certified,116,2030
 ASUS Mini PC PN41,Certified,108,2029
 ASUS VivoBook L203MA,Certified,103,2028
 ASUS Vivobook Flip 14 TP401NA,Certified,103,2028
@@ -98,6 +100,7 @@ Dell Latitude 5480,Certified,103,2028
 Dell Latitude 5500,Certified,103,2028
 Dell Latitude 5510,Certified,108,2028
 Dell Latitude 5520,Certified,103,2030
+Dell Latitude 5530,Certified,116,2030
 Dell Latitude 5580,Certified,103,2028
 Dell Latitude 5590,Certified,103,2028
 Dell Latitude 7280,Certified,103,2027
@@ -208,6 +211,7 @@ Fujitsu Lifebook T726,Certified,103,2027
 Fujitsu Stylistic Q738,Certified,114,2028
 GeoBook 1e,Certified,115,2028
 Giada DM6,Certified,114,2029
+Giada OPS PC612,Certified,117,2030
 Giada VM27,Certified,114,2029
 HP 20-r013 AIO,Certified,103,2027
 HP 215 G1,Certified,103,2027
@@ -252,10 +256,15 @@ HP EliteDesk 800 G5,Certified,103,2028
 HP EliteDesk 800 G6,Certified,103,2028
 HP Elitedesk 705 G5,Certified,103,2030
 HP Engage Flex Mini,Certified,111,2028
+HP Engage Flex Pro,Certified,117,2028
+HP Engage Flex Pro G2,Certified,116,2030
+HP Engage Flex Pro-C,Certified,117,2028
 HP Engage One Essential AIO,Certified,103,2030
 HP Engage One Pro AIO,Certified,103,2030
 HP Fortis x360 G9 Education Edition,Certified,112,2029
 HP Notebook 15-ay015dx,Certified,103,2027
+HP Pro Mini 400 G9,Certified,116,2030
+HP Pro t550 Thin Client,Certified,116,2029
 HP ProBook 11 EE G1,Certified,103,2027
 HP ProBook 11 G2,Certified,103,2027
 HP ProBook 250 G7,Certified,103,2028
@@ -299,8 +308,10 @@ HP ProBook x360 11 G7 EE,Certified,112,2029
 HP ProDesk 400 G1,Certified,103,2026
 HP ProDesk 400 G2.5,Certified,103,2026
 HP ProDesk 400 G5,Certified,114,2028
+HP ProDesk 400 G6,Certified,116,2028
 HP ProDesk 600 G1,Certified,103,2026
 HP ProDesk 600 G2,Certified,103,2027
+HP ProDesk 600 G3,Certified,115,2027
 HP ProDesk 600 G4,Certified,103,2028
 HP ProOne 400 G1 AIO,Certified,103,2026
 HP ProOne 400 G2 AIO,Certified,103,2027
@@ -321,6 +332,7 @@ HP Stream 11 Pro G5,Certified,103,2028
 HP Stream 13,Certified,103,2026
 HP Stream 14-ax010nr,Certified,103,2027
 HP Stream x360 Convertible PC 11,Certified,103,2026
+HP Z2 Tower G4 Workstation,Certified,115,2028
 HP Z230,Certified,103,2026
 HP mt41 Mobile Thin Client,Certified,103,2025
 HP mt43 Mobile Thin Client,Certified,103,2028
@@ -340,6 +352,7 @@ HP ProBook 440 G1,Certified,103,2026
 IBASE SE-102-N,Certified,113,2028
 IBASE SI-626,Certified,113,2026
 INP i1000BT Thin Client,Certified,107,2028
+INP i1000M,Certified,116,2029
 Imago IMC-OPS-VI-11G-I5,Certified,115,2030
 Intel Compute Stick STK1AW32SC,Certified,103,2027
 Intel Compute Stick STK2m364CC,Certified,103,2027
@@ -353,6 +366,8 @@ Intel NUC NUC6i3SYH,Certified,103,2027
 Intel NUC NUC7i3BNH,Certified,103,2028
 Intel NUC NUC8i5BEH,Certified,103,2028
 Intel NUC NUC8i7BEH,Certified,103,2028
+Intel NUC11TNKv5,Certified,116,2030
+Intel NUC12WSHi3,Certified,117,2030
 Justice Tech Securebook 5.0,Certified,107,2028
 Justice Tech Securebook 6.0,Certified,110,2029
 LG 14ZT980 Mobile Thin Client,Certified,103,2028
@@ -398,6 +413,7 @@ Lenovo ThinkCentre M77,Certified,103,2023
 Lenovo ThinkCentre M78,Certified,103,2025
 Lenovo ThinkCentre M800,Certified,103,2027
 Lenovo ThinkCentre M80q Gen 2,Certified,115,2028
+Lenovo ThinkCentre M80q Gen 3,Certified,116,2030
 Lenovo ThinkCentre M81,Certified,103,2024
 Lenovo ThinkCentre M810z,Certified,103,2027
 Lenovo ThinkCentre M82,Certified,103,2025
@@ -490,9 +506,11 @@ Minisforum N36 Mini PC,Certified,103,2027
 Minisforum S41,Certified,103,2028
 Naver Whalebook,Certified,103,2028
 Panasonic Toughbook FZ55,Certified,103,2028
+Samsung KM24C-3,Certified,116,2030
 Satsuki Mirai Touch MP-OPS-FW,Certified,106,2028
 Seneca Element MP USFS-05,Certified,108,2029
 Seneca Element MP-EL,Certified,114,2030
+Seneca HDS USFS-01,Certified,117,2029
 Sharp NEC SDM-VI3W-IS,Certified,106,2028
 Techno Horizon ELMO Chrome-OPS S084,Certified,112,2030
 Toshiba Portege Z30-C,Certified,103,2027
