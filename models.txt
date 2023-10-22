@@ -2,12 +2,14 @@ AOPEN DE3450
 AOPEN DE3650
 AOPEN DE3650S
 AOPEN DEX5750
+AOPEN WB5116
 AOPEN eTILE 15M-FP2
 AOPEN eTILE 19M AIO
 ASUS BR1100CKA
 ASUS BR1100FK
 ASUS EeeBook E402SA
 ASUS ExpertCenter E5 24 AiO
+ASUS Mini PC PL64
 ASUS Mini PC PN41
 ASUS VivoBook L203MA
 ASUS Vivobook Flip 14 TP401NA
@@ -94,6 +96,7 @@ Dell Latitude 5480
 Dell Latitude 5500
 Dell Latitude 5510
 Dell Latitude 5520
+Dell Latitude 5530
 Dell Latitude 5580
 Dell Latitude 5590
 Dell Latitude 7280
@@ -200,6 +203,7 @@ Fujitsu Lifebook T726
 Fujitsu Stylistic Q738
 GeoBook 1e
 Giada DM6
+Giada OPS PC612
 Giada VM27
 HP 20-r013 AIO
 HP 215 G1
@@ -243,10 +247,15 @@ HP EliteDesk 800 G5
 HP EliteDesk 800 G6
 HP Elitedesk 705 G5
 HP Engage Flex Mini
+HP Engage Flex Pro
+HP Engage Flex Pro G2
+HP Engage Flex Pro-C
 HP Engage One Essential AIO
 HP Engage One Pro AIO
 HP Fortis x360 G9 Education Edition
 HP Notebook 15-ay015dx
+HP Pro Mini 400 G9
+HP Pro t550 Thin Client
 HP ProBook 11 EE G1
 HP ProBook 11 G2
 HP ProBook 250 G7
@@ -290,8 +299,10 @@ HP ProBook x360 11 G7 EE
 HP ProDesk 400 G1
 HP ProDesk 400 G2.5
 HP ProDesk 400 G5
+HP ProDesk 400 G6
 HP ProDesk 600 G1
 HP ProDesk 600 G2
+HP ProDesk 600 G3
 HP ProDesk 600 G4
 HP ProOne 400 G1 AIO
 HP ProOne 400 G2 AIO
@@ -312,6 +323,7 @@ HP Stream 11 Pro G5
 HP Stream 13
 HP Stream 14-ax010nr
 HP Stream x360 Convertible PC 11
+HP Z2 Tower G4 Workstation
 HP Z230
 HP mt41 Mobile Thin Client
 HP mt43 Mobile Thin Client
@@ -331,6 +343,7 @@ HP ProBook 440 G1
 IBASE SE-102-N
 IBASE SI-626
 INP i1000BT Thin Client
+INP i1000M
 Imago IMC-OPS-VI-11G-I5
 Intel Compute Stick STK1AW32SC
 Intel Compute Stick STK2m364CC
@@ -344,6 +357,8 @@ Intel NUC NUC6i3SYH
 Intel NUC NUC7i3BNH
 Intel NUC NUC8i5BEH
 Intel NUC NUC8i7BEH
+Intel NUC11TNKv5
+Intel NUC12WSHi3
 Justice Tech Securebook 5.0
 Justice Tech Securebook 6.0
 LG 14ZT980 Mobile Thin Client
@@ -389,6 +404,7 @@ Lenovo ThinkCentre M77
 Lenovo ThinkCentre M78
 Lenovo ThinkCentre M800
 Lenovo ThinkCentre M80q Gen 2
+Lenovo ThinkCentre M80q Gen 3
 Lenovo ThinkCentre M81
 Lenovo ThinkCentre M810z
 Lenovo ThinkCentre M82
@@ -481,9 +497,11 @@ Minisforum N36 Mini PC
 Minisforum S41
 Naver Whalebook
 Panasonic Toughbook FZ55
+Samsung KM24C-3
 Satsuki Mirai Touch MP-OPS-FW
 Seneca Element MP USFS-05
 Seneca Element MP-EL
+Seneca HDS USFS-01
 Sharp NEC SDM-VI3W-IS
 Techno Horizon ELMO Chrome-OPS S084
 Toshiba Portege Z30-C
