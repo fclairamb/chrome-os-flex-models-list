@@ -8,6 +8,7 @@ AOPEN eTILE 19M AIO
 ASUS BR1100CKA
 ASUS BR1100FK
 ASUS EeeBook E402SA
+ASUS ExpertCenter D700MD
 ASUS ExpertCenter E5 24 AiO
 ASUS Mini PC PL64
 ASUS Mini PC PN41
@@ -37,6 +38,7 @@ Acer Travelmate B113-E
 Acer Travelmate B113-M
 Acer VN4640G
 Acer Veriton L4630G
+Acer Veriton S2690G
 Advantech DS-085
 Advantech DS-410
 Advantech DS-570
@@ -44,6 +46,7 @@ Advantech PPC-3150SW
 Advantech UTC-120
 Advantech UTC-124G3
 Advantech UTC-520F
+Advantech UTC-520J
 Apple Mac Mini 7,1
 Apple MacBook Air 6,1
 Apple Macbook Air 5,1
@@ -161,6 +164,7 @@ Dell Optiplex 7050
 Dell Optiplex 7060
 Dell Optiplex 7070
 Dell Optiplex 7080
+Dell Optiplex 7090
 Dell Optiplex 7400
 Dell Optiplex 7440 AIO
 Dell Optiplex 7450 AIO
@@ -237,6 +241,7 @@ HP EliteBook 840 G6
 HP EliteBook 8440p
 HP EliteBook 8460p
 HP EliteBook 8470p
+HP EliteBook 850 G3
 HP EliteBook Folio 9470m
 HP EliteBook x360 1030 G2
 HP EliteDesk 705 G1
@@ -253,6 +258,7 @@ HP Engage Flex Mini
 HP Engage Flex Pro
 HP Engage Flex Pro G2
 HP Engage Flex Pro-C
+HP Engage One
 HP Engage One Essential AIO
 HP Engage One Pro AIO
 HP Fortis x360 G9 Education Edition
@@ -386,6 +392,7 @@ Lenovo Ideapad D330-10IGL
 Lenovo N22
 Lenovo N23 (Windows)
 Lenovo N24
+Lenovo T490s
 Lenovo ThinkBook 14 G2
 Lenovo ThinkCentre E73
 Lenovo ThinkCentre M53
@@ -433,6 +440,7 @@ Lenovo ThinkPad E550
 Lenovo ThinkPad E560
 Lenovo ThinkPad Edge E430
 Lenovo ThinkPad Edge E530
+Lenovo ThinkPad L380
 Lenovo ThinkPad L420
 Lenovo ThinkPad L430
 Lenovo ThinkPad L440
@@ -501,6 +509,7 @@ Minisforum S41
 Naver Whalebook
 Panasonic Toughbook FZ55
 Samsung KM24C-3
+Satsuki MP-OPS-GX
 Satsuki Mirai Touch MP-OPS-FW
 Seneca Element MP USFS-05
 Seneca Element MP-EL
