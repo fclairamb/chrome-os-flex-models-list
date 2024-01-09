@@ -13,6 +13,7 @@ ASUS ExpertCenter D700MD,Certified,118,2030
 ASUS ExpertCenter E5 24 AiO,Certified,114,2030
 ASUS Mini PC PL64,Certified,116,2030
 ASUS Mini PC PN41,Certified,108,2029
+ASUS Mini PC PN64,Certified,119,2030
 ASUS VivoBook L203MA,Certified,103,2028
 ASUS Vivobook Flip 14 TP401NA,Certified,103,2028
 ASUS X401U,Certified,103,2024
@@ -40,18 +41,19 @@ Acer Travelmate B113-M,Certified,103,2024
 Acer VN4640G,Certified,111,2027
 Acer Veriton L4630G,Certified,103,2026
 Acer Veriton S2690G,Certified,118,2030
-Advantech ARK-DS520,Minor issues expected,,2023
+Advantech ARK-DS520,Decertified,,2023
 Advantech DS-085,Certified,103,2030
 Advantech DS-410,Certified,110,2029
 Advantech DS-570,Certified,103,2026
 Advantech PPC-3150SW,Certified,105,2028
+Advantech UTC-115,Certified,119,2028
 Advantech UTC-120,Certified,110,2028
 Advantech UTC-124G3,Certified,111,2028
 Advantech UTC-520F,Certified,103,2027
 Advantech UTC-520J,Certified,118,2030
 "Apple Mac Mini 7,1",Certified,103,2026
 "Apple MacBook Air 6,1",Certified,103,2026
-"Apple Macbook 7,1",Minor issues expected,103,2023
+"Apple Macbook 7,1",Decertified,103,2023
 "Apple Macbook Air 5,1",Certified,103,2025
 "Apple Macbook Air 7,2",Certified,103,2027
 "Apple Macbook Pro 11,2",Certified,103,2025
@@ -65,7 +67,7 @@ Dell Inspiron 15 3531,Certified,103,2026
 Dell Inspiron 3280 AIO,Certified,103,2028
 Dell Inspiron 3501,Certified,103,2030
 Dell Inspiron 3505,Certified,103,2030
-Dell Inspiron N5010,Certified,103,2023
+Dell Inspiron N5010,Decertified,103,2023
 Dell Latitude 3120,Certified,107,2029
 Dell Latitude 3150,Certified,103,2026
 Dell Latitude 3160,Certified,103,2027
@@ -114,19 +116,19 @@ Dell Latitude 7400,Certified,103,2028
 Dell Latitude 7420,Certified,103,2030
 Dell Latitude 7480,Certified,103,2028
 Dell Latitude 7490,Minor issues expected,,2028
-Dell Latitude E5410,Certified,103,2023
+Dell Latitude E5410,Decertified,103,2023
 Dell Latitude E5420,Certified,103,2024
 Dell Latitude E5430,Certified,103,2025
 Dell Latitude E5440,Certified,103,2026
 Dell Latitude E5450,Certified,103,2027
 Dell Latitude E5470,Certified,103,2027
-Dell Latitude E5510,Certified,103,2023
+Dell Latitude E5510,Decertified,103,2023
 Dell Latitude E5520,Certified,103,2024
 Dell Latitude E5530,Certified,103,2025
 Dell Latitude E5540,Certified,103,2026
 Dell Latitude E5570,Certified,104,2027
 Dell Latitude E6230,Certified,103,2025
-Dell Latitude E6410,Certified,103,2023
+Dell Latitude E6410,Decertified,103,2023
 Dell Latitude E6420,Certified,103,2025
 Dell Latitude E6430,Certified,103,2025
 Dell Latitude E6440,Certified,103,2026
@@ -162,7 +164,8 @@ Dell Optiplex 5090,Certified,105,2029
 Dell Optiplex 5250 AIO,Certified,103,2028
 Dell Optiplex 5270 AIO,Certified,103,2028
 Dell Optiplex 5480 AIO,Certified,103,2028
-Dell Optiplex 580,Certified,103,2023
+Dell Optiplex 580,Decertified,103,2023
+Dell Optiplex 7000,Certified,119,2030
 Dell Optiplex 7010,Certified,103,2025
 Dell Optiplex 7020,Certified,103,2026
 Dell Optiplex 7040,Certified,103,2027
@@ -174,16 +177,15 @@ Dell Optiplex 7090,Certified,118,2030
 Dell Optiplex 7400,Certified,117,2030
 Dell Optiplex 7440 AIO,Certified,105,2027
 Dell Optiplex 7450 AIO,Certified,103,2028
+Dell Optiplex 7460 All-in-One,Certified,119,2028
 Dell Optiplex 790,Certified,103,2024
 Dell Optiplex 9010,Certified,103,2025
 Dell Optiplex 9020,Certified,103,2026
 Dell Optiplex 9020 AIO,Certified,103,2026
 Dell Optiplex 9030 AIO,Certified,103,2026
-Dell Optiplex 980,Certified,103,2023
+Dell Optiplex 980,Decertified,103,2023
 Dell Optiplex 990,Certified,103,2024
-Dell Vostro 1220,Decertified,103,2022
 Dell Vostro 15 3568,Certified,103,2028
-Dell Vostro 230,Decertified,103,2022
 Dell Vostro 3401,Certified,115,2028
 Dell Vostro 3470,Certified,103,2028
 Dell Vostro 3550,Certified,103,2024
@@ -209,6 +211,7 @@ Elo ECMG4,Certified,114,2028
 Elo ESY 15i2,Certified,111,2028
 Elo ESY 15i3,Certified,113,2028
 Elo ESY 15i5,Certified,112,2028
+Fujitsu Esprimo Q556/2,Certified,119,2027
 Fujitsu Futro s720 Thin Client,Certified,103,2027
 Fujitsu Lifebook A574/H,Certified,103,2026
 Fujitsu Lifebook A576/TX,Certified,110,2027
@@ -226,20 +229,21 @@ HP 255 G7 (AMD),Certified,103,2030
 HP 255 G7 (Intel),Certified,103,2028
 HP 3115m,Certified,103,2024
 HP 3125 Notebook,Certified,105,2024
-HP 630,Certified,103,2023
-HP Compaq 6000 Pro,Decertified,103,2022
-HP Compaq 6005 Pro,Certified,103,2023
+HP 630,Decertified,103,2023
+HP Compaq 6005 Pro,Decertified,103,2023
 HP Compaq 6200 Pro,Certified,103,2024
 HP Compaq 6300 Pro,Certified,103,2025
 HP Compaq 8200 Elite,Certified,103,2024
-HP Compaq Elite 8100,Certified,103,2023
+HP Compaq Elite 8100,Decertified,103,2023
 HP Compaq Elite 8300,Certified,103,2025
 HP Compaq Pro 6305,Certified,103,2025
+HP Elite t655 Thin Client,Certified,119,2030
 HP EliteBook 2560p,Certified,103,2024
-HP EliteBook 2740p,Certified,103,2023
+HP EliteBook 2740p,Decertified,103,2023
 HP EliteBook 820 G1,Certified,103,2026
 HP EliteBook 820 G2,Certified,103,2027
 HP EliteBook 820 G3,Certified,103,2027
+HP EliteBook 830 G5,Certified,119,2028
 HP EliteBook 830 G6,Certified,115,2028
 HP EliteBook 840 G1,Certified,103,2026
 HP EliteBook 840 G2,Certified,103,2027
@@ -247,10 +251,12 @@ HP EliteBook 840 G3,Certified,103,2027
 HP EliteBook 840 G4,Certified,103,2028
 HP EliteBook 840 G5,Certified,103,2028
 HP EliteBook 840 G6,Certified,103,2028
-HP EliteBook 8440p,Certified,103,2023
+HP EliteBook 840 G8,Certified,119,2030
+HP EliteBook 8440p,Decertified,103,2023
 HP EliteBook 8460p,Certified,103,2024
 HP EliteBook 8470p,Certified,103,2025
 HP EliteBook 850 G3,Certified,118,2027
+HP EliteBook 850 G5,Certified,119,2028
 HP EliteBook Folio 9470m,Certified,103,2025
 HP EliteBook x360 1030 G2,Certified,103,2028
 HP EliteDesk 705 G1,Certified,103,2025
@@ -286,13 +292,15 @@ HP ProBook 440 G6,Certified,103,2028
 HP ProBook 440 G7,Certified,114,2028
 HP ProBook 4430s,Certified,103,2024
 HP ProBook 4440s,Certified,103,2025
+HP ProBook 445 G6,Certified,119,2030
+HP ProBook 445 G7,Certified,119,2030
 HP ProBook 450 G1,Certified,103,2026
 HP ProBook 450 G2,Certified,103,2027
 HP ProBook 450 G3,Certified,103,2027
 HP ProBook 450 G5,Certified,103,2028
 HP ProBook 450 G6,Certified,103,2028
 HP ProBook 450 G7,Certified,103,2028
-HP ProBook 4520s,Certified,103,2023
+HP ProBook 4520s,Decertified,103,2023
 HP ProBook 4530s,Certified,103,2024
 HP ProBook 4540s,Certified,103,2025
 HP ProBook 455 G2,Certified,103,2027
@@ -305,7 +313,7 @@ HP ProBook 6470b,Certified,103,2025
 HP ProBook 650 G1,Certified,103,2026
 HP ProBook 650 G2,Certified,103,2027
 HP ProBook 655,Certified,103,2025
-HP ProBook 6550b,Certified,103,2023
+HP ProBook 6550b,Decertified,103,2023
 HP ProBook 6560b,Certified,103,2024
 HP ProBook 6570b,Certified,103,2025
 HP ProBook x360 11 G1 EE,Certified,103,2028
@@ -343,6 +351,8 @@ HP Stream 14-ax010nr,Certified,103,2027
 HP Stream x360 Convertible PC 11,Certified,103,2026
 HP Z2 Tower G4 Workstation,Certified,115,2028
 HP Z230,Certified,103,2026
+HP ZBook Firefly 14 G7,Certified,119,2028
+HP ZBook Firefly 14 G8,Certified,119,2030
 HP mt41 Mobile Thin Client,Certified,103,2025
 HP mt43 Mobile Thin Client,Certified,103,2028
 HP mt45 Mobile Thin Client,Certified,103,2030
@@ -419,7 +429,7 @@ Lenovo ThinkCentre M72z AIO,Certified,103,2025
 Lenovo ThinkCentre M73,Certified,103,2026
 Lenovo ThinkCentre M73z,Certified,103,2026
 Lenovo ThinkCentre M75n,Certified,103,2030
-Lenovo ThinkCentre M77,Certified,103,2023
+Lenovo ThinkCentre M77,Decertified,103,2023
 Lenovo ThinkCentre M78,Certified,103,2025
 Lenovo ThinkCentre M800,Certified,103,2027
 Lenovo ThinkCentre M80q Gen 2,Certified,115,2028
@@ -444,6 +454,7 @@ Lenovo ThinkPad E15,Certified,103,2028
 Lenovo ThinkPad E440,Certified,103,2027
 Lenovo ThinkPad E450,Certified,103,2027
 Lenovo ThinkPad E480,Certified,103,2028
+Lenovo ThinkPad E495,Certified,119,2030
 Lenovo ThinkPad E531,Certified,103,2025
 Lenovo ThinkPad E550,Certified,103,2027
 Lenovo ThinkPad E560,Certified,103,2027
@@ -458,7 +469,7 @@ Lenovo ThinkPad L480,Certified,103,2028
 Lenovo ThinkPad T14 Gen 1 (Intel),Certified,103,2028
 Lenovo ThinkPad T14s Gen 1 (AMD),Certified,103,2030
 Lenovo ThinkPad T15 Gen 2,Certified,107,2030
-Lenovo ThinkPad T410,Certified,103,2023
+Lenovo ThinkPad T410,Decertified,103,2023
 Lenovo ThinkPad T420,Certified,103,2024
 Lenovo ThinkPad T430,Certified,103,2025
 Lenovo ThinkPad T430u,Certified,103,2025
@@ -467,7 +478,7 @@ Lenovo ThinkPad T460,Certified,103,2027
 Lenovo ThinkPad T470s,Certified,103,2028
 Lenovo ThinkPad T480,Certified,103,2028
 Lenovo ThinkPad T490,Certified,103,2028
-Lenovo ThinkPad T510,Certified,103,2023
+Lenovo ThinkPad T510,Decertified,103,2023
 Lenovo ThinkPad T530,Certified,103,2025
 Lenovo ThinkPad T570,Certified,103,2028
 Lenovo ThinkPad T580,Certified,112,2028
@@ -493,8 +504,8 @@ Lenovo ThinkPad Yoga 11e G4,Certified,103,2028
 Lenovo ThinkPad Yoga 11e G5,Certified,103,2028
 Lenovo ThinkPad Yoga 11e G6,Certified,103,2028
 Lenovo ThinkPad Yoga L390,Certified,103,2028
-Lenovo ThinkPad x201,Certified,103,2023
-Lenovo ThinkPad x201T Tablet,Certified,103,2023
+Lenovo ThinkPad x201,Decertified,103,2023
+Lenovo ThinkPad x201T Tablet,Decertified,103,2023
 Lenovo ThinkPad x220,Certified,103,2024
 Lenovo ThinkPad x270,Certified,103,2027
 Lenovo ThinkPad x280,Certified,103,2028
@@ -506,6 +517,7 @@ Lenovo Thinkpad E14 Gen 2,Certified,103,2030
 Lenovo Thinkpad T450,Certified,103,2027
 Lenovo Thinkpad T540p,Certified,103,2026
 Lenovo Thinkpad T560,Certified,104,2027
+Lenovo V14 G2 ITL,Certified,119,2030
 Lenovo V330 AIO,Certified,114,2028
 Lenovo V330-20ICB AIO,Certified,103,2028
 Lenovo V520,Certified,114,2028
