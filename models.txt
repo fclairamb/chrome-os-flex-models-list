@@ -87,6 +87,7 @@ Dell Latitude 3470
 Dell Latitude 3480
 Dell Latitude 3490
 Dell Latitude 3510
+Dell Latitude 3520
 Dell Latitude 3550
 Dell Latitude 5290
 Dell Latitude 5290 2-in-1
@@ -402,6 +403,7 @@ Lenovo ThinkCentre M700
 Lenovo ThinkCentre M70q
 Lenovo ThinkCentre M70q Gen 2
 Lenovo ThinkCentre M70q Gen 3
+Lenovo ThinkCentre M70q Gen 4
 Lenovo ThinkCentre M710q
 Lenovo ThinkCentre M71e
 Lenovo ThinkCentre M720q
@@ -505,6 +507,7 @@ Minisforum N36 Mini PC
 Minisforum S41
 Naver Whalebook
 Panasonic Toughbook FZ55
+Positivo 17SF
 Samsung KM24C-3
 Satsuki MP-OPS-GX
 Satsuki Mirai Touch MP-OPS-FW
@@ -512,6 +515,8 @@ Seneca Element MP USFS-05
 Seneca Element MP-EL
 Seneca HDS USFS-01
 Sharp NEC SDM-VI3W-IS
+Shuttle DH610
+Shuttle DH670
 Techno Horizon ELMO Chrome-OPS S084
 Toshiba Portege Z30-C
 Toshiba Satellite C55-B
@@ -532,3 +537,4 @@ Zotac ZBOX PRO PI336GL Series (SparkLan)
 Zotac ZBOX-CI331-AUS
 Zotac ZP-CI332-AUS
 Zotac ZP-CI342-AUS
+meldCX mCore+ Edge

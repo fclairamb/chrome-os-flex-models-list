@@ -92,6 +92,7 @@ Dell Latitude 3470,Certified,103,2027
 Dell Latitude 3480,Certified,103,2027
 Dell Latitude 3490,Certified,103,2028
 Dell Latitude 3510,Certified,103,2028
+Dell Latitude 3520,Certified,120,2030
 Dell Latitude 3550,Certified,111,2027
 Dell Latitude 5290,Certified,103,2028
 Dell Latitude 5290 2-in-1,Certified,103,2028
@@ -421,6 +422,7 @@ Lenovo ThinkCentre M700,Certified,103,2027
 Lenovo ThinkCentre M70q,Certified,103,2028
 Lenovo ThinkCentre M70q Gen 2,Certified,105,2030
 Lenovo ThinkCentre M70q Gen 3,Certified,105,2030
+Lenovo ThinkCentre M70q Gen 4,Certified,120,2030
 Lenovo ThinkCentre M710q,Certified,103,2027
 Lenovo ThinkCentre M71e,Certified,103,2024
 Lenovo ThinkCentre M720q,Certified,103,2028
@@ -529,6 +531,7 @@ Minisforum N36 Mini PC,Certified,103,2027
 Minisforum S41,Certified,103,2028
 Naver Whalebook,Certified,103,2028
 Panasonic Toughbook FZ55,Certified,103,2028
+Positivo 17SF,Certified,120,2028
 Samsung KM24C-3,Certified,116,2030
 Satsuki MP-OPS-GX,Certified,118,2030
 Satsuki Mirai Touch MP-OPS-FW,Certified,106,2028
@@ -536,6 +539,8 @@ Seneca Element MP USFS-05,Certified,108,2029
 Seneca Element MP-EL,Certified,114,2030
 Seneca HDS USFS-01,Certified,117,2029
 Sharp NEC SDM-VI3W-IS,Certified,106,2028
+Shuttle DH610,Certified,120,2030
+Shuttle DH670,Certified,120,2030
 Techno Horizon ELMO Chrome-OPS S084,Certified,112,2030
 Toshiba Portege Z30-C,Certified,103,2027
 Toshiba Satellite C55-B,Certified,103,2026
@@ -557,3 +562,4 @@ Zotac ZBOX PRO PI336GL Series (SparkLan),Certified,104,2029
 Zotac ZBOX-CI331-AUS,Certified,114,2029
 Zotac ZP-CI332-AUS,Certified,108,2029
 Zotac ZP-CI342-AUS,Certified,107,2029
+meldCX mCore+ Edge,Certified,120,2029
