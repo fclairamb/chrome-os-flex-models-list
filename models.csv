@@ -60,6 +60,9 @@ Advantech UTC-520J,Certified,118,2030
 "Apple Macbook Pro 9,2",Certified,103,2025
 "Apple iMac 11,2",Certified,103,2024
 "Apple iMac 12,1",Minor issues expected,,2024
+Asus ExpertBook B1500CEA,Certified,121,2030
+Asus ExpertCenter D700SD,Certified,120,2030
+Asus P1512CEA,Certified,122,2030
 Azulle Access 4,Certified,108,2028
 Beelink Mini S N5095,Certified,115,2030
 Cybernet Cybermed T10C,Certified,103,2025
@@ -241,6 +244,7 @@ HP Compaq Pro 6305,Certified,103,2025
 HP Elite t655 Thin Client,Certified,119,2030
 HP EliteBook 2560p,Certified,103,2024
 HP EliteBook 2740p,Decertified,103,2023
+HP EliteBook 745 G5,Certified,122,2029
 HP EliteBook 820 G1,Certified,103,2026
 HP EliteBook 820 G2,Certified,103,2027
 HP EliteBook 820 G3,Certified,103,2027
@@ -258,6 +262,7 @@ HP EliteBook 8460p,Certified,103,2024
 HP EliteBook 8470p,Certified,103,2025
 HP EliteBook 850 G3,Certified,118,2027
 HP EliteBook 850 G5,Certified,119,2028
+HP EliteBook 850 G6,Certified,122,2028
 HP EliteBook Folio 9470m,Certified,103,2025
 HP EliteBook x360 1030 G2,Certified,103,2028
 HP EliteDesk 705 G1,Certified,103,2025
@@ -397,6 +402,7 @@ LG 27KC3PJ,Certified,105,2029
 LG 34CN650N,Certified,113,2028
 LG 55CT5WJ,Certified,106,2029
 LG CL600N-6N,Certified,111,2028
+LG CQ601W,Certified,122,2029
 LG Gram 15Z995,Certified,103,2028
 LG Gram 15ZT90P,Certified,113,2030
 LG Gram 16UT70Q,Certified,114,2030
@@ -462,12 +468,15 @@ Lenovo ThinkPad E550,Certified,103,2027
 Lenovo ThinkPad E560,Certified,103,2027
 Lenovo ThinkPad Edge E430,Certified,103,2025
 Lenovo ThinkPad Edge E530,Certified,103,2025
+Lenovo ThinkPad L14 Gen 1,Certified,121,2028
 Lenovo ThinkPad L380,Certified,118,2028
 Lenovo ThinkPad L420,Certified,103,2024
 Lenovo ThinkPad L430,Certified,104,2025
 Lenovo ThinkPad L440,Certified,104,2026
 Lenovo ThinkPad L460,Certified,103,2027
 Lenovo ThinkPad L480,Certified,103,2028
+Lenovo ThinkPad L490,Certified,121,2028
+Lenovo ThinkPad L570,Certified,122,2027
 Lenovo ThinkPad T14 Gen 1 (Intel),Certified,103,2028
 Lenovo ThinkPad T14s Gen 1 (AMD),Certified,103,2030
 Lenovo ThinkPad T15 Gen 2,Certified,107,2030
@@ -516,6 +525,7 @@ Lenovo Thinkcentre M800Z,Certified,103,2027
 Lenovo Thinkcentre M910q,Certified,110,2027
 Lenovo Thinkpad E14 Gen 1,Certified,103,2028
 Lenovo Thinkpad E14 Gen 2,Certified,103,2030
+Lenovo Thinkpad E14 Gen 4,Certified,122,2030
 Lenovo Thinkpad T450,Certified,103,2027
 Lenovo Thinkpad T540p,Certified,103,2026
 Lenovo Thinkpad T560,Certified,104,2027
@@ -548,6 +558,7 @@ Toshiba Satellite Pro A30-D,Certified,103,2028
 Toshiba Satellite Pro A40-D,Certified,103,2028
 Toshiba Satellite Pro R50-B,Certified,103,2026
 Toshiba Satellite Pro R50-C,Certified,103,2027
+Toshiba TCx 900,Certified,121,2030
 Toshiba Tecra A40-C,Certified,103,2027
 Toshiba Tecra C40-C,Certified,103,2027
 Zotac MA761,Certified,103,2026

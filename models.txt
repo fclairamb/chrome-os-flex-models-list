@@ -56,6 +56,9 @@ Apple Macbook Air 7,2
 Apple Macbook Pro 11,2
 Apple Macbook Pro 9,2
 Apple iMac 11,2
+Asus ExpertBook B1500CEA
+Asus ExpertCenter D700SD
+Asus P1512CEA
 Azulle Access 4
 Beelink Mini S N5095
 Cybernet Cybermed T10C
@@ -225,6 +228,7 @@ HP Compaq Elite 8300
 HP Compaq Pro 6305
 HP Elite t655 Thin Client
 HP EliteBook 2560p
+HP EliteBook 745 G5
 HP EliteBook 820 G1
 HP EliteBook 820 G2
 HP EliteBook 820 G3
@@ -241,6 +245,7 @@ HP EliteBook 8460p
 HP EliteBook 8470p
 HP EliteBook 850 G3
 HP EliteBook 850 G5
+HP EliteBook 850 G6
 HP EliteBook Folio 9470m
 HP EliteBook x360 1030 G2
 HP EliteDesk 705 G1
@@ -378,6 +383,7 @@ LG 27KC3PJ
 LG 34CN650N
 LG 55CT5WJ
 LG CL600N-6N
+LG CQ601W
 LG Gram 15Z995
 LG Gram 15ZT90P
 LG Gram 16UT70Q
@@ -442,12 +448,15 @@ Lenovo ThinkPad E550
 Lenovo ThinkPad E560
 Lenovo ThinkPad Edge E430
 Lenovo ThinkPad Edge E530
+Lenovo ThinkPad L14 Gen 1
 Lenovo ThinkPad L380
 Lenovo ThinkPad L420
 Lenovo ThinkPad L430
 Lenovo ThinkPad L440
 Lenovo ThinkPad L460
 Lenovo ThinkPad L480
+Lenovo ThinkPad L490
+Lenovo ThinkPad L570
 Lenovo ThinkPad T14 Gen 1 (Intel)
 Lenovo ThinkPad T14s Gen 1 (AMD)
 Lenovo ThinkPad T15 Gen 2
@@ -492,6 +501,7 @@ Lenovo Thinkcentre M800Z
 Lenovo Thinkcentre M910q
 Lenovo Thinkpad E14 Gen 1
 Lenovo Thinkpad E14 Gen 2
+Lenovo Thinkpad E14 Gen 4
 Lenovo Thinkpad T450
 Lenovo Thinkpad T540p
 Lenovo Thinkpad T560
@@ -524,6 +534,7 @@ Toshiba Satellite Pro A30-D
 Toshiba Satellite Pro A40-D
 Toshiba Satellite Pro R50-B
 Toshiba Satellite Pro R50-C
+Toshiba TCx 900
 Toshiba Tecra A40-C
 Toshiba Tecra C40-C
 Zotac MA761
