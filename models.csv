@@ -25,6 +25,7 @@ Acer Aspire E3-111,Certified,103,2026
 Acer Aspire One 11 AO1-132,Certified,103,2027
 Acer Aspire V5 131,Certified,103,2025
 Acer Aspire V5-122P,Certified,103,2026
+Acer E220 Veriton M26X2G,Certified,123,2029
 Acer One 11 Z8-284,Certified,117,2029
 Acer One 14 Z2-485,Certified,103,2028
 Acer R3-131T,Certified,103,2027
@@ -41,6 +42,7 @@ Acer Travelmate B113-M,Certified,103,2024
 Acer VN4640G,Certified,111,2027
 Acer Veriton L4630G,Certified,103,2026
 Acer Veriton S2690G,Certified,118,2030
+Advantech ARK-1125H,Certified,123,2030
 Advantech ARK-DS520,Decertified,,2023
 Advantech DS-085,Certified,103,2030
 Advantech DS-410,Certified,110,2029
@@ -63,8 +65,11 @@ Advantech UTC-520J,Certified,118,2030
 Asus ExpertBook B1500CEA,Certified,121,2030
 Asus ExpertCenter D700SD,Certified,120,2030
 Asus P1512CEA,Certified,122,2030
+Atrust t20W,Certified,124,2028
+Atrust t21W,Certified,124,2029
 Azulle Access 4,Certified,108,2028
 Beelink Mini S N5095,Certified,115,2030
+CVTE OPS72A-1215U,Certified,124,2030
 Cybernet Cybermed T10C,Certified,103,2025
 Dell Inspiron 15 3531,Certified,103,2026
 Dell Inspiron 3280 AIO,Certified,103,2028
@@ -279,6 +284,7 @@ HP Engage Flex Mini,Certified,111,2028
 HP Engage Flex Pro,Certified,117,2028
 HP Engage Flex Pro G2,Certified,116,2030
 HP Engage Flex Pro-C,Certified,117,2028
+HP Engage Go 10,Certified,124,2030
 HP Engage One,Certified,118,2028
 HP Engage One Essential AIO,Certified,103,2030
 HP Engage One Pro AIO,Certified,103,2030
@@ -286,6 +292,7 @@ HP Fortis x360 G9 Education Edition,Certified,112,2029
 HP Notebook 15-ay015dx,Certified,103,2027
 HP Pro Mini 400 G9,Certified,116,2030
 HP Pro t550 Thin Client,Certified,116,2029
+HP Pro t550 Thin Client with WiFi,Certified,123,2029
 HP ProBook 11 EE G1,Certified,103,2027
 HP ProBook 11 G2,Certified,103,2027
 HP ProBook 250 G7,Certified,103,2028
@@ -365,6 +372,7 @@ HP mt45 Mobile Thin Client,Certified,103,2030
 HP t430 Thin Client,Certified,103,2028
 HP t520 Thin Client,Certified,103,2027
 HP t530 Thin Client,Certified,103,2028
+HP t540 Thin Client,Certified,122,2030
 HP t610 Thin Client,Certified,103,2024
 HP t620 Thin Client,Certified,103,2027
 HP t630 Thin Client,Certified,103,2028
@@ -374,6 +382,7 @@ HP t730 Thin Client,Certified,103,2027
 HP t740 Thin Client,Certified,103,2030
 HP x360 310 G2,Certified,103,2027
 HP ProBook 440 G1,Certified,103,2026
+Hyundai S084,Certified,123,2030
 IBASE SE-102-N,Certified,113,2028
 IBASE SI-626,Certified,113,2026
 INP i1000BT Thin Client,Certified,107,2028
@@ -415,6 +424,7 @@ Lenovo B590,Certified,103,2025
 Lenovo E40-80,Certified,107,2027
 Lenovo IdeaPad S145,Certified,103,2028
 Lenovo Ideapad D330-10IGL,Certified,112,2028
+Lenovo K14 Gen 1,Certified,123,2030
 Lenovo N22,Certified,103,2027
 Lenovo N23 (Windows),Certified,103,2027
 Lenovo N24,Certified,103,2028
@@ -437,6 +447,7 @@ Lenovo ThinkCentre M72z AIO,Certified,103,2025
 Lenovo ThinkCentre M73,Certified,103,2026
 Lenovo ThinkCentre M73z,Certified,103,2026
 Lenovo ThinkCentre M75n,Certified,103,2030
+Lenovo ThinkCentre M75q Gen 2,Certified,122,2030
 Lenovo ThinkCentre M77,Decertified,103,2023
 Lenovo ThinkCentre M78,Certified,103,2025
 Lenovo ThinkCentre M800,Certified,103,2027
@@ -486,6 +497,7 @@ Lenovo ThinkPad T430,Certified,103,2025
 Lenovo ThinkPad T430u,Certified,103,2025
 Lenovo ThinkPad T440p,Certified,103,2026
 Lenovo ThinkPad T460,Certified,103,2027
+Lenovo ThinkPad T470,Certified,123,2028
 Lenovo ThinkPad T470s,Certified,103,2028
 Lenovo ThinkPad T480,Certified,103,2028
 Lenovo ThinkPad T490,Certified,103,2028
@@ -543,7 +555,9 @@ Naver Whalebook,Certified,103,2028
 Panasonic Toughbook FZ55,Certified,103,2028
 Positivo 17SF,Certified,120,2028
 Samsung KM24C-3,Certified,116,2030
+Satsuki JWIPC H085,Certified,123,2029
 Satsuki MP-OPS-GX,Certified,118,2030
+Satsuki MP-ULS-PC,Certified,123,2032
 Satsuki Mirai Touch MP-OPS-FW,Certified,106,2028
 Seneca Element MP USFS-05,Certified,108,2029
 Seneca Element MP-EL,Certified,114,2030
@@ -552,6 +566,7 @@ Sharp NEC SDM-VI3W-IS,Certified,106,2028
 Shuttle DH610,Certified,120,2030
 Shuttle DH670,Certified,120,2030
 Techno Horizon ELMO Chrome-OPS S084,Certified,112,2030
+Techno Horizon ELMO Chrome-OPS S104C,Certified,124,2030
 Toshiba Portege Z30-C,Certified,103,2027
 Toshiba Satellite C55-B,Certified,103,2026
 Toshiba Satellite Pro A30-D,Certified,103,2028

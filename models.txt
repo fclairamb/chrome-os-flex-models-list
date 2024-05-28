@@ -24,6 +24,7 @@ Acer Aspire E3-111
 Acer Aspire One 11 AO1-132
 Acer Aspire V5 131
 Acer Aspire V5-122P
+Acer E220 Veriton M26X2G
 Acer One 11 Z8-284
 Acer One 14 Z2-485
 Acer R3-131T
@@ -40,6 +41,7 @@ Acer Travelmate B113-M
 Acer VN4640G
 Acer Veriton L4630G
 Acer Veriton S2690G
+Advantech ARK-1125H
 Advantech DS-085
 Advantech DS-410
 Advantech DS-570
@@ -59,8 +61,11 @@ Apple iMac 11,2
 Asus ExpertBook B1500CEA
 Asus ExpertCenter D700SD
 Asus P1512CEA
+Atrust t20W
+Atrust t21W
 Azulle Access 4
 Beelink Mini S N5095
+CVTE OPS72A-1215U
 Cybernet Cybermed T10C
 Dell Inspiron 15 3531
 Dell Inspiron 3280 AIO
@@ -262,6 +267,7 @@ HP Engage Flex Mini
 HP Engage Flex Pro
 HP Engage Flex Pro G2
 HP Engage Flex Pro-C
+HP Engage Go 10
 HP Engage One
 HP Engage One Essential AIO
 HP Engage One Pro AIO
@@ -269,6 +275,7 @@ HP Fortis x360 G9 Education Edition
 HP Notebook 15-ay015dx
 HP Pro Mini 400 G9
 HP Pro t550 Thin Client
+HP Pro t550 Thin Client with WiFi
 HP ProBook 11 EE G1
 HP ProBook 11 G2
 HP ProBook 250 G7
@@ -346,6 +353,7 @@ HP mt45 Mobile Thin Client
 HP t430 Thin Client
 HP t520 Thin Client
 HP t530 Thin Client
+HP t540 Thin Client
 HP t610 Thin Client
 HP t620 Thin Client
 HP t630 Thin Client
@@ -355,6 +363,7 @@ HP t730 Thin Client
 HP t740 Thin Client
 HP x360 310 G2
 HP ProBook 440 G1
+Hyundai S084
 IBASE SE-102-N
 IBASE SI-626
 INP i1000BT Thin Client
@@ -396,6 +405,7 @@ Lenovo B590
 Lenovo E40-80
 Lenovo IdeaPad S145
 Lenovo Ideapad D330-10IGL
+Lenovo K14 Gen 1
 Lenovo N22
 Lenovo N23 (Windows)
 Lenovo N24
@@ -418,6 +428,7 @@ Lenovo ThinkCentre M72z AIO
 Lenovo ThinkCentre M73
 Lenovo ThinkCentre M73z
 Lenovo ThinkCentre M75n
+Lenovo ThinkCentre M75q Gen 2
 Lenovo ThinkCentre M78
 Lenovo ThinkCentre M800
 Lenovo ThinkCentre M80q Gen 2
@@ -465,6 +476,7 @@ Lenovo ThinkPad T430
 Lenovo ThinkPad T430u
 Lenovo ThinkPad T440p
 Lenovo ThinkPad T460
+Lenovo ThinkPad T470
 Lenovo ThinkPad T470s
 Lenovo ThinkPad T480
 Lenovo ThinkPad T490
@@ -519,7 +531,9 @@ Naver Whalebook
 Panasonic Toughbook FZ55
 Positivo 17SF
 Samsung KM24C-3
+Satsuki JWIPC H085
 Satsuki MP-OPS-GX
+Satsuki MP-ULS-PC
 Satsuki Mirai Touch MP-OPS-FW
 Seneca Element MP USFS-05
 Seneca Element MP-EL
@@ -528,6 +542,7 @@ Sharp NEC SDM-VI3W-IS
 Shuttle DH610
 Shuttle DH670
 Techno Horizon ELMO Chrome-OPS S084
+Techno Horizon ELMO Chrome-OPS S104C
 Toshiba Portege Z30-C
 Toshiba Satellite C55-B
 Toshiba Satellite Pro A30-D
