@@ -2,6 +2,7 @@ Model,Status,Certified since version,Year
 AOPEN DE3450,Certified,103,2028
 AOPEN DE3650,Certified,107,2029
 AOPEN DE3650S,Certified,107,2029
+AOPEN DE6340,Certified,126,2029
 AOPEN DEX5750,Certified,103,2030
 AOPEN WB5116,Certified,116,2030
 AOPEN eTILE 15M-FP2,Certified,114,2028
@@ -63,6 +64,7 @@ Advantech UTC-520J,Certified,118,2030
 "Apple iMac 11,2",Certified,103,2024
 "Apple iMac 12,1",Minor issues expected,,2024
 Asus ExpertBook B1500CEA,Certified,121,2030
+Asus ExpertBook B1502CBA,Certified,125,2030
 Asus ExpertCenter D700SD,Certified,120,2030
 Asus P1512CEA,Certified,122,2030
 Atrust t20W,Certified,124,2028
@@ -119,6 +121,7 @@ Dell Latitude 5530,Certified,116,2030
 Dell Latitude 5580,Certified,103,2028
 Dell Latitude 5590,Certified,103,2028
 Dell Latitude 7280,Certified,103,2027
+Dell Latitude 7300,Certified,125,2028
 Dell Latitude 7310,Certified,113,2028
 Dell Latitude 7380,Certified,114,2028
 Dell Latitude 7400,Certified,103,2028
@@ -184,9 +187,12 @@ Dell Optiplex 7070,Certified,103,2028
 Dell Optiplex 7080,Certified,103,2028
 Dell Optiplex 7090,Certified,118,2030
 Dell Optiplex 7400,Certified,117,2030
+Dell Optiplex 7410 AIO,Certified,125,2030
 Dell Optiplex 7440 AIO,Certified,105,2027
 Dell Optiplex 7450 AIO,Certified,103,2028
-Dell Optiplex 7460 All-in-One,Certified,119,2028
+Dell Optiplex 7460 AIO,Certified,119,2028
+Dell Optiplex 7480 AIO,Certified,125,2028
+Dell Optiplex 7490 AIO,Certified,126,2028
 Dell Optiplex 790,Certified,103,2024
 Dell Optiplex 9010,Certified,103,2025
 Dell Optiplex 9020,Certified,103,2026
@@ -210,6 +216,7 @@ Dell XPS 13 2-in-1 9365,Certified,103,2028
 Dell XPS 13 9300,Certified,103,2029
 Dell XPS 13 9310,Certified,103,2030
 Dell XPS 13 9380,Certified,103,2028
+Delphi Endura 15X Model 9330-150-A01,Certified,125,2026
 Dynabook K50,Certified,112,2028
 Dynabook R73/F,Certified,112,2027
 ECS LIVA Q2,Certified,104,2028
@@ -230,12 +237,14 @@ Fujitsu Stylistic Q738,Certified,114,2028
 GeoBook 1e,Certified,115,2028
 Giada D613,Certified,117,2032
 Giada DM6,Certified,114,2029
+Giada F106D,Certified,125,2029
 Giada OPS PC612,Certified,117,2030
 Giada VM27,Certified,114,2029
 HP 20-r013 AIO,Certified,103,2027
 HP 215 G1,Certified,103,2027
 HP 255 G7 (AMD),Certified,103,2030
 HP 255 G7 (Intel),Certified,103,2028
+HP 280 G9,Certified,126,2030
 HP 3115m,Certified,103,2024
 HP 3125 Notebook,Certified,105,2024
 HP 630,Decertified,103,2023
@@ -249,6 +258,7 @@ HP Compaq Pro 6305,Certified,103,2025
 HP Elite t655 Thin Client,Certified,119,2030
 HP EliteBook 2560p,Certified,103,2024
 HP EliteBook 2740p,Decertified,103,2023
+HP EliteBook 645 G10,Certified,125,2032
 HP EliteBook 745 G5,Certified,122,2029
 HP EliteBook 820 G1,Certified,103,2026
 HP EliteBook 820 G2,Certified,103,2027
@@ -352,6 +362,7 @@ HP ProOne 400 G6 AIO,Certified,103,2028
 HP ProOne 600 G1 AIO,Certified,103,2026
 HP ProOne 600 G2 AIO,Certified,103,2027
 HP ProOne 600 G6 AIO,Certified,103,2028
+HP RP9 G1,Certified,126,2027
 HP Spectre x360 13 (2017),Certified,103,2028
 HP Spectre x360 13 (2018),Certified,103,2028
 HP Stream 11 Pro G1,Certified,103,2026
@@ -479,6 +490,7 @@ Lenovo ThinkPad E550,Certified,103,2027
 Lenovo ThinkPad E560,Certified,103,2027
 Lenovo ThinkPad Edge E430,Certified,103,2025
 Lenovo ThinkPad Edge E530,Certified,103,2025
+Lenovo ThinkPad L13 Gen 2,Certified,126,2030
 Lenovo ThinkPad L14 Gen 1,Certified,121,2028
 Lenovo ThinkPad L380,Certified,118,2028
 Lenovo ThinkPad L420,Certified,103,2024
@@ -489,6 +501,8 @@ Lenovo ThinkPad L480,Certified,103,2028
 Lenovo ThinkPad L490,Certified,121,2028
 Lenovo ThinkPad L570,Certified,122,2027
 Lenovo ThinkPad T14 Gen 1 (Intel),Certified,103,2028
+Lenovo ThinkPad T14 Gen 2 (AMD),Certified,125,2030
+Lenovo ThinkPad T14 Gen 2 (Intel),Certified,125,2030
 Lenovo ThinkPad T14s Gen 1 (AMD),Certified,103,2030
 Lenovo ThinkPad T15 Gen 2,Certified,107,2030
 Lenovo ThinkPad T410,Decertified,103,2023
@@ -515,6 +529,7 @@ Lenovo ThinkPad X1 Carbon 6th Gen,Certified,103,2028
 Lenovo ThinkPad X1 Carbon 7th Gen,Certified,103,2028
 Lenovo ThinkPad X1 Carbon 8th Gen,Certified,103,2028
 Lenovo ThinkPad X1 Carbon 9th Gen,Certified,103,2030
+Lenovo ThinkPad X13 Gen 1 (Intel),Certified,126,2028
 Lenovo ThinkPad X140e,Certified,103,2026
 Lenovo ThinkPad X230,Certified,103,2025
 Lenovo ThinkPad X240,Certified,,2026
@@ -552,6 +567,7 @@ Microsoft Surface Pro 3,Certified,108,2026
 Minisforum N36 Mini PC,Certified,103,2027
 Minisforum S41,Certified,103,2028
 Naver Whalebook,Certified,103,2028
+PAR Wave,Certified,125,2029
 Panasonic Toughbook FZ55,Certified,103,2028
 Positivo 17SF,Certified,120,2028
 Samsung KM24C-3,Certified,116,2030
@@ -576,6 +592,7 @@ Toshiba Satellite Pro R50-C,Certified,103,2027
 Toshiba TCx 900,Certified,121,2030
 Toshiba Tecra A40-C,Certified,103,2027
 Toshiba Tecra C40-C,Certified,103,2027
+Vexia S104P,Certified,125,2030
 Zotac MA761,Certified,103,2026
 Zotac ZBOX AQ01 PLUS,Certified,103,2026
 Zotac ZBOX CI320 nano,Certified,103,2026

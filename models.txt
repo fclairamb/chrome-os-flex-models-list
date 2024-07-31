@@ -1,6 +1,7 @@
 AOPEN DE3450
 AOPEN DE3650
 AOPEN DE3650S
+AOPEN DE6340
 AOPEN DEX5750
 AOPEN WB5116
 AOPEN eTILE 15M-FP2
@@ -59,6 +60,7 @@ Apple Macbook Pro 11,2
 Apple Macbook Pro 9,2
 Apple iMac 11,2
 Asus ExpertBook B1500CEA
+Asus ExpertBook B1502CBA
 Asus ExpertCenter D700SD
 Asus P1512CEA
 Atrust t20W
@@ -114,6 +116,7 @@ Dell Latitude 5530
 Dell Latitude 5580
 Dell Latitude 5590
 Dell Latitude 7280
+Dell Latitude 7300
 Dell Latitude 7310
 Dell Latitude 7380
 Dell Latitude 7400
@@ -173,9 +176,12 @@ Dell Optiplex 7070
 Dell Optiplex 7080
 Dell Optiplex 7090
 Dell Optiplex 7400
+Dell Optiplex 7410 AIO
 Dell Optiplex 7440 AIO
 Dell Optiplex 7450 AIO
-Dell Optiplex 7460 All-in-One
+Dell Optiplex 7460 AIO
+Dell Optiplex 7480 AIO
+Dell Optiplex 7490 AIO
 Dell Optiplex 790
 Dell Optiplex 9010
 Dell Optiplex 9020
@@ -198,6 +204,7 @@ Dell XPS 13 2-in-1 9365
 Dell XPS 13 9300
 Dell XPS 13 9310
 Dell XPS 13 9380
+Delphi Endura 15X Model 9330-150-A01
 Dynabook K50
 Dynabook R73/F
 ECS LIVA Q2
@@ -218,12 +225,14 @@ Fujitsu Stylistic Q738
 GeoBook 1e
 Giada D613
 Giada DM6
+Giada F106D
 Giada OPS PC612
 Giada VM27
 HP 20-r013 AIO
 HP 215 G1
 HP 255 G7 (AMD)
 HP 255 G7 (Intel)
+HP 280 G9
 HP 3115m
 HP 3125 Notebook
 HP Compaq 6200 Pro
@@ -233,6 +242,7 @@ HP Compaq Elite 8300
 HP Compaq Pro 6305
 HP Elite t655 Thin Client
 HP EliteBook 2560p
+HP EliteBook 645 G10
 HP EliteBook 745 G5
 HP EliteBook 820 G1
 HP EliteBook 820 G2
@@ -333,6 +343,7 @@ HP ProOne 400 G6 AIO
 HP ProOne 600 G1 AIO
 HP ProOne 600 G2 AIO
 HP ProOne 600 G6 AIO
+HP RP9 G1
 HP Spectre x360 13 (2017)
 HP Spectre x360 13 (2018)
 HP Stream 11 Pro G1
@@ -459,6 +470,7 @@ Lenovo ThinkPad E550
 Lenovo ThinkPad E560
 Lenovo ThinkPad Edge E430
 Lenovo ThinkPad Edge E530
+Lenovo ThinkPad L13 Gen 2
 Lenovo ThinkPad L14 Gen 1
 Lenovo ThinkPad L380
 Lenovo ThinkPad L420
@@ -469,6 +481,8 @@ Lenovo ThinkPad L480
 Lenovo ThinkPad L490
 Lenovo ThinkPad L570
 Lenovo ThinkPad T14 Gen 1 (Intel)
+Lenovo ThinkPad T14 Gen 2 (AMD)
+Lenovo ThinkPad T14 Gen 2 (Intel)
 Lenovo ThinkPad T14s Gen 1 (AMD)
 Lenovo ThinkPad T15 Gen 2
 Lenovo ThinkPad T420
@@ -493,6 +507,7 @@ Lenovo ThinkPad X1 Carbon 6th Gen
 Lenovo ThinkPad X1 Carbon 7th Gen
 Lenovo ThinkPad X1 Carbon 8th Gen
 Lenovo ThinkPad X1 Carbon 9th Gen
+Lenovo ThinkPad X13 Gen 1 (Intel)
 Lenovo ThinkPad X140e
 Lenovo ThinkPad X230
 Lenovo ThinkPad X240
@@ -528,6 +543,7 @@ Microsoft Surface Pro 3
 Minisforum N36 Mini PC
 Minisforum S41
 Naver Whalebook
+PAR Wave
 Panasonic Toughbook FZ55
 Positivo 17SF
 Samsung KM24C-3
@@ -552,6 +568,7 @@ Toshiba Satellite Pro R50-C
 Toshiba TCx 900
 Toshiba Tecra A40-C
 Toshiba Tecra C40-C
+Vexia S104P
 Zotac MA761
 Zotac ZBOX AQ01 PLUS
 Zotac ZBOX CI320 nano
