@@ -44,6 +44,7 @@ Acer Veriton L4630G
 Acer Veriton S2690G
 Advantech ARK-1125H
 Advantech DS-085
+Advantech DS-202
 Advantech DS-410
 Advantech DS-570
 Advantech PPC-3150SW
@@ -63,6 +64,8 @@ Asus ExpertBook B1500CEA
 Asus ExpertBook B1502CBA
 Asus ExpertCenter D700SD
 Asus P1512CEA
+Asus PN43-S1
+Asus Prime J4005I-C
 Atrust t20W
 Atrust t21W
 Azulle Access 4
@@ -73,6 +76,7 @@ Dell Inspiron 15 3531
 Dell Inspiron 3280 AIO
 Dell Inspiron 3501
 Dell Inspiron 3505
+Dell Inspiron 5567
 Dell Latitude 3120
 Dell Latitude 3150
 Dell Latitude 3160
@@ -109,6 +113,7 @@ Dell Latitude 5410
 Dell Latitude 5411
 Dell Latitude 5420
 Dell Latitude 5480
+Dell Latitude 5490
 Dell Latitude 5500
 Dell Latitude 5510
 Dell Latitude 5520
@@ -180,6 +185,7 @@ Dell Optiplex 7410 AIO
 Dell Optiplex 7440 AIO
 Dell Optiplex 7450 AIO
 Dell Optiplex 7460 AIO
+Dell Optiplex 7470 AIO
 Dell Optiplex 7480 AIO
 Dell Optiplex 7490 AIO
 Dell Optiplex 790
@@ -209,12 +215,14 @@ Dynabook K50
 Dynabook R73/F
 ECS LIVA Q2
 ECS Liva X BAT2NBW
+Elo 15-inch-I-Series 3 (Intel E606511)
 Elo 19M2 Rev A
 Elo 22-inch I-Series
 Elo ECMG4
 Elo ESY 15i2
 Elo ESY 15i3
 Elo ESY 15i5
+Elo I-Series 2 E550870
 Fujitsu Esprimo Q556/2
 Fujitsu Futro s720 Thin Client
 Fujitsu Lifebook A574/H
@@ -255,6 +263,7 @@ HP EliteBook 840 G3
 HP EliteBook 840 G4
 HP EliteBook 840 G5
 HP EliteBook 840 G6
+HP EliteBook 840 G7
 HP EliteBook 840 G8
 HP EliteBook 8460p
 HP EliteBook 8470p
@@ -272,6 +281,7 @@ HP EliteDesk 800 G3
 HP EliteDesk 800 G4
 HP EliteDesk 800 G5
 HP EliteDesk 800 G6
+HP Elitebook 830 G8
 HP Elitedesk 705 G5
 HP Engage Flex Mini
 HP Engage Flex Pro
@@ -312,6 +322,7 @@ HP ProBook 455 G2
 HP ProBook 455 G3
 HP ProBook 640 G1
 HP ProBook 645 G1
+HP ProBook 645 G4
 HP ProBook 6460b
 HP ProBook 6465b
 HP ProBook 6470b
@@ -382,6 +393,7 @@ INP i1000M
 Imago IMC-OPS-VI-11G-I5
 Intel Compute Stick STK1AW32SC
 Intel Compute Stick STK2m364CC
+Intel NUC 12CP
 Intel NUC 8 Rugged NUC8CCHK
 Intel NUC D34010WYK
 Intel NUC DC3217IYE
@@ -432,6 +444,7 @@ Lenovo ThinkCentre M70q Gen 2
 Lenovo ThinkCentre M70q Gen 3
 Lenovo ThinkCentre M70q Gen 4
 Lenovo ThinkCentre M710q
+Lenovo ThinkCentre M715q Gen 2
 Lenovo ThinkCentre M71e
 Lenovo ThinkCentre M720q
 Lenovo ThinkCentre M72e
@@ -472,14 +485,20 @@ Lenovo ThinkPad Edge E430
 Lenovo ThinkPad Edge E530
 Lenovo ThinkPad L13 Gen 2
 Lenovo ThinkPad L14 Gen 1
+Lenovo ThinkPad L15 Gen 3
+Lenovo ThinkPad L15 Gen 4 (AMD)
 Lenovo ThinkPad L380
 Lenovo ThinkPad L420
 Lenovo ThinkPad L430
 Lenovo ThinkPad L440
 Lenovo ThinkPad L460
+Lenovo ThinkPad L470
 Lenovo ThinkPad L480
 Lenovo ThinkPad L490
 Lenovo ThinkPad L570
+Lenovo ThinkPad L580
+Lenovo ThinkPad L590
+Lenovo ThinkPad T14 G4
 Lenovo ThinkPad T14 Gen 1 (Intel)
 Lenovo ThinkPad T14 Gen 2 (AMD)
 Lenovo ThinkPad T14 Gen 2 (Intel)
@@ -509,10 +528,15 @@ Lenovo ThinkPad X1 Carbon 8th Gen
 Lenovo ThinkPad X1 Carbon 9th Gen
 Lenovo ThinkPad X13 Gen 1 (Intel)
 Lenovo ThinkPad X140e
+Lenovo ThinkPad X220
 Lenovo ThinkPad X230
 Lenovo ThinkPad X240
 Lenovo ThinkPad X250
 Lenovo ThinkPad X260
+Lenovo ThinkPad X270
+Lenovo ThinkPad X280
+Lenovo ThinkPad X380 Yoga
+Lenovo ThinkPad X390
 Lenovo ThinkPad Yoga 11e G1
 Lenovo ThinkPad Yoga 11e G2
 Lenovo ThinkPad Yoga 11e G3
@@ -520,10 +544,6 @@ Lenovo ThinkPad Yoga 11e G4
 Lenovo ThinkPad Yoga 11e G5
 Lenovo ThinkPad Yoga 11e G6
 Lenovo ThinkPad Yoga L390
-Lenovo ThinkPad x220
-Lenovo ThinkPad x270
-Lenovo ThinkPad x280
-Lenovo ThinkPad x380 Yoga
 Lenovo Thinkcentre M800Z
 Lenovo Thinkcentre M910q
 Lenovo Thinkpad E14 Gen 1
@@ -533,13 +553,15 @@ Lenovo Thinkpad T450
 Lenovo Thinkpad T540p
 Lenovo Thinkpad T560
 Lenovo V14 G2 ITL
+Lenovo V15 G3
+Lenovo V310z AIO
 Lenovo V330 AIO
 Lenovo V330-20ICB AIO
 Lenovo V520
 Lenovo V530
-Lenovo v310z AIO
 Microsoft Surface Laptop SE
 Microsoft Surface Pro 3
+Minisforum EliteMini HX90
 Minisforum N36 Mini PC
 Minisforum S41
 Naver Whalebook
