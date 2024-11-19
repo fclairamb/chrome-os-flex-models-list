@@ -76,7 +76,6 @@ Dell Inspiron 15 3531
 Dell Inspiron 3280 AIO
 Dell Inspiron 3501
 Dell Inspiron 3505
-Dell Inspiron 5567
 Dell Latitude 3120
 Dell Latitude 3150
 Dell Latitude 3160
@@ -561,7 +560,6 @@ Lenovo V520
 Lenovo V530
 Microsoft Surface Laptop SE
 Microsoft Surface Pro 3
-Minisforum EliteMini HX90
 Minisforum N36 Mini PC
 Minisforum S41
 Naver Whalebook
