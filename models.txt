@@ -48,8 +48,8 @@ Advantech DS-202
 Advantech DS-410
 Advantech DS-570
 Advantech PPC-3150SW
-Advantech UTC-115
-Advantech UTC-120
+Advantech UTC-115G
+Advantech UTC-120G
 Advantech UTC-124G3
 Advantech UTC-520F
 Advantech UTC-520J
