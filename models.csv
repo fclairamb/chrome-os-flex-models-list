@@ -4,9 +4,12 @@ AOPEN DE3650,Certified,107,2029
 AOPEN DE3650S,Certified,107,2029
 AOPEN DE6340,Certified,126,2029
 AOPEN DEX5750,Certified,103,2030
+AOPEN ST100,Certified,129,2028
 AOPEN WB5116,Certified,116,2030
 AOPEN eTILE 15M-FP2,Certified,114,2028
 AOPEN eTILE 19M AIO,Certified,103,2028
+ASUS B5402FEA,Certified,130,2030
+ASUS B5402FVA,Certified,130,2032
 ASUS BR1100CKA,Certified,111,2029
 ASUS BR1100FK,Certified,110,2029
 ASUS EeeBook E402SA,Certified,103,2029
@@ -50,8 +53,10 @@ Advantech DS-202,Certified,127,2029
 Advantech DS-410,Certified,110,2029
 Advantech DS-570,Certified,103,2026
 Advantech PPC-3150SW,Certified,105,2028
+Advantech USC-360H,Certified,129,2030
 Advantech UTC-115G,Certified,119,2028
 Advantech UTC-120G,Certified,110,2028
+Advantech UTC-120K,Certified,129,2030
 Advantech UTC-124G3,Certified,111,2028
 Advantech UTC-520F,Certified,103,2027
 Advantech UTC-520J,Certified,118,2030
@@ -192,6 +197,7 @@ Dell Optiplex 7080,Certified,103,2028
 Dell Optiplex 7090,Certified,118,2030
 Dell Optiplex 7400,Certified,117,2030
 Dell Optiplex 7410 AIO,Certified,125,2030
+Dell Optiplex 7420 AIO,Certified,129,2032
 Dell Optiplex 7440 AIO,Certified,105,2027
 Dell Optiplex 7450 AIO,Certified,103,2028
 Dell Optiplex 7460 AIO,Certified,119,2028
@@ -265,7 +271,10 @@ HP Compaq Pro 6305,Certified,103,2025
 HP Elite t655 Thin Client,Certified,119,2030
 HP EliteBook 2560p,Certified,103,2024
 HP EliteBook 2740p,Decertified,103,2023
+HP EliteBook 630 G9,Certified,129,2030
 HP EliteBook 645 G10,Certified,125,2032
+HP EliteBook 650 G10,Certified,129,2032
+HP EliteBook 650 G9,Certified,129,2030
 HP EliteBook 745 G5,Certified,122,2029
 HP EliteBook 820 G1,Certified,103,2026
 HP EliteBook 820 G2,Certified,103,2027
@@ -317,6 +326,7 @@ HP ProBook 11 G2,Certified,103,2027
 HP ProBook 250 G7,Certified,103,2028
 HP ProBook 430 G1,Certified,103,2026
 HP ProBook 430 G3,Certified,103,2027
+HP ProBook 440 G10,Certified,129,2032
 HP ProBook 440 G2,Certified,103,2027
 HP ProBook 440 G3,Certified,103,2027
 HP ProBook 440 G5,Certified,103,2028
@@ -327,6 +337,7 @@ HP ProBook 4440s,Certified,103,2025
 HP ProBook 445 G6,Certified,119,2030
 HP ProBook 445 G7,Certified,119,2030
 HP ProBook 450 G1,Certified,103,2026
+HP ProBook 450 G10,Certified,129,2032
 HP ProBook 450 G2,Certified,103,2027
 HP ProBook 450 G3,Certified,103,2027
 HP ProBook 450 G5,Certified,103,2028
@@ -345,6 +356,7 @@ HP ProBook 6465b,Certified,103,2024
 HP ProBook 6470b,Certified,103,2025
 HP ProBook 650 G1,Certified,103,2026
 HP ProBook 650 G2,Certified,103,2027
+HP ProBook 650 G8,Certified,129,2030
 HP ProBook 655,Certified,103,2025
 HP ProBook 6550b,Decertified,103,2023
 HP ProBook 6560b,Certified,103,2024
@@ -405,6 +417,7 @@ HP x360 310 G2,Certified,103,2027
 HP ProBook 440 G1,Certified,103,2026
 Hyundai S084,Certified,123,2030
 IBASE SE-102-N,Certified,113,2028
+IBASE SI-324-N,Certified,129,2029
 IBASE SI-626,Certified,113,2026
 INP i1000BT Thin Client,Certified,107,2028
 INP i1000M,Certified,116,2029
@@ -433,6 +446,7 @@ LG 27KC3PJ,Certified,105,2029
 LG 34CN650N,Certified,113,2028
 LG 55CT5WJ,Certified,106,2029
 LG CL600N-6N,Certified,111,2028
+LG CQ600I-6N Thin Client,Certified,130,2029
 LG CQ601W,Certified,122,2029
 LG Gram 15Z995,Certified,103,2028
 LG Gram 15ZT90P,Certified,113,2030
@@ -447,6 +461,7 @@ Lenovo E40-80,Certified,107,2027
 Lenovo IdeaPad S145,Certified,103,2028
 Lenovo Ideapad D330-10IGL,Certified,112,2028
 Lenovo K14 Gen 1,Certified,123,2030
+Lenovo Miix 520,Certified,130,2028
 Lenovo N22,Certified,103,2027
 Lenovo N23 (Windows),Certified,103,2027
 Lenovo N24,Certified,103,2028
@@ -461,6 +476,7 @@ Lenovo ThinkCentre M70q,Certified,103,2028
 Lenovo ThinkCentre M70q Gen 2,Certified,105,2030
 Lenovo ThinkCentre M70q Gen 3,Certified,105,2030
 Lenovo ThinkCentre M70q Gen 4,Certified,120,2030
+Lenovo ThinkCentre M70q Gen 5,Certified,130,2030
 Lenovo ThinkCentre M710q,Certified,103,2027
 Lenovo ThinkCentre M715q Gen 2,Certified,127,2029
 Lenovo ThinkCentre M71e,Certified,103,2024
@@ -582,6 +598,7 @@ Lenovo V330 AIO,Certified,114,2028
 Lenovo V330-20ICB AIO,Certified,103,2028
 Lenovo V520,Certified,114,2028
 Lenovo V530,Certified,114,2028
+Mdina Media M-2,Certified,129,2030
 Microsoft Surface Laptop SE,Certified,103,2028
 Microsoft Surface Pro 3,Certified,108,2026
 Minisforum N36 Mini PC,Certified,103,2027
@@ -589,6 +606,7 @@ Minisforum S41,Certified,103,2028
 Naver Whalebook,Certified,103,2028
 PAR Wave,Certified,125,2029
 Panasonic Toughbook FZ55,Certified,103,2028
+Panasonic Toughpad FZ-G1,Certified,130,2027
 Positivo 17SF,Certified,120,2028
 Samsung KM24C-3,Certified,116,2030
 Satsuki JWIPC H085,Certified,123,2029
@@ -601,6 +619,9 @@ Seneca HDS USFS-01,Certified,117,2029
 Sharp NEC SDM-VI3W-IS,Certified,106,2028
 Shuttle DH610,Certified,120,2030
 Shuttle DH670,Certified,120,2030
+Sony VAIO VJPJ21,Certified,129,2030
+Sony VAIO VJPK21,Certified,129,2030
+Supermicro SYS-E100-13AD,Certified,130,2030
 Techno Horizon ELMO Chrome-OPS S084,Certified,112,2030
 Techno Horizon ELMO Chrome-OPS S104C,Certified,124,2030
 Toshiba Portege Z30-C,Certified,103,2027
@@ -622,6 +643,7 @@ Zotac ZBOX MA760,Certified,103,2027
 Zotac ZBOX PI335 Pico,Minor issues expected,,2028
 Zotac ZBOX PRO CI342GL,Certified,104,2029
 Zotac ZBOX PRO PI336GL Series (SparkLan),Certified,104,2029
+Zotac ZBOX PRO PI339 Pico,Certified,129,2030
 Zotac ZBOX-CI331-AUS,Certified,114,2029
 Zotac ZP-CI332-AUS,Certified,108,2029
 Zotac ZP-CI342-AUS,Certified,107,2029

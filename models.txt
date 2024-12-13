@@ -3,9 +3,12 @@ AOPEN DE3650
 AOPEN DE3650S
 AOPEN DE6340
 AOPEN DEX5750
+AOPEN ST100
 AOPEN WB5116
 AOPEN eTILE 15M-FP2
 AOPEN eTILE 19M AIO
+ASUS B5402FEA
+ASUS B5402FVA
 ASUS BR1100CKA
 ASUS BR1100FK
 ASUS EeeBook E402SA
@@ -48,8 +51,10 @@ Advantech DS-202
 Advantech DS-410
 Advantech DS-570
 Advantech PPC-3150SW
+Advantech USC-360H
 Advantech UTC-115G
 Advantech UTC-120G
+Advantech UTC-120K
 Advantech UTC-124G3
 Advantech UTC-520F
 Advantech UTC-520J
@@ -181,6 +186,7 @@ Dell Optiplex 7080
 Dell Optiplex 7090
 Dell Optiplex 7400
 Dell Optiplex 7410 AIO
+Dell Optiplex 7420 AIO
 Dell Optiplex 7440 AIO
 Dell Optiplex 7450 AIO
 Dell Optiplex 7460 AIO
@@ -249,7 +255,10 @@ HP Compaq Elite 8300
 HP Compaq Pro 6305
 HP Elite t655 Thin Client
 HP EliteBook 2560p
+HP EliteBook 630 G9
 HP EliteBook 645 G10
+HP EliteBook 650 G10
+HP EliteBook 650 G9
 HP EliteBook 745 G5
 HP EliteBook 820 G1
 HP EliteBook 820 G2
@@ -300,6 +309,7 @@ HP ProBook 11 G2
 HP ProBook 250 G7
 HP ProBook 430 G1
 HP ProBook 430 G3
+HP ProBook 440 G10
 HP ProBook 440 G2
 HP ProBook 440 G3
 HP ProBook 440 G5
@@ -310,6 +320,7 @@ HP ProBook 4440s
 HP ProBook 445 G6
 HP ProBook 445 G7
 HP ProBook 450 G1
+HP ProBook 450 G10
 HP ProBook 450 G2
 HP ProBook 450 G3
 HP ProBook 450 G5
@@ -327,6 +338,7 @@ HP ProBook 6465b
 HP ProBook 6470b
 HP ProBook 650 G1
 HP ProBook 650 G2
+HP ProBook 650 G8
 HP ProBook 655
 HP ProBook 6560b
 HP ProBook 6570b
@@ -386,6 +398,7 @@ HP x360 310 G2
 HP ProBook 440 G1
 Hyundai S084
 IBASE SE-102-N
+IBASE SI-324-N
 IBASE SI-626
 INP i1000BT Thin Client
 INP i1000M
@@ -414,6 +427,7 @@ LG 27KC3PJ
 LG 34CN650N
 LG 55CT5WJ
 LG CL600N-6N
+LG CQ600I-6N Thin Client
 LG CQ601W
 LG Gram 15Z995
 LG Gram 15ZT90P
@@ -428,6 +442,7 @@ Lenovo E40-80
 Lenovo IdeaPad S145
 Lenovo Ideapad D330-10IGL
 Lenovo K14 Gen 1
+Lenovo Miix 520
 Lenovo N22
 Lenovo N23 (Windows)
 Lenovo N24
@@ -442,6 +457,7 @@ Lenovo ThinkCentre M70q
 Lenovo ThinkCentre M70q Gen 2
 Lenovo ThinkCentre M70q Gen 3
 Lenovo ThinkCentre M70q Gen 4
+Lenovo ThinkCentre M70q Gen 5
 Lenovo ThinkCentre M710q
 Lenovo ThinkCentre M715q Gen 2
 Lenovo ThinkCentre M71e
@@ -558,6 +574,7 @@ Lenovo V330 AIO
 Lenovo V330-20ICB AIO
 Lenovo V520
 Lenovo V530
+Mdina Media M-2
 Microsoft Surface Laptop SE
 Microsoft Surface Pro 3
 Minisforum N36 Mini PC
@@ -565,6 +582,7 @@ Minisforum S41
 Naver Whalebook
 PAR Wave
 Panasonic Toughbook FZ55
+Panasonic Toughpad FZ-G1
 Positivo 17SF
 Samsung KM24C-3
 Satsuki JWIPC H085
@@ -577,6 +595,9 @@ Seneca HDS USFS-01
 Sharp NEC SDM-VI3W-IS
 Shuttle DH610
 Shuttle DH670
+Sony VAIO VJPJ21
+Sony VAIO VJPK21
+Supermicro SYS-E100-13AD
 Techno Horizon ELMO Chrome-OPS S084
 Techno Horizon ELMO Chrome-OPS S104C
 Toshiba Portege Z30-C
@@ -597,6 +618,7 @@ Zotac ZBOX CI329 nano
 Zotac ZBOX MA760
 Zotac ZBOX PRO CI342GL
 Zotac ZBOX PRO PI336GL Series (SparkLan)
+Zotac ZBOX PRO PI339 Pico
 Zotac ZBOX-CI331-AUS
 Zotac ZP-CI332-AUS
 Zotac ZP-CI342-AUS
