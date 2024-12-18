@@ -17,6 +17,7 @@ ASUS ExpertCenter E5 24 AiO
 ASUS Mini PC PL64
 ASUS Mini PC PN41
 ASUS Mini PC PN64
+ASUS NUC 14 Pro
 ASUS VivoBook L203MA
 ASUS Vivobook Flip 14 TP401NA
 ASUS X401U
@@ -77,6 +78,7 @@ Azulle Access 4
 Beelink Mini S N5095
 CVTE OPS72A-1215U
 Cybernet Cybermed T10C
+Decenta OPS13
 Dell Inspiron 15 3531
 Dell Inspiron 3280 AIO
 Dell Inspiron 3501
@@ -228,6 +230,7 @@ Elo ESY 15i2
 Elo ESY 15i3
 Elo ESY 15i5
 Elo I-Series 2 E550870
+Flytech KPC2
 Fujitsu Esprimo Q556/2
 Fujitsu Futro s720 Thin Client
 Fujitsu Lifebook A574/H
