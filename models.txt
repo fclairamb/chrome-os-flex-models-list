@@ -598,8 +598,6 @@ Seneca HDS USFS-01
 Sharp NEC SDM-VI3W-IS
 Shuttle DH610
 Shuttle DH670
-Sony VAIO VJPJ21
-Sony VAIO VJPK21
 Supermicro SYS-E100-13AD
 Techno Horizon ELMO Chrome-OPS S084
 Techno Horizon ELMO Chrome-OPS S104C
@@ -612,6 +610,8 @@ Toshiba Satellite Pro R50-C
 Toshiba TCx 900
 Toshiba Tecra A40-C
 Toshiba Tecra C40-C
+VAIO VJPJ21
+VAIO VJPK21
 Vexia S104P
 Zotac MA761
 Zotac ZBOX AQ01 PLUS

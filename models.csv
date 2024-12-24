@@ -622,8 +622,6 @@ Seneca HDS USFS-01,Certified,117,2029
 Sharp NEC SDM-VI3W-IS,Certified,106,2028
 Shuttle DH610,Certified,120,2030
 Shuttle DH670,Certified,120,2030
-Sony VAIO VJPJ21,Certified,129,2030
-Sony VAIO VJPK21,Certified,129,2030
 Supermicro SYS-E100-13AD,Certified,130,2030
 Techno Horizon ELMO Chrome-OPS S084,Certified,112,2030
 Techno Horizon ELMO Chrome-OPS S104C,Certified,124,2030
@@ -636,6 +634,8 @@ Toshiba Satellite Pro R50-C,Certified,103,2027
 Toshiba TCx 900,Certified,121,2030
 Toshiba Tecra A40-C,Certified,103,2027
 Toshiba Tecra C40-C,Certified,103,2027
+VAIO VJPJ21,Certified,129,2030
+VAIO VJPK21,Certified,129,2030
 Vexia S104P,Certified,125,2030
 Zotac MA761,Certified,103,2026
 Zotac ZBOX AQ01 PLUS,Certified,103,2026
