@@ -495,7 +495,7 @@ Lenovo ThinkPad Edge E430
 Lenovo ThinkPad Edge E530
 Lenovo ThinkPad L13 Gen 2
 Lenovo ThinkPad L14 Gen 1
-Lenovo ThinkPad L15 Gen 3
+Lenovo ThinkPad L15 Gen 3 (AMD)
 Lenovo ThinkPad L15 Gen 4 (AMD)
 Lenovo ThinkPad L380
 Lenovo ThinkPad L390
