@@ -50,10 +50,12 @@ Advantech DS-410
 Advantech DS-570
 Advantech PPC-3150SW
 Advantech USC-360H
+Advantech USC-360J
 Advantech UTC-115G
 Advantech UTC-120G
 Advantech UTC-120K
 Advantech UTC-124G3
+Advantech UTC-124l
 Advantech UTC-520F
 Advantech UTC-520J
 Apple Mac Mini 7,1
@@ -70,8 +72,10 @@ Asus PN43-S1
 Asus Prime J4005I-C
 Atrust t20W
 Atrust t21W
+Axiomtek DSP-501
 Azulle Access 4
 Beelink Mini S N5095
+Bluefin Modular All in One (Intel)
 CVTE OPS72A-1215U
 Clear Touch CTI-PCMOD-PC25-ST
 Cybernet Cybermed T10C
@@ -105,6 +109,7 @@ Dell Latitude 3480
 Dell Latitude 3490
 Dell Latitude 3510
 Dell Latitude 3520
+Dell Latitude 3540
 Dell Latitude 3550
 Dell Latitude 5290
 Dell Latitude 5290 2-in-1
@@ -115,6 +120,7 @@ Dell Latitude 5400
 Dell Latitude 5410
 Dell Latitude 5411
 Dell Latitude 5420
+Dell Latitude 5430
 Dell Latitude 5480
 Dell Latitude 5490
 Dell Latitude 5500
@@ -149,6 +155,7 @@ Dell Latitude E7470
 Dell OptiPlex 3030 AIO
 Dell OptiPlex 3240 AIO
 Dell OptiPlex 5050
+Dell Optiplex 3000
 Dell Optiplex 3000 Thin Client
 Dell Optiplex 3010
 Dell Optiplex 3011 AIO
@@ -194,6 +201,7 @@ Dell Optiplex 9020
 Dell Optiplex 9020 AIO
 Dell Optiplex 9030 AIO
 Dell Vostro 15 3568
+Dell Vostro 15 5568
 Dell Vostro 3401
 Dell Vostro 3470
 Dell Vostro 3560
@@ -228,6 +236,7 @@ Fujitsu Lifebook A576/TX
 Fujitsu Lifebook A743/G
 Fujitsu Lifebook T726
 Fujitsu Stylistic Q738
+FutureNUC Flexbox
 FutureNUC Lux Series
 GeoBook 1e
 Giada D613
@@ -237,18 +246,21 @@ Giada OPS PC612
 Giada VM27
 HP 20-r013 AIO
 HP 215 G1
+HP 240 G7
 HP 255 G7 (AMD)
 HP 255 G7 (Intel)
 HP 280 G9
 HP Compaq 6300 Pro
 HP Compaq Elite 8300
 HP Compaq Pro 6305
+HP Elite Mini 600 G9
 HP Elite t655 Thin Client
 HP EliteBook 630 G9
 HP EliteBook 645 G10
 HP EliteBook 650 G10
 HP EliteBook 650 G9
 HP EliteBook 745 G5
+HP EliteBook 745 G6
 HP EliteBook 820 G1
 HP EliteBook 820 G2
 HP EliteBook 820 G3
@@ -267,6 +279,7 @@ HP EliteBook 850 G3
 HP EliteBook 850 G5
 HP EliteBook 850 G6
 HP EliteBook 850 G7
+HP EliteBook 850 G8
 HP EliteBook Folio 9470m
 HP EliteBook x360 1030 G2
 HP EliteDesk 705 G1
@@ -278,6 +291,7 @@ HP EliteDesk 800 G3
 HP EliteDesk 800 G4
 HP EliteDesk 800 G5
 HP EliteDesk 800 G6
+HP Elitebook 650 G5
 HP Elitebook 830 G8
 HP Elitedesk 705 G5
 HP Engage Flex Mini
@@ -422,6 +436,7 @@ LG 55CT5WJ
 LG CL600N-6N
 LG CQ600I-6N Thin Client
 LG CQ601W
+LG Gram 15Z90Q
 LG Gram 15Z995
 LG Gram 15ZT90P
 LG Gram 16UT70Q
@@ -441,6 +456,7 @@ Lenovo N23 (Windows)
 Lenovo N24
 Lenovo T490s
 Lenovo ThinkBook 14 G2
+Lenovo ThinkCenter M90q G1
 Lenovo ThinkCentre E73
 Lenovo ThinkCentre M53
 Lenovo ThinkCentre M600
@@ -474,6 +490,7 @@ Lenovo ThinkCentre M90n Nano
 Lenovo ThinkCentre M920q
 Lenovo ThinkCentre M92p
 Lenovo ThinkCentre M93p
+Lenovo ThinkCentre Neo 50a Gen 5
 Lenovo ThinkPad 11e G1
 Lenovo ThinkPad 11e G2
 Lenovo ThinkPad 11e G3
@@ -565,6 +582,7 @@ Lenovo V330-20ICB AIO
 Lenovo V520
 Lenovo V530
 Mdina Media M-2
+MicroTouch M1-xxxIC series
 Microsoft Surface Laptop SE
 Microsoft Surface Pro 3
 Minisforum N36 Mini PC
@@ -573,8 +591,10 @@ Naver Whalebook
 PAR Wave
 Panasonic Toughbook FZ55
 Panasonic Toughpad FZ-G1
+Polytouch Flex 21.5
 Posiflex RT-2016-G2
 Positivo 17SF
+ProDVX IPPC-10SLB (R24-6702)
 Samsung KM24C-3
 Satsuki JWIPC H085
 Satsuki MP-OPS-GX
@@ -597,6 +617,7 @@ Toshiba Satellite Pro R50-B
 Toshiba Satellite Pro R50-C
 Toshiba TCx 900
 Toshiba Tecra A40-C
+Toshiba Tecra A50-C
 Toshiba Tecra C40-C
 VAIO VJPJ21
 VAIO VJPK21
