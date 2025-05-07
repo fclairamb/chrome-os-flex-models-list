@@ -591,10 +591,10 @@ Naver Whalebook
 PAR Wave
 Panasonic Toughbook FZ55
 Panasonic Toughpad FZ-G1
-Polytouch Flex 21.5
 Posiflex RT-2016-G2
 Positivo 17SF
 ProDVX IPPC-10SLB (R24-6702)
+Pyramid Flex 21.5
 Samsung KM24C-3
 Satsuki JWIPC H085
 Satsuki MP-OPS-GX
