@@ -60,6 +60,7 @@ Advantech UTC-120G,Certified,110,2028
 Advantech UTC-120K,Certified,129,2030
 Advantech UTC-124G3,Certified,111,2028
 Advantech UTC-124l,Certified,134,2029
+Advantech UTC-320K,Certified,136,2030
 Advantech UTC-520F,Certified,103,2027
 Advantech UTC-520J,Certified,118,2030
 "Apple Mac Mini 7,1",Certified,103,2026
@@ -73,6 +74,7 @@ Advantech UTC-520J,Certified,118,2030
 Asus ExpertBook B1500CEA,Certified,121,2030
 Asus ExpertBook B1502CBA,Certified,125,2030
 Asus ExpertCenter D700SD,Certified,120,2030
+Asus Expertbook B1502CVA,Certified,135,2032
 Asus P1512CEA,Certified,122,2030
 Asus PN43-S1,Certified,128,2030
 Asus Prime J4005I-C,Certified,127,2028
@@ -108,6 +110,7 @@ Dell Latitude 3400,Certified,103,2028
 Dell Latitude 3410,Certified,103,2028
 Dell Latitude 3420,Certified,103,2030
 Dell Latitude 3440 (2014),Certified,103,2026
+Dell Latitude 3440 (Intel 13th Gen),Certified,136,2032
 Dell Latitude 3450,Certified,103,2027
 Dell Latitude 3460,Certified,103,2027
 Dell Latitude 3470,Certified,103,2027
@@ -127,6 +130,7 @@ Dell Latitude 5410,Certified,112,2028
 Dell Latitude 5411,Certified,112,2028
 Dell Latitude 5420,Certified,103,2030
 Dell Latitude 5430,Certified,134,2030
+Dell Latitude 5440,Certified,134,2032
 Dell Latitude 5480,Certified,127,2028
 Dell Latitude 5490,Certified,127,2028
 Dell Latitude 5500,Certified,103,2028
@@ -140,6 +144,7 @@ Dell Latitude 7300,Certified,125,2028
 Dell Latitude 7310,Certified,113,2028
 Dell Latitude 7380,Certified,114,2028
 Dell Latitude 7400,Certified,103,2028
+Dell Latitude 7410,Certified,135,2028
 Dell Latitude 7420,Certified,103,2030
 Dell Latitude 7480,Certified,103,2028
 Dell Latitude 7490,Minor issues expected,,2028
@@ -399,6 +404,10 @@ HP ProOne 400 G6 AIO,Certified,103,2028
 HP ProOne 600 G1 AIO,Certified,103,2026
 HP ProOne 600 G2 AIO,Certified,103,2027
 HP ProOne 600 G6 AIO,Certified,103,2028
+HP Probook 430 G4,Certified,136,2028
+HP Probook 430 G5,Certified,136,2028
+HP Probook 440 G8,Certified,136,2030
+HP Probook 450 G8,Certified,136,2030
 HP RP9 G1,Certified,126,2027
 HP Spectre x360 13 (2017),Certified,103,2028
 HP Spectre x360 13 (2018),Certified,103,2028
@@ -430,6 +439,7 @@ HP t730 Thin Client,Certified,103,2027
 HP t740 Thin Client,Certified,103,2030
 HP x360 310 G2,Certified,103,2027
 HP ProBook 440 G1,Certified,103,2026
+Hp EliteBook x360 1040 G7,Certified,135,2028
 Hyundai S084,Certified,123,2030
 IBASE SE-102-N,Certified,113,2028
 IBASE SI-324-N,Certified,129,2029

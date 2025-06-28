@@ -56,6 +56,7 @@ Advantech UTC-120G
 Advantech UTC-120K
 Advantech UTC-124G3
 Advantech UTC-124l
+Advantech UTC-320K
 Advantech UTC-520F
 Advantech UTC-520J
 Apple Mac Mini 7,1
@@ -67,6 +68,7 @@ Apple Macbook Pro 9,2
 Asus ExpertBook B1500CEA
 Asus ExpertBook B1502CBA
 Asus ExpertCenter D700SD
+Asus Expertbook B1502CVA
 Asus P1512CEA
 Asus PN43-S1
 Asus Prime J4005I-C
@@ -102,6 +104,7 @@ Dell Latitude 3400
 Dell Latitude 3410
 Dell Latitude 3420
 Dell Latitude 3440 (2014)
+Dell Latitude 3440 (Intel 13th Gen)
 Dell Latitude 3450
 Dell Latitude 3460
 Dell Latitude 3470
@@ -121,6 +124,7 @@ Dell Latitude 5410
 Dell Latitude 5411
 Dell Latitude 5420
 Dell Latitude 5430
+Dell Latitude 5440
 Dell Latitude 5480
 Dell Latitude 5490
 Dell Latitude 5500
@@ -134,6 +138,7 @@ Dell Latitude 7300
 Dell Latitude 7310
 Dell Latitude 7380
 Dell Latitude 7400
+Dell Latitude 7410
 Dell Latitude 7420
 Dell Latitude 7480
 Dell Latitude E5430
@@ -372,6 +377,10 @@ HP ProOne 400 G6 AIO
 HP ProOne 600 G1 AIO
 HP ProOne 600 G2 AIO
 HP ProOne 600 G6 AIO
+HP Probook 430 G4
+HP Probook 430 G5
+HP Probook 440 G8
+HP Probook 450 G8
 HP RP9 G1
 HP Spectre x360 13 (2017)
 HP Spectre x360 13 (2018)
@@ -402,6 +411,7 @@ HP t730 Thin Client
 HP t740 Thin Client
 HP x360 310 G2
 HP ProBook 440 G1
+Hp EliteBook x360 1040 G7
 Hyundai S084
 IBASE SE-102-N
 IBASE SI-324-N
