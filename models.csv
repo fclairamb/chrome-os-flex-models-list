@@ -461,8 +461,10 @@ Intel NUC NUC6i3SYH,Certified,103,2027
 Intel NUC NUC7i3BNH,Certified,103,2028
 Intel NUC NUC8i5BEH,Certified,103,2028
 Intel NUC NUC8i7BEH,Certified,103,2028
+Intel NUC NUC8i7HNK,Certified,135,2028
 Intel NUC11TNKv5,Certified,116,2030
 Intel NUC12WSHi3,Certified,117,2030
+Intel NUC7i5BNK,Certified,135,2028
 Justice Tech Securebook 5.0,Certified,107,2028
 Justice Tech Securebook 6.0,Certified,110,2029
 LG 14ZT980 Mobile Thin Client,Certified,103,2028
@@ -507,9 +509,11 @@ Lenovo ThinkCentre M70q Gen 4,Certified,120,2030
 Lenovo ThinkCentre M70q Gen 5,Certified,130,2030
 Lenovo ThinkCentre M710q,Certified,103,2027
 Lenovo ThinkCentre M710s,Certified,131,2027
+Lenovo ThinkCentre M710t,Certified,136,2028
 Lenovo ThinkCentre M715q Gen 2,Certified,127,2029
 Lenovo ThinkCentre M71e,Decertified,103,2024
 Lenovo ThinkCentre M720q,Certified,103,2028
+Lenovo ThinkCentre M720t,Certified,136,2028
 Lenovo ThinkCentre M72e,Certified,103,2025
 Lenovo ThinkCentre M72z AIO,Certified,103,2025
 Lenovo ThinkCentre M73,Certified,103,2026
@@ -571,6 +575,7 @@ Lenovo ThinkPad T14 G4,Certified,128,2032
 Lenovo ThinkPad T14 Gen 1 (Intel),Certified,103,2028
 Lenovo ThinkPad T14 Gen 2 (AMD),Certified,125,2030
 Lenovo ThinkPad T14 Gen 2 (Intel),Certified,125,2030
+Lenovo ThinkPad T14 Gen 3,Certified,136,2030
 Lenovo ThinkPad T14s Gen 1 (AMD),Certified,103,2030
 Lenovo ThinkPad T15 Gen 2,Certified,107,2030
 Lenovo ThinkPad T420,Decertified,103,2024

@@ -433,8 +433,10 @@ Intel NUC NUC6i3SYH
 Intel NUC NUC7i3BNH
 Intel NUC NUC8i5BEH
 Intel NUC NUC8i7BEH
+Intel NUC NUC8i7HNK
 Intel NUC11TNKv5
 Intel NUC12WSHi3
+Intel NUC7i5BNK
 Justice Tech Securebook 5.0
 Justice Tech Securebook 6.0
 LG 14ZT980 Mobile Thin Client
@@ -479,8 +481,10 @@ Lenovo ThinkCentre M70q Gen 4
 Lenovo ThinkCentre M70q Gen 5
 Lenovo ThinkCentre M710q
 Lenovo ThinkCentre M710s
+Lenovo ThinkCentre M710t
 Lenovo ThinkCentre M715q Gen 2
 Lenovo ThinkCentre M720q
+Lenovo ThinkCentre M720t
 Lenovo ThinkCentre M72e
 Lenovo ThinkCentre M72z AIO
 Lenovo ThinkCentre M73
@@ -539,6 +543,7 @@ Lenovo ThinkPad T14 G4
 Lenovo ThinkPad T14 Gen 1 (Intel)
 Lenovo ThinkPad T14 Gen 2 (AMD)
 Lenovo ThinkPad T14 Gen 2 (Intel)
+Lenovo ThinkPad T14 Gen 3
 Lenovo ThinkPad T14s Gen 1 (AMD)
 Lenovo ThinkPad T15 Gen 2
 Lenovo ThinkPad T430
