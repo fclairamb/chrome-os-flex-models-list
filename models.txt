@@ -49,6 +49,7 @@ Advantech DS-202
 Advantech DS-410
 Advantech DS-570
 Advantech PPC-3150SW
+Advantech UBX-110K
 Advantech USC-360H
 Advantech USC-360J
 Advantech UTC-115G
@@ -233,6 +234,7 @@ Elo ESY 15i2
 Elo ESY 15i3
 Elo ESY 15i5
 Elo I-Series 2 E550870
+Faytech FAYX6413E
 Flytech KPC2
 Fujitsu Esprimo Q556/2
 Fujitsu Futro s720 Thin Client
@@ -261,6 +263,7 @@ HP Compaq Pro 6305
 HP Elite Mini 600 G9
 HP Elite t655 Thin Client
 HP EliteBook 630 G9
+HP EliteBook 640 G10
 HP EliteBook 645 G10
 HP EliteBook 650 G10
 HP EliteBook 650 G9
@@ -271,6 +274,7 @@ HP EliteBook 820 G2
 HP EliteBook 820 G3
 HP EliteBook 830 G5
 HP EliteBook 830 G6
+HP EliteBook 830 G7
 HP EliteBook 840 G1
 HP EliteBook 840 G2
 HP EliteBook 840 G3
@@ -307,6 +311,7 @@ HP Engage Go 10
 HP Engage One
 HP Engage One Essential AIO
 HP Engage One Pro AIO
+HP Engage One Pro G2
 HP Fortis x360 G9 Education Edition
 HP MP9 G4
 HP Notebook 15-ay015dx
@@ -440,6 +445,7 @@ Intel NUC7i5BNK
 Justice Tech Securebook 5.0
 Justice Tech Securebook 6.0
 LG 14ZT980 Mobile Thin Client
+LG 15U50T
 LG 24CN650N
 LG 24CN670NK6N
 LG 27KC3PJ
@@ -608,6 +614,7 @@ Panasonic Toughbook FZ55
 Panasonic Toughpad FZ-G1
 Posiflex RT-2016-G2
 Positivo 17SF
+Predia Chrome OPS OPO Series
 ProDVX IPPC-10SLB (R24-6702)
 Pyramid Flex 21.5
 Samsung KM24C-3

@@ -53,6 +53,7 @@ Advantech DS-202,Certified,127,2029
 Advantech DS-410,Certified,110,2029
 Advantech DS-570,Certified,103,2026
 Advantech PPC-3150SW,Certified,105,2028
+Advantech UBX-110K,Certified,137,2030
 Advantech USC-360H,Certified,129,2030
 Advantech USC-360J,Certified,134,2029
 Advantech UTC-115G,Certified,119,2028
@@ -249,6 +250,7 @@ Elo ESY 15i2,Certified,111,2028
 Elo ESY 15i3,Certified,113,2028
 Elo ESY 15i5,Certified,112,2028
 Elo I-Series 2 E550870,Certified,128,2028
+Faytech FAYX6413E,Certified,137,2029
 Flytech KPC2,Certified,129,2029
 Fujitsu Esprimo Q556/2,Certified,119,2027
 Fujitsu Futro s720 Thin Client,Certified,103,2027
@@ -282,6 +284,7 @@ HP Elite Mini 600 G9,Certified,134,2030
 HP Elite t655 Thin Client,Certified,119,2030
 HP EliteBook 2560p,Decertified,103,2024
 HP EliteBook 630 G9,Certified,129,2030
+HP EliteBook 640 G10,Certified,137,2032
 HP EliteBook 645 G10,Certified,125,2032
 HP EliteBook 650 G10,Certified,129,2032
 HP EliteBook 650 G9,Certified,129,2030
@@ -292,6 +295,7 @@ HP EliteBook 820 G2,Certified,103,2027
 HP EliteBook 820 G3,Certified,103,2027
 HP EliteBook 830 G5,Certified,119,2028
 HP EliteBook 830 G6,Certified,115,2028
+HP EliteBook 830 G7,Certified,137,2028
 HP EliteBook 840 G1,Certified,103,2026
 HP EliteBook 840 G2,Certified,103,2027
 HP EliteBook 840 G3,Certified,103,2027
@@ -329,6 +333,7 @@ HP Engage Go 10,Certified,124,2030
 HP Engage One,Certified,118,2028
 HP Engage One Essential AIO,Certified,103,2030
 HP Engage One Pro AIO,Certified,103,2030
+HP Engage One Pro G2,Certified,137,2030
 HP Fortis x360 G9 Education Edition,Certified,112,2029
 HP MP9 G4,Certified,131,2028
 HP Notebook 15-ay015dx,Certified,103,2027
@@ -468,6 +473,7 @@ Intel NUC7i5BNK,Certified,135,2028
 Justice Tech Securebook 5.0,Certified,107,2028
 Justice Tech Securebook 6.0,Certified,110,2029
 LG 14ZT980 Mobile Thin Client,Certified,103,2028
+LG 15U50T,Certified,137,2032
 LG 24CN650N,Certified,113,2028
 LG 24CN670NK6N,Certified,108,2028
 LG 27KC3PJ,Certified,105,2029
@@ -642,6 +648,7 @@ Panasonic Toughbook FZ55,Certified,103,2028
 Panasonic Toughpad FZ-G1,Certified,130,2027
 Posiflex RT-2016-G2,Certified,131,2029
 Positivo 17SF,Certified,120,2028
+Predia Chrome OPS OPO Series,Certified,136,2030
 ProDVX IPPC-10SLB (R24-6702),Certified,134,2030
 Pyramid Flex 21.5,Certified,133,2028
 Samsung KM24C-3,Certified,116,2030
