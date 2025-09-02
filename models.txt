@@ -80,6 +80,7 @@ Azulle Access 4
 Beelink Mini S N5095
 Bluefin Modular All in One (Intel)
 CVTE OPS72A-1215U
+Centerm F650
 Clear Touch CTI-PCMOD-PC25-ST
 Cybernet Cybermed T10C
 Decenta OPS13
@@ -264,9 +265,12 @@ HP Elite Mini 600 G9
 HP Elite t655 Thin Client
 HP EliteBook 630 G9
 HP EliteBook 640 G10
+HP EliteBook 640 G9
 HP EliteBook 645 G10
+HP EliteBook 645 G11
 HP EliteBook 650 G10
 HP EliteBook 650 G9
+HP EliteBook 665 G11
 HP EliteBook 745 G5
 HP EliteBook 745 G6
 HP EliteBook 820 G1
@@ -283,6 +287,7 @@ HP EliteBook 840 G5
 HP EliteBook 840 G6
 HP EliteBook 840 G7
 HP EliteBook 840 G8
+HP EliteBook 845 G7
 HP EliteBook 8470p
 HP EliteBook 850 G3
 HP EliteBook 850 G5
@@ -325,6 +330,7 @@ HP ProBook 250 G7
 HP ProBook 250 G9
 HP ProBook 430 G1
 HP ProBook 430 G3
+HP ProBook 430 G8
 HP ProBook 440 G10
 HP ProBook 440 G2
 HP ProBook 440 G3
@@ -348,6 +354,7 @@ HP ProBook 450 G9
 HP ProBook 4540s
 HP ProBook 455 G2
 HP ProBook 455 G3
+HP ProBook 630 G8
 HP ProBook 640 G1
 HP ProBook 645 G1
 HP ProBook 645 G4
@@ -373,6 +380,7 @@ HP ProDesk 600 G1
 HP ProDesk 600 G2
 HP ProDesk 600 G3
 HP ProDesk 600 G4
+HP ProDesk 600 G6
 HP ProOne 400 G1 AIO
 HP ProOne 400 G2 AIO
 HP ProOne 400 G3 AIO
@@ -441,6 +449,7 @@ Intel NUC NUC8i7BEH
 Intel NUC NUC8i7HNK
 Intel NUC11TNKv5
 Intel NUC12WSHi3
+Intel NUC13ANK
 Intel NUC7i5BNK
 Justice Tech Securebook 5.0
 Justice Tech Securebook 6.0
@@ -508,6 +517,7 @@ Lenovo ThinkCentre M900
 Lenovo ThinkCentre M90n IoT
 Lenovo ThinkCentre M90n Nano
 Lenovo ThinkCentre M920q
+Lenovo ThinkCentre M920x
 Lenovo ThinkCentre M92p
 Lenovo ThinkCentre M93p
 Lenovo ThinkCentre Neo 50a Gen 5
@@ -596,6 +606,7 @@ Lenovo Thinkpad T450
 Lenovo Thinkpad T540p
 Lenovo Thinkpad T560
 Lenovo V14 G2 ITL
+Lenovo V145
 Lenovo V15 G3
 Lenovo V310z AIO
 Lenovo V330 AIO

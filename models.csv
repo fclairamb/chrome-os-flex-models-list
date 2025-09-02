@@ -86,6 +86,7 @@ Azulle Access 4,Certified,108,2028
 Beelink Mini S N5095,Certified,115,2030
 Bluefin Modular All in One (Intel),Certified,134,2030
 CVTE OPS72A-1215U,Certified,124,2030
+Centerm F650,Certified,138,2028
 Clear Touch CTI-PCMOD-PC25-ST,Certified,132,2028
 Cybernet Cybermed T10C,Certified,103,2025
 Decenta OPS13,Certified,129,2030
@@ -285,9 +286,12 @@ HP Elite t655 Thin Client,Certified,119,2030
 HP EliteBook 2560p,Decertified,103,2024
 HP EliteBook 630 G9,Certified,129,2030
 HP EliteBook 640 G10,Certified,137,2032
+HP EliteBook 640 G9,Certified,138,2030
 HP EliteBook 645 G10,Certified,125,2032
+HP EliteBook 645 G11,Certified,138,2032
 HP EliteBook 650 G10,Certified,129,2032
 HP EliteBook 650 G9,Certified,129,2030
+HP EliteBook 665 G11,Certified,138,2032
 HP EliteBook 745 G5,Certified,122,2029
 HP EliteBook 745 G6,Certified,134,2030
 HP EliteBook 820 G1,Certified,103,2026
@@ -304,6 +308,7 @@ HP EliteBook 840 G5,Certified,103,2028
 HP EliteBook 840 G6,Certified,103,2028
 HP EliteBook 840 G7,Certified,128,2028
 HP EliteBook 840 G8,Certified,119,2030
+HP EliteBook 845 G7,Certified,139,2030
 HP EliteBook 8460p,Decertified,103,2024
 HP EliteBook 8470p,Certified,103,2025
 HP EliteBook 850 G3,Certified,118,2027
@@ -347,6 +352,7 @@ HP ProBook 250 G7,Certified,103,2028
 HP ProBook 250 G9,Certified,132,2030
 HP ProBook 430 G1,Certified,103,2026
 HP ProBook 430 G3,Certified,103,2027
+HP ProBook 430 G8,Certified,139,2030
 HP ProBook 440 G10,Certified,129,2032
 HP ProBook 440 G2,Certified,103,2027
 HP ProBook 440 G3,Certified,103,2027
@@ -372,6 +378,7 @@ HP ProBook 4530s,Decertified,103,2024
 HP ProBook 4540s,Certified,103,2025
 HP ProBook 455 G2,Certified,103,2027
 HP ProBook 455 G3,Certified,103,2027
+HP ProBook 630 G8,Certified,138,2030
 HP ProBook 640 G1,Certified,106,2026
 HP ProBook 645 G1,Certified,103,2025
 HP ProBook 645 G4,Certified,128,2027
@@ -400,6 +407,7 @@ HP ProDesk 600 G1,Certified,103,2026
 HP ProDesk 600 G2,Certified,103,2027
 HP ProDesk 600 G3,Certified,115,2027
 HP ProDesk 600 G4,Certified,103,2028
+HP ProDesk 600 G6,Certified,138,2028
 HP ProOne 400 G1 AIO,Certified,103,2026
 HP ProOne 400 G2 AIO,Certified,103,2027
 HP ProOne 400 G3 AIO,Certified,103,2027
@@ -469,6 +477,7 @@ Intel NUC NUC8i7BEH,Certified,103,2028
 Intel NUC NUC8i7HNK,Certified,135,2028
 Intel NUC11TNKv5,Certified,116,2030
 Intel NUC12WSHi3,Certified,117,2030
+Intel NUC13ANK,Certified,138,2031
 Intel NUC7i5BNK,Certified,135,2028
 Justice Tech Securebook 5.0,Certified,107,2028
 Justice Tech Securebook 6.0,Certified,110,2029
@@ -539,6 +548,7 @@ Lenovo ThinkCentre M90n IoT,Certified,103,2028
 Lenovo ThinkCentre M90n Nano,Certified,113,2028
 Lenovo ThinkCentre M91p,Decertified,103,2024
 Lenovo ThinkCentre M920q,Certified,103,2028
+Lenovo ThinkCentre M920x,Certified,138,2028
 Lenovo ThinkCentre M92p,Certified,103,2025
 Lenovo ThinkCentre M93p,Certified,103,2026
 Lenovo ThinkCentre Neo 50a Gen 5,Certified,132,2032
@@ -630,6 +640,7 @@ Lenovo Thinkpad T450,Certified,103,2027
 Lenovo Thinkpad T540p,Certified,103,2026
 Lenovo Thinkpad T560,Certified,104,2027
 Lenovo V14 G2 ITL,Certified,119,2030
+Lenovo V145,Certified,138,2028
 Lenovo V15 G3,Certified,127,2030
 Lenovo V310z AIO,Certified,103,2028
 Lenovo V330 AIO,Certified,114,2028
