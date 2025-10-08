@@ -121,6 +121,7 @@ Dell Latitude 5290 2-in-1
 Dell Latitude 5300 2-in-1
 Dell Latitude 5310
 Dell Latitude 5320
+Dell Latitude 5330
 Dell Latitude 5400
 Dell Latitude 5410
 Dell Latitude 5411
@@ -207,6 +208,7 @@ Dell Optiplex 9010
 Dell Optiplex 9020
 Dell Optiplex 9020 AIO
 Dell Optiplex 9030 AIO
+Dell Pro 24 All-in-One QC24251 Raptor Lake
 Dell Vostro 15 3568
 Dell Vostro 15 5568
 Dell Vostro 3401
@@ -235,6 +237,9 @@ Elo ESY 15i2
 Elo ESY 15i3
 Elo ESY 15i5
 Elo I-Series 2 E550870
+Engagis EMP4C
+Engagis EMP4C N150
+Engagis EMPi3
 Faytech FAYX6413E
 Flytech KPC2
 Fujitsu Esprimo Q556/2
@@ -432,6 +437,7 @@ IBASE SI-324-N
 IBASE SI-626
 INP i1000BT Thin Client
 INP i1000M
+INSYS Pro B
 Imago AIOS Lite
 Imago IMC-OPS-VI-11G-I5
 Intel Compute Stick STK1AW32SC
@@ -632,6 +638,8 @@ Pyramid Flex 21.5
 Samsung KM24C-3
 Satsuki JWIPC H085
 Satsuki MP-OPS-GX
+Satsuki MP-OPS-HY
+Satsuki MP-OPS-IZ
 Satsuki MP-ULS-PC
 Satsuki Mirai Touch MP-OPS-FW
 Seneca Element MP USFS-05

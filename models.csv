@@ -127,6 +127,7 @@ Dell Latitude 5290 2-in-1,Certified,103,2028
 Dell Latitude 5300 2-in-1,Certified,103,2028
 Dell Latitude 5310,Certified,112,2030
 Dell Latitude 5320,Certified,112,2028
+Dell Latitude 5330,Certified,136,2030
 Dell Latitude 5400,Certified,103,2028
 Dell Latitude 5410,Certified,112,2028
 Dell Latitude 5411,Certified,112,2028
@@ -221,6 +222,7 @@ Dell Optiplex 9020,Certified,103,2026
 Dell Optiplex 9020 AIO,Certified,103,2026
 Dell Optiplex 9030 AIO,Certified,103,2026
 Dell Optiplex 990,Decertified,103,2024
+Dell Pro 24 All-in-One QC24251 Raptor Lake,Certified,139,2030
 Dell Vostro 15 3568,Certified,103,2028
 Dell Vostro 15 5568,Certified,132,2028
 Dell Vostro 3401,Certified,115,2028
@@ -251,6 +253,9 @@ Elo ESY 15i2,Certified,111,2028
 Elo ESY 15i3,Certified,113,2028
 Elo ESY 15i5,Certified,112,2028
 Elo I-Series 2 E550870,Certified,128,2028
+Engagis EMP4C,Certified,140,2030
+Engagis EMP4C N150,Certified,140,2030
+Engagis EMPi3,Certified,140,2030
 Faytech FAYX6413E,Certified,137,2029
 Flytech KPC2,Certified,129,2029
 Fujitsu Esprimo Q556/2,Certified,119,2027
@@ -460,6 +465,7 @@ IBASE SI-324-N,Certified,129,2029
 IBASE SI-626,Certified,113,2026
 INP i1000BT Thin Client,Certified,107,2028
 INP i1000M,Certified,116,2029
+INSYS Pro B,Certified,139,2028
 Imago AIOS Lite,Certified,132,2029
 Imago IMC-OPS-VI-11G-I5,Certified,115,2030
 Intel Compute Stick STK1AW32SC,Certified,103,2027
@@ -666,6 +672,8 @@ Pyramid Flex 21.5,Certified,133,2028
 Samsung KM24C-3,Certified,116,2030
 Satsuki JWIPC H085,Certified,123,2029
 Satsuki MP-OPS-GX,Certified,118,2030
+Satsuki MP-OPS-HY,Certified,140,2032
+Satsuki MP-OPS-IZ,Certified,140,2032
 Satsuki MP-ULS-PC,Certified,123,2032
 Satsuki Mirai Touch MP-OPS-FW,Certified,106,2028
 Seneca Element MP USFS-05,Certified,108,2029
