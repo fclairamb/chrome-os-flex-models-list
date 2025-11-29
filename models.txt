@@ -562,11 +562,11 @@ Lenovo ThinkPad L490
 Lenovo ThinkPad L570
 Lenovo ThinkPad L580
 Lenovo ThinkPad L590
-Lenovo ThinkPad T14 G4
+Lenovo ThinkPad T14 G4 (Intel)
 Lenovo ThinkPad T14 Gen 1 (Intel)
 Lenovo ThinkPad T14 Gen 2 (AMD)
 Lenovo ThinkPad T14 Gen 2 (Intel)
-Lenovo ThinkPad T14 Gen 3
+Lenovo ThinkPad T14 Gen 3 (Intel)
 Lenovo ThinkPad T14s Gen 1 (AMD)
 Lenovo ThinkPad T15 Gen 2
 Lenovo ThinkPad T430
