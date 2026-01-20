@@ -25,7 +25,6 @@ ASUS x200m
 Acer Aspire 3 A315
 Acer Aspire E3-111
 Acer Aspire One 11 AO1-132
-Acer Aspire V5 131
 Acer Aspire V5-122P
 Acer E220 Veriton M26X2G
 Acer One 11 Z8-284
@@ -35,11 +34,9 @@ Acer TravelMate B115-MP
 Acer TravelMate B3 11R-31
 Acer TravelMate B3 B311
 Acer TravelMate P214
-Acer TravelMate P459-G2-M
 Acer TravelMate Spin B118-G2-RN
 Acer TravelMate Spin B118-RN
 Acer TravelMate Spin B3 TMB311R
-Acer Travelmate B113-E
 Acer VN4640G
 Acer Veriton L4630G
 Acer Veriton S2690G
@@ -62,10 +59,7 @@ Advantech UTC-520F
 Advantech UTC-520J
 Apple Mac Mini 7,1
 Apple MacBook Air 6,1
-Apple Macbook Air 5,1
 Apple Macbook Air 7,2
-Apple Macbook Pro 11,2
-Apple Macbook Pro 9,2
 Asus ExpertBook B1500CEA
 Asus ExpertBook B1502CBA
 Asus ExpertCenter D700SD
@@ -82,8 +76,6 @@ Bluefin Modular All in One (Intel)
 CVTE OPS72A-1215U
 Centerm F650
 Clear Touch CTI-PCMOD-PC25-ST
-Cybernet Cybermed T10C
-Decenta OPS13
 Dell Inspiron 15 3531
 Dell Inspiron 3280 AIO
 Dell Inspiron 3501
@@ -97,7 +89,6 @@ Dell Latitude 3190
 Dell Latitude 3190 2-in-1
 Dell Latitude 3300
 Dell Latitude 3310
-Dell Latitude 3330
 Dell Latitude 3340
 Dell Latitude 3350
 Dell Latitude 3380
@@ -144,16 +135,11 @@ Dell Latitude 7400
 Dell Latitude 7410
 Dell Latitude 7420
 Dell Latitude 7480
-Dell Latitude E5430
 Dell Latitude E5440
 Dell Latitude E5450
 Dell Latitude E5470
-Dell Latitude E5530
 Dell Latitude E5540
 Dell Latitude E5570
-Dell Latitude E6230
-Dell Latitude E6420
-Dell Latitude E6430
 Dell Latitude E6440
 Dell Latitude E7240
 Dell Latitude E7270
@@ -165,8 +151,6 @@ Dell OptiPlex 3240 AIO
 Dell OptiPlex 5050
 Dell Optiplex 3000
 Dell Optiplex 3000 Thin Client
-Dell Optiplex 3010
-Dell Optiplex 3011 AIO
 Dell Optiplex 3020
 Dell Optiplex 3040
 Dell Optiplex 3046
@@ -186,7 +170,6 @@ Dell Optiplex 5250 AIO
 Dell Optiplex 5270 AIO
 Dell Optiplex 5480 AIO
 Dell Optiplex 7000
-Dell Optiplex 7010
 Dell Optiplex 7010 (2023)
 Dell Optiplex 7020
 Dell Optiplex 7040
@@ -204,7 +187,6 @@ Dell Optiplex 7460 AIO
 Dell Optiplex 7470 AIO
 Dell Optiplex 7480 AIO
 Dell Optiplex 7490 AIO
-Dell Optiplex 9010
 Dell Optiplex 9020
 Dell Optiplex 9020 AIO
 Dell Optiplex 9030 AIO
@@ -213,7 +195,6 @@ Dell Vostro 15 3568
 Dell Vostro 15 5568
 Dell Vostro 3401
 Dell Vostro 3470
-Dell Vostro 3560
 Dell Vostro 3671
 Dell Wyse 5060 Thin Client
 Dell Wyse 5070 Thin Client
@@ -226,7 +207,6 @@ Dell XPS 13 9300
 Dell XPS 13 9310
 Dell XPS 13 9380
 Delphi Endura 15X Model 9330-150-A01
-Dynabook K50
 Dynabook R73/F
 ECS LIVA Q2
 ECS Liva X BAT2NBW
@@ -246,7 +226,6 @@ Fujitsu Esprimo Q556/2
 Fujitsu Futro s720 Thin Client
 Fujitsu Lifebook A574/H
 Fujitsu Lifebook A576/TX
-Fujitsu Lifebook A743/G
 Fujitsu Lifebook T726
 Fujitsu Stylistic Q738
 FutureNUC Flexbox
@@ -264,9 +243,6 @@ HP 240 G7
 HP 255 G7 (AMD)
 HP 255 G7 (Intel)
 HP 280 G9
-HP Compaq 6300 Pro
-HP Compaq Elite 8300
-HP Compaq Pro 6305
 HP Elite Mini 600 G9
 HP Elite t655 Thin Client
 HP EliteBook 630 G9
@@ -294,15 +270,12 @@ HP EliteBook 840 G6
 HP EliteBook 840 G7
 HP EliteBook 840 G8
 HP EliteBook 845 G7
-HP EliteBook 8470p
 HP EliteBook 850 G3
 HP EliteBook 850 G5
 HP EliteBook 850 G6
 HP EliteBook 850 G7
 HP EliteBook 850 G8
-HP EliteBook Folio 9470m
 HP EliteBook x360 1030 G2
-HP EliteDesk 705 G1
 HP EliteDesk 705 G3
 HP EliteDesk 705 G4
 HP EliteDesk 800 G1
@@ -344,7 +317,6 @@ HP ProBook 440 G5
 HP ProBook 440 G6
 HP ProBook 440 G7
 HP ProBook 440 G9
-HP ProBook 4440s
 HP ProBook 445 G6
 HP ProBook 445 G7
 HP ProBook 445 G8
@@ -357,19 +329,14 @@ HP ProBook 450 G5
 HP ProBook 450 G6
 HP ProBook 450 G7
 HP ProBook 450 G9
-HP ProBook 4540s
 HP ProBook 455 G2
 HP ProBook 455 G3
 HP ProBook 630 G8
 HP ProBook 640 G1
-HP ProBook 645 G1
 HP ProBook 645 G4
-HP ProBook 6470b
 HP ProBook 650 G1
 HP ProBook 650 G2
 HP ProBook 650 G8
-HP ProBook 655
-HP ProBook 6570b
 HP ProBook x360 11 G1 EE
 HP ProBook x360 11 G2 EE
 HP ProBook x360 11 G3 EE
@@ -415,7 +382,6 @@ HP Z2 Tower G4 Workstation
 HP Z230
 HP ZBook Firefly 14 G7
 HP ZBook Firefly 14 G8
-HP mt41 Mobile Thin Client
 HP mt43 Mobile Thin Client
 HP mt45 Mobile Thin Client
 HP t430 Thin Client
@@ -445,7 +411,6 @@ Intel Compute Stick STK2m364CC
 Intel NUC 12CP
 Intel NUC 8 Rugged NUC8CCHK
 Intel NUC D34010WYK
-Intel NUC DC3217IYE
 Intel NUC NUC10i7FNH
 Intel NUC NUC5CPYH
 Intel NUC NUC5i3RYH
@@ -479,7 +444,6 @@ Lenovo 100e 2nd Gen (Intel)
 Lenovo 14w Gen 1
 Lenovo 300e 1st Gen
 Lenovo 300e 2nd Gen (Intel)
-Lenovo B590
 Lenovo E40-80
 Lenovo IdeaPad S145
 Lenovo Ideapad D330-10IGL
@@ -507,25 +471,20 @@ Lenovo ThinkCentre M710t
 Lenovo ThinkCentre M715q Gen 2
 Lenovo ThinkCentre M720q
 Lenovo ThinkCentre M720t
-Lenovo ThinkCentre M72e
-Lenovo ThinkCentre M72z AIO
 Lenovo ThinkCentre M73
 Lenovo ThinkCentre M73z
 Lenovo ThinkCentre M75n
 Lenovo ThinkCentre M75q Gen 2
-Lenovo ThinkCentre M78
 Lenovo ThinkCentre M800
 Lenovo ThinkCentre M80q Gen 2
 Lenovo ThinkCentre M80q Gen 3
 Lenovo ThinkCentre M810z
-Lenovo ThinkCentre M82
 Lenovo ThinkCentre M83
 Lenovo ThinkCentre M900
 Lenovo ThinkCentre M90n IoT
 Lenovo ThinkCentre M90n Nano
 Lenovo ThinkCentre M920q
 Lenovo ThinkCentre M920x
-Lenovo ThinkCentre M92p
 Lenovo ThinkCentre M93p
 Lenovo ThinkCentre Neo 50a Gen 5
 Lenovo ThinkPad 11e G1
@@ -542,18 +501,14 @@ Lenovo ThinkPad E440
 Lenovo ThinkPad E450
 Lenovo ThinkPad E480
 Lenovo ThinkPad E495
-Lenovo ThinkPad E531
 Lenovo ThinkPad E550
 Lenovo ThinkPad E560
-Lenovo ThinkPad Edge E430
-Lenovo ThinkPad Edge E530
 Lenovo ThinkPad L13 Gen 2
 Lenovo ThinkPad L14 Gen 1
 Lenovo ThinkPad L15 Gen 3 (AMD)
 Lenovo ThinkPad L15 Gen 4 (AMD)
 Lenovo ThinkPad L380
 Lenovo ThinkPad L390
-Lenovo ThinkPad L430
 Lenovo ThinkPad L440
 Lenovo ThinkPad L460
 Lenovo ThinkPad L470
@@ -569,19 +524,15 @@ Lenovo ThinkPad T14 Gen 2 (Intel)
 Lenovo ThinkPad T14 Gen 3 (Intel)
 Lenovo ThinkPad T14s Gen 1 (AMD)
 Lenovo ThinkPad T15 Gen 2
-Lenovo ThinkPad T430
-Lenovo ThinkPad T430u
 Lenovo ThinkPad T440p
 Lenovo ThinkPad T460
 Lenovo ThinkPad T470
 Lenovo ThinkPad T470s
 Lenovo ThinkPad T480
 Lenovo ThinkPad T490
-Lenovo ThinkPad T530
 Lenovo ThinkPad T570
 Lenovo ThinkPad T580
 Lenovo ThinkPad T590
-Lenovo ThinkPad X1 Carbon 1st Gen
 Lenovo ThinkPad X1 Carbon 2nd Gen
 Lenovo ThinkPad X1 Carbon 3rd Gen
 Lenovo ThinkPad X1 Carbon 4th Gen
@@ -592,7 +543,6 @@ Lenovo ThinkPad X1 Carbon 8th Gen
 Lenovo ThinkPad X1 Carbon 9th Gen
 Lenovo ThinkPad X13 Gen 1 (Intel)
 Lenovo ThinkPad X140e
-Lenovo ThinkPad X230
 Lenovo ThinkPad X240
 Lenovo ThinkPad X250
 Lenovo ThinkPad X260
@@ -658,7 +608,6 @@ Toshiba Satellite Pro A40-D
 Toshiba Satellite Pro R50-B
 Toshiba Satellite Pro R50-C
 Toshiba TCx 900
-Toshiba Tecra A40-C
 Toshiba Tecra A50-C
 Toshiba Tecra C40-C
 VAIO VJPJ21
