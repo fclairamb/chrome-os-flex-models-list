@@ -33,10 +33,12 @@ Acer R3-131T
 Acer TravelMate B115-MP
 Acer TravelMate B3 11R-31
 Acer TravelMate B3 B311
+Acer TravelMate B3 Spin 11
 Acer TravelMate P214
 Acer TravelMate Spin B118-G2-RN
 Acer TravelMate Spin B118-RN
 Acer TravelMate Spin B3 TMB311R
+Acer Travelmate P249-G1-M
 Acer VN4640G
 Acer Veriton L4630G
 Acer Veriton S2690G
@@ -45,6 +47,7 @@ Advantech DS-085
 Advantech DS-202
 Advantech DS-410
 Advantech DS-570
+Advantech EPC-T4286
 Advantech PPC-3150SW
 Advantech UBX-110K
 Advantech USC-360H
@@ -53,6 +56,7 @@ Advantech UTC-115G
 Advantech UTC-120G
 Advantech UTC-120K
 Advantech UTC-124G3
+Advantech UTC-124K
 Advantech UTC-124l
 Advantech UTC-320K
 Advantech UTC-520F
@@ -67,6 +71,7 @@ Asus Expertbook B1502CVA
 Asus P1512CEA
 Asus PN43-S1
 Asus Prime J4005I-C
+Asus Vivobook 14 E410MA
 Atrust t20W
 Atrust t21W
 Axiomtek DSP-501
@@ -81,6 +86,7 @@ Dell Inspiron 3280 AIO
 Dell Inspiron 3501
 Dell Inspiron 3505
 Dell Latitude 3120
+Dell Latitude 3140 2-in-1
 Dell Latitude 3150
 Dell Latitude 3160
 Dell Latitude 3180
@@ -191,6 +197,7 @@ Dell Optiplex 9020
 Dell Optiplex 9020 AIO
 Dell Optiplex 9030 AIO
 Dell Pro 24 All-in-One QC24251 Raptor Lake
+Dell Pro Micro QCM1250
 Dell Vostro 15 3568
 Dell Vostro 15 5568
 Dell Vostro 3401
@@ -222,6 +229,7 @@ Engagis EMP4C N150
 Engagis EMPi3
 Faytech FAYX6413E
 Flytech KPC2
+Fujitsu Esprimo D756
 Fujitsu Esprimo Q556/2
 Fujitsu Futro s720 Thin Client
 Fujitsu Lifebook A574/H
@@ -286,6 +294,7 @@ HP EliteDesk 800 G5
 HP EliteDesk 800 G6
 HP Elitebook 650 G5
 HP Elitebook 830 G8
+HP Elitebook 835 G8
 HP Elitedesk 705 G5
 HP Engage Flex Mini
 HP Engage Flex Pro
@@ -444,6 +453,7 @@ Lenovo 100e 2nd Gen (Intel)
 Lenovo 14w Gen 1
 Lenovo 300e 1st Gen
 Lenovo 300e 2nd Gen (Intel)
+Lenovo 500w Gen 3
 Lenovo E40-80
 Lenovo IdeaPad S145
 Lenovo Ideapad D330-10IGL
@@ -475,6 +485,7 @@ Lenovo ThinkCentre M73
 Lenovo ThinkCentre M73z
 Lenovo ThinkCentre M75n
 Lenovo ThinkCentre M75q Gen 2
+Lenovo ThinkCentre M75q Gen 5
 Lenovo ThinkCentre M800
 Lenovo ThinkCentre M80q Gen 2
 Lenovo ThinkCentre M80q Gen 3
@@ -562,6 +573,7 @@ Lenovo Thinkcentre M910q
 Lenovo Thinkpad T450
 Lenovo Thinkpad T540p
 Lenovo Thinkpad T560
+Lenovo V130
 Lenovo V14 G2 ITL
 Lenovo V145
 Lenovo V15 G3
@@ -582,6 +594,7 @@ Panasonic Toughbook FZ55
 Panasonic Toughpad FZ-G1
 Posiflex RT-2016-G2
 Positivo 17SF
+Positivo Vision C14
 Predia Chrome OPS OPO Series
 ProDVX IPPC-10SLB (R24-6702)
 Pyramid Flex 21.5
@@ -612,6 +625,7 @@ Toshiba Tecra A50-C
 Toshiba Tecra C40-C
 VAIO VJPJ21
 VAIO VJPK21
+Velasea IronLink N150
 Vexia S104P
 Zotac MA761
 Zotac ZBOX AQ01 PLUS

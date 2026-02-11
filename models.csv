@@ -35,11 +35,13 @@ Acer R3-131T,Certified,103,2027
 Acer TravelMate B115-MP,Certified,103,2026
 Acer TravelMate B3 11R-31,Certified,103,2028
 Acer TravelMate B3 B311,Certified,103,2028
+Acer TravelMate B3 Spin 11,Certified,142,2030
 Acer TravelMate P214,Certified,103,2030
 Acer TravelMate Spin B118-G2-RN,Certified,103,2028
 Acer TravelMate Spin B118-RN,Certified,103,2028
 Acer TravelMate Spin B3 TMB311R,Certified,110,2028
 Acer Travelmate B113-E,Decertified,103,2025
+Acer Travelmate P249-G1-M,Certified,142,2027
 Acer VN4640G,Certified,111,2027
 Acer Veriton L4630G,Certified,103,2026
 Acer Veriton S2690G,Certified,118,2030
@@ -48,6 +50,7 @@ Advantech DS-085,Certified,103,2030
 Advantech DS-202,Certified,127,2029
 Advantech DS-410,Certified,110,2029
 Advantech DS-570,Certified,103,2026
+Advantech EPC-T4286,Certified,141,2028
 Advantech PPC-3150SW,Certified,105,2028
 Advantech UBX-110K,Certified,137,2030
 Advantech USC-360H,Certified,129,2030
@@ -56,6 +59,7 @@ Advantech UTC-115G,Certified,119,2028
 Advantech UTC-120G,Certified,110,2028
 Advantech UTC-120K,Certified,129,2030
 Advantech UTC-124G3,Certified,111,2028
+Advantech UTC-124K,Certified,142,2030
 Advantech UTC-124l,Certified,134,2029
 Advantech UTC-320K,Certified,136,2030
 Advantech UTC-520F,Certified,103,2027
@@ -73,6 +77,7 @@ Asus Expertbook B1502CVA,Certified,135,2032
 Asus P1512CEA,Certified,122,2030
 Asus PN43-S1,Certified,128,2030
 Asus Prime J4005I-C,Certified,127,2028
+Asus Vivobook 14 E410MA,Certified,142,2028
 Atrust t20W,Certified,124,2028
 Atrust t21W,Certified,124,2029
 Axiomtek DSP-501,Certified,134,2028
@@ -88,6 +93,7 @@ Dell Inspiron 3280 AIO,Certified,103,2028
 Dell Inspiron 3501,Certified,103,2030
 Dell Inspiron 3505,Certified,103,2030
 Dell Latitude 3120,Certified,107,2029
+Dell Latitude 3140 2-in-1,Certified,143,2032
 Dell Latitude 3150,Certified,103,2026
 Dell Latitude 3160,Certified,103,2027
 Dell Latitude 3180,Certified,103,2028
@@ -209,6 +215,7 @@ Dell Optiplex 9020,Certified,103,2026
 Dell Optiplex 9020 AIO,Certified,103,2026
 Dell Optiplex 9030 AIO,Certified,103,2026
 Dell Pro 24 All-in-One QC24251 Raptor Lake,Certified,139,2030
+Dell Pro Micro QCM1250,Certified,140,2032
 Dell Vostro 15 3568,Certified,103,2028
 Dell Vostro 15 5568,Certified,132,2028
 Dell Vostro 3401,Certified,115,2028
@@ -237,10 +244,11 @@ Elo ESY 15i3,Certified,113,2028
 Elo ESY 15i5,Certified,112,2028
 Elo I-Series 2 E550870,Certified,128,2028
 Engagis EMP4C,Certified,140,2030
-Engagis EMP4C N150,Certified,140,2030
+Engagis EMP4C N150,Certified,140,2033
 Engagis EMPi3,Certified,140,2030
 Faytech FAYX6413E,Certified,137,2029
 Flytech KPC2,Certified,129,2029
+Fujitsu Esprimo D756,Certified,142,2027
 Fujitsu Esprimo Q556/2,Certified,119,2027
 Fujitsu Futro s720 Thin Client,Certified,103,2027
 Fujitsu Lifebook A574/H,Certified,103,2026
@@ -312,6 +320,7 @@ HP EliteDesk 800 G5,Certified,103,2028
 HP EliteDesk 800 G6,Certified,103,2028
 HP Elitebook 650 G5,Certified,132,2028
 HP Elitebook 830 G8,Certified,128,2030
+HP Elitebook 835 G8,Certified,141,2031
 HP Elitedesk 705 G5,Certified,103,2030
 HP Engage Flex Mini,Certified,111,2028
 HP Engage Flex Pro,Certified,117,2028
@@ -478,6 +487,7 @@ Lenovo 100e 2nd Gen (Intel),Certified,103,2028
 Lenovo 14w Gen 1,Certified,103,2029
 Lenovo 300e 1st Gen,Certified,103,2028
 Lenovo 300e 2nd Gen (Intel),Certified,103,2028
+Lenovo 500w Gen 3,Certified,142,2029
 Lenovo B590,Decertified,103,2025
 Lenovo E40-80,Certified,107,2027
 Lenovo IdeaPad S145,Certified,103,2028
@@ -512,6 +522,7 @@ Lenovo ThinkCentre M73,Certified,103,2026
 Lenovo ThinkCentre M73z,Certified,103,2026
 Lenovo ThinkCentre M75n,Certified,103,2030
 Lenovo ThinkCentre M75q Gen 2,Certified,122,2030
+Lenovo ThinkCentre M75q Gen 5,Certified,143,2033
 Lenovo ThinkCentre M78,Decertified,103,2025
 Lenovo ThinkCentre M800,Certified,103,2027
 Lenovo ThinkCentre M80q Gen 2,Certified,115,2028
@@ -611,6 +622,7 @@ Lenovo Thinkcentre M910q,Certified,110,2027
 Lenovo Thinkpad T450,Certified,103,2027
 Lenovo Thinkpad T540p,Certified,103,2026
 Lenovo Thinkpad T560,Certified,104,2027
+Lenovo V130,Certified,141,2028
 Lenovo V14 G2 ITL,Certified,119,2030
 Lenovo V145,Certified,138,2028
 Lenovo V15 G3,Certified,127,2030
@@ -631,6 +643,7 @@ Panasonic Toughbook FZ55,Certified,103,2028
 Panasonic Toughpad FZ-G1,Certified,130,2027
 Posiflex RT-2016-G2,Certified,131,2029
 Positivo 17SF,Certified,120,2028
+Positivo Vision C14,Certified,141,2029
 Predia Chrome OPS OPO Series,Certified,136,2030
 ProDVX IPPC-10SLB (R24-6702),Certified,134,2030
 Pyramid Flex 21.5,Certified,133,2028
@@ -661,6 +674,7 @@ Toshiba Tecra A50-C,Certified,134,2027
 Toshiba Tecra C40-C,Certified,103,2027
 VAIO VJPJ21,Certified,129,2030
 VAIO VJPK21,Certified,129,2030
+Velasea IronLink N150,Certified,141,2033
 Vexia S104P,Certified,125,2030
 Zotac MA761,Certified,103,2026
 Zotac ZBOX AQ01 PLUS,Certified,103,2026
