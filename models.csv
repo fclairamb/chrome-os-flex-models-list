@@ -74,6 +74,7 @@ Asus ExpertBook B1500CEA,Certified,121,2030
 Asus ExpertBook B1502CBA,Certified,125,2030
 Asus ExpertCenter D700SD,Certified,120,2030
 Asus Expertbook B1502CVA,Certified,135,2032
+Asus Nuc 13 Rugged,Certified,144,2032
 Asus P1512CEA,Certified,122,2030
 Asus PN43-S1,Certified,128,2030
 Asus Prime J4005I-C,Certified,127,2028
@@ -93,6 +94,7 @@ Dell Inspiron 3280 AIO,Certified,103,2028
 Dell Inspiron 3501,Certified,103,2030
 Dell Inspiron 3505,Certified,103,2030
 Dell Latitude 3120,Certified,107,2029
+Dell Latitude 3140,Certified,142,2030
 Dell Latitude 3140 2-in-1,Certified,143,2032
 Dell Latitude 3150,Certified,103,2026
 Dell Latitude 3160,Certified,103,2027
@@ -378,6 +380,7 @@ HP ProBook 650 G2,Certified,103,2027
 HP ProBook 650 G8,Certified,129,2030
 HP ProBook 655,Decertified,103,2025
 HP ProBook 6570b,Decertified,103,2025
+HP ProBook Fortis 14 G9,Certified,144,2029
 HP ProBook x360 11 G1 EE,Certified,103,2028
 HP ProBook x360 11 G2 EE,Certified,103,2028
 HP ProBook x360 11 G3 EE,Certified,103,2028
@@ -387,6 +390,7 @@ HP ProBook x360 11 G7 EE,Certified,112,2029
 HP ProDesk 400 G1,Certified,103,2026
 HP ProDesk 400 G2.5,Certified,103,2026
 HP ProDesk 400 G3,Certified,132,2028
+HP ProDesk 400 G4,Certified,144,2028
 HP ProDesk 400 G5,Certified,114,2028
 HP ProDesk 400 G6,Certified,116,2028
 HP ProDesk 405 G4,Certified,131,2029
@@ -521,7 +525,7 @@ Lenovo ThinkCentre M72z AIO,Decertified,103,2025
 Lenovo ThinkCentre M73,Certified,103,2026
 Lenovo ThinkCentre M73z,Certified,103,2026
 Lenovo ThinkCentre M75n,Certified,103,2030
-Lenovo ThinkCentre M75q Gen 2,Certified,122,2030
+Lenovo ThinkCentre M75q Gen 2,Certified,122,2031
 Lenovo ThinkCentre M75q Gen 5,Certified,143,2033
 Lenovo ThinkCentre M78,Decertified,103,2025
 Lenovo ThinkCentre M800,Certified,103,2027
@@ -624,6 +628,7 @@ Lenovo Thinkpad T540p,Certified,103,2026
 Lenovo Thinkpad T560,Certified,104,2027
 Lenovo V130,Certified,141,2028
 Lenovo V14 G2 ITL,Certified,119,2030
+Lenovo V14 G4 AMD,Certified,144,2030
 Lenovo V145,Certified,138,2028
 Lenovo V15 G3,Certified,127,2030
 Lenovo V310z AIO,Certified,103,2028
@@ -647,6 +652,8 @@ Positivo Vision C14,Certified,141,2029
 Predia Chrome OPS OPO Series,Certified,136,2030
 ProDVX IPPC-10SLB (R24-6702),Certified,134,2030
 Pyramid Flex 21.5,Certified,133,2028
+Pyramid PC Box Alder Lake N97,Certified,142,2030
+Pyramid PC Box Coffee Lake i5,Certified,142,2028
 Samsung KM24C-3,Certified,116,2030
 Satsuki JWIPC H085,Certified,123,2029
 Satsuki MP-OPS-GX,Certified,118,2030

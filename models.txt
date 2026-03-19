@@ -68,6 +68,7 @@ Asus ExpertBook B1500CEA
 Asus ExpertBook B1502CBA
 Asus ExpertCenter D700SD
 Asus Expertbook B1502CVA
+Asus Nuc 13 Rugged
 Asus P1512CEA
 Asus PN43-S1
 Asus Prime J4005I-C
@@ -86,6 +87,7 @@ Dell Inspiron 3280 AIO
 Dell Inspiron 3501
 Dell Inspiron 3505
 Dell Latitude 3120
+Dell Latitude 3140
 Dell Latitude 3140 2-in-1
 Dell Latitude 3150
 Dell Latitude 3160
@@ -346,6 +348,7 @@ HP ProBook 645 G4
 HP ProBook 650 G1
 HP ProBook 650 G2
 HP ProBook 650 G8
+HP ProBook Fortis 14 G9
 HP ProBook x360 11 G1 EE
 HP ProBook x360 11 G2 EE
 HP ProBook x360 11 G3 EE
@@ -355,6 +358,7 @@ HP ProBook x360 11 G7 EE
 HP ProDesk 400 G1
 HP ProDesk 400 G2.5
 HP ProDesk 400 G3
+HP ProDesk 400 G4
 HP ProDesk 400 G5
 HP ProDesk 400 G6
 HP ProDesk 405 G4
@@ -575,6 +579,7 @@ Lenovo Thinkpad T540p
 Lenovo Thinkpad T560
 Lenovo V130
 Lenovo V14 G2 ITL
+Lenovo V14 G4 AMD
 Lenovo V145
 Lenovo V15 G3
 Lenovo V310z AIO
@@ -598,6 +603,8 @@ Positivo Vision C14
 Predia Chrome OPS OPO Series
 ProDVX IPPC-10SLB (R24-6702)
 Pyramid Flex 21.5
+Pyramid PC Box Alder Lake N97
+Pyramid PC Box Coffee Lake i5
 Samsung KM24C-3
 Satsuki JWIPC H085
 Satsuki MP-OPS-GX
