@@ -17,6 +17,7 @@ ASUS ExpertCenter E5 24 AiO
 ASUS Mini PC PL64
 ASUS Mini PC PN41
 ASUS Mini PC PN64
+ASUS NUC 14 Essential NUC14MNK
 ASUS NUC 14 Pro
 ASUS VivoBook L203MA
 ASUS Vivobook Flip 14 TP401NA
@@ -53,6 +54,7 @@ Advantech UBX-110K
 Advantech USC-360H
 Advantech USC-360J
 Advantech UTC-115G
+Advantech UTC-115K
 Advantech UTC-120G
 Advantech UTC-120K
 Advantech UTC-124G3
@@ -127,6 +129,7 @@ Dell Latitude 5411
 Dell Latitude 5420
 Dell Latitude 5430
 Dell Latitude 5440
+Dell Latitude 5450
 Dell Latitude 5480
 Dell Latitude 5490
 Dell Latitude 5500
@@ -228,6 +231,7 @@ Elo ESY 15i5
 Elo I-Series 2 E550870
 Engagis EMP4C
 Engagis EMP4C N150
+Engagis EMP5C
 Engagis EMPi3
 Faytech FAYX6413E
 Flytech KPC2
@@ -254,6 +258,7 @@ HP 255 G7 (AMD)
 HP 255 G7 (Intel)
 HP 280 G9
 HP Elite Mini 600 G9
+HP Elite mt645 G8 Mobile Thin Client
 HP Elite t655 Thin Client
 HP EliteBook 630 G9
 HP EliteBook 640 G10
@@ -262,6 +267,7 @@ HP EliteBook 645 G10
 HP EliteBook 645 G11
 HP EliteBook 650 G10
 HP EliteBook 650 G9
+HP EliteBook 660 G11
 HP EliteBook 665 G11
 HP EliteBook 745 G5
 HP EliteBook 745 G6
@@ -599,6 +605,7 @@ Panasonic Toughbook FZ55
 Panasonic Toughpad FZ-G1
 Posiflex RT-2016-G2
 Positivo 17SF
+Positivo Master N1212
 Positivo Vision C14
 Predia Chrome OPS OPO Series
 ProDVX IPPC-10SLB (R24-6702)
