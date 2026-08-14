@@ -44,6 +44,7 @@ Acer VN4640G
 Acer Veriton L4630G
 Acer Veriton S2690G
 Advantech ARK-1125H
+Advantech Aures YUNO-K270
 Advantech DS-085
 Advantech DS-202
 Advantech DS-410
@@ -123,6 +124,8 @@ Dell Latitude 5300 2-in-1
 Dell Latitude 5310
 Dell Latitude 5320
 Dell Latitude 5330
+Dell Latitude 5340
+Dell Latitude 5350
 Dell Latitude 5400
 Dell Latitude 5410
 Dell Latitude 5411
@@ -203,6 +206,7 @@ Dell Optiplex 9020 AIO
 Dell Optiplex 9030 AIO
 Dell Pro 24 All-in-One QC24251 Raptor Lake
 Dell Pro Micro QCM1250
+Dell Pro Micro Thin Client Q9M1260
 Dell Vostro 15 3568
 Dell Vostro 15 5568
 Dell Vostro 3401
@@ -232,6 +236,7 @@ Elo I-Series 2 E550870
 Engagis EMP4C
 Engagis EMP4C N150
 Engagis EMP5C
+Engagis EMP5C N150
 Engagis EMPi3
 Faytech FAYX6413E
 Flytech KPC2
@@ -291,7 +296,9 @@ HP EliteBook 850 G5
 HP EliteBook 850 G6
 HP EliteBook 850 G7
 HP EliteBook 850 G8
+HP EliteBook 860 G10
 HP EliteBook x360 1030 G2
+HP EliteBook x360 1030 G8
 HP EliteDesk 705 G3
 HP EliteDesk 705 G4
 HP EliteDesk 800 G1
@@ -303,6 +310,7 @@ HP EliteDesk 800 G6
 HP Elitebook 650 G5
 HP Elitebook 830 G8
 HP Elitebook 835 G8
+HP Elitebook 855 G7
 HP Elitedesk 705 G5
 HP Engage Flex Mini
 HP Engage Flex Pro
@@ -311,6 +319,7 @@ HP Engage Flex Pro-C
 HP Engage Go 10
 HP Engage One
 HP Engage One Essential AIO
+HP Engage One G2 AIO System
 HP Engage One Pro AIO
 HP Engage One Pro G2
 HP Fortis x360 G9 Education Edition
@@ -508,6 +517,7 @@ Lenovo ThinkCentre M920q
 Lenovo ThinkCentre M920x
 Lenovo ThinkCentre M93p
 Lenovo ThinkCentre Neo 50a Gen 5
+Lenovo ThinkCentre Neo 55a Gen 6
 Lenovo ThinkPad 11e G1
 Lenovo ThinkPad 11e G2
 Lenovo ThinkPad 11e G3
@@ -543,6 +553,7 @@ Lenovo ThinkPad T14 Gen 1 (Intel)
 Lenovo ThinkPad T14 Gen 2 (AMD)
 Lenovo ThinkPad T14 Gen 2 (Intel)
 Lenovo ThinkPad T14 Gen 3 (Intel)
+Lenovo ThinkPad T14 Gen 5 (Intel)
 Lenovo ThinkPad T14s Gen 1 (AMD)
 Lenovo ThinkPad T15 Gen 2
 Lenovo ThinkPad T440p
@@ -595,6 +606,8 @@ Lenovo V520
 Lenovo V530
 Mdina Media M-2
 MicroTouch M1-xxxIC series
+Microsoft Surface Go 2
+Microsoft Surface Go 3
 Microsoft Surface Laptop SE
 Microsoft Surface Pro 3
 Minisforum N36 Mini PC

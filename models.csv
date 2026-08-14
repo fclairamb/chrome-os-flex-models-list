@@ -47,6 +47,7 @@ Acer VN4640G,Certified,111,2027
 Acer Veriton L4630G,Certified,103,2026
 Acer Veriton S2690G,Certified,118,2030
 Advantech ARK-1125H,Certified,123,2030
+Advantech Aures YUNO-K270,Certified,150,2032
 Advantech DS-085,Certified,103,2030
 Advantech DS-202,Certified,127,2029
 Advantech DS-410,Certified,110,2029
@@ -131,6 +132,8 @@ Dell Latitude 5300 2-in-1,Certified,103,2028
 Dell Latitude 5310,Certified,112,2030
 Dell Latitude 5320,Certified,112,2028
 Dell Latitude 5330,Certified,136,2030
+Dell Latitude 5340,Certified,147,2032
+Dell Latitude 5350,Certified,146,2033
 Dell Latitude 5400,Certified,103,2028
 Dell Latitude 5410,Certified,112,2028
 Dell Latitude 5411,Certified,112,2028
@@ -221,6 +224,7 @@ Dell Optiplex 9020 AIO,Certified,103,2026
 Dell Optiplex 9030 AIO,Certified,103,2026
 Dell Pro 24 All-in-One QC24251 Raptor Lake,Certified,139,2030
 Dell Pro Micro QCM1250,Certified,140,2032
+Dell Pro Micro Thin Client Q9M1260,Certified,150,2032
 Dell Vostro 15 3568,Certified,103,2028
 Dell Vostro 15 5568,Certified,132,2028
 Dell Vostro 3401,Certified,115,2028
@@ -251,6 +255,7 @@ Elo I-Series 2 E550870,Certified,128,2028
 Engagis EMP4C,Certified,140,2030
 Engagis EMP4C N150,Certified,140,2033
 Engagis EMP5C,Certified,145,2032
+Engagis EMP5C N150,Certified,150,2032
 Engagis EMPi3,Certified,140,2030
 Faytech FAYX6413E,Certified,137,2029
 Flytech KPC2,Certified,129,2029
@@ -315,8 +320,10 @@ HP EliteBook 850 G5,Certified,119,2028
 HP EliteBook 850 G6,Certified,122,2028
 HP EliteBook 850 G7,Certified,131,2028
 HP EliteBook 850 G8,Certified,134,2029
+HP EliteBook 860 G10,Certified,150,2032
 HP EliteBook Folio 9470m,Decertified,103,2025
 HP EliteBook x360 1030 G2,Certified,103,2028
+HP EliteBook x360 1030 G8,Certified,150,2030
 HP EliteDesk 705 G1,Decertified,103,2025
 HP EliteDesk 705 G3,Certified,103,2028
 HP EliteDesk 705 G4,Certified,103,2028
@@ -329,6 +336,7 @@ HP EliteDesk 800 G6,Certified,103,2028
 HP Elitebook 650 G5,Certified,132,2028
 HP Elitebook 830 G8,Certified,128,2030
 HP Elitebook 835 G8,Certified,141,2031
+HP Elitebook 855 G7,Certified,148,2030
 HP Elitedesk 705 G5,Certified,103,2030
 HP Engage Flex Mini,Certified,111,2028
 HP Engage Flex Pro,Certified,117,2028
@@ -337,6 +345,7 @@ HP Engage Flex Pro-C,Certified,117,2028
 HP Engage Go 10,Certified,124,2030
 HP Engage One,Certified,118,2028
 HP Engage One Essential AIO,Certified,103,2030
+HP Engage One G2 AIO System,Certified,150,2032
 HP Engage One Pro AIO,Certified,103,2030
 HP Engage One Pro G2,Certified,137,2030
 HP Fortis x360 G9 Education Edition,Certified,112,2029
@@ -548,6 +557,7 @@ Lenovo ThinkCentre M920x,Certified,138,2028
 Lenovo ThinkCentre M92p,Decertified,103,2025
 Lenovo ThinkCentre M93p,Certified,103,2026
 Lenovo ThinkCentre Neo 50a Gen 5,Certified,132,2032
+Lenovo ThinkCentre Neo 55a Gen 6,Certified,148,2033
 Lenovo ThinkPad 11e G1,Certified,103,2026
 Lenovo ThinkPad 11e G2,Certified,103,2027
 Lenovo ThinkPad 11e G3,Certified,103,2027
@@ -587,6 +597,7 @@ Lenovo ThinkPad T14 Gen 1 (Intel),Certified,103,2028
 Lenovo ThinkPad T14 Gen 2 (AMD),Certified,125,2030
 Lenovo ThinkPad T14 Gen 2 (Intel),Certified,125,2030
 Lenovo ThinkPad T14 Gen 3 (Intel),Certified,136,2030
+Lenovo ThinkPad T14 Gen 5 (Intel),Certified,148,2033
 Lenovo ThinkPad T14s Gen 1 (AMD),Certified,103,2030
 Lenovo ThinkPad T15 Gen 2,Certified,107,2030
 Lenovo ThinkPad T430,Decertified,103,2025
@@ -644,6 +655,8 @@ Lenovo V520,Certified,114,2028
 Lenovo V530,Certified,114,2028
 Mdina Media M-2,Certified,129,2030
 MicroTouch M1-xxxIC series,Certified,133,2030
+Microsoft Surface Go 2,Certified,148,2028
+Microsoft Surface Go 3,Certified,148,2028
 Microsoft Surface Laptop SE,Certified,103,2028
 Microsoft Surface Pro 3,Certified,108,2026
 Minisforum N36 Mini PC,Certified,103,2027
