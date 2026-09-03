@@ -44,6 +44,7 @@ Acer VN4640G
 Acer Veriton L4630G
 Acer Veriton S2690G
 Advantech ARK-1125H
+Advantech Aures YUNO-K215
 Advantech Aures YUNO-K270
 Advantech DS-085
 Advantech DS-202
