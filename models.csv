@@ -97,6 +97,7 @@ Dell Inspiron 15 3531,Certified,103,2026
 Dell Inspiron 3280 AIO,Certified,103,2028
 Dell Inspiron 3501,Certified,103,2030
 Dell Inspiron 3505,Certified,103,2030
+Dell Inspiron 5566,Certified,152,2028
 Dell Latitude 3120,Certified,107,2029
 Dell Latitude 3140,Certified,142,2030
 Dell Latitude 3140 2-in-1,Certified,143,2032
@@ -109,7 +110,9 @@ Dell Latitude 3190 2-in-1,Certified,103,2028
 Dell Latitude 3300,Certified,103,2028
 Dell Latitude 3310,Certified,115,2028
 Dell Latitude 3330,Decertified,104,2025
+Dell Latitude 3330 (2022),Certified,151,2030
 Dell Latitude 3340,Certified,103,2026
+Dell Latitude 3340 (2023),Certified,151,2032
 Dell Latitude 3350,Certified,103,2027
 Dell Latitude 3380,Certified,103,2028
 Dell Latitude 3390 2-in-1,Certified,103,2028
@@ -270,6 +273,7 @@ Fujitsu Lifebook T726,Certified,103,2027
 Fujitsu Stylistic Q738,Certified,114,2028
 FutureNUC Flexbox,Certified,134,2030
 FutureNUC Lux Series,Certified,132,2030
+Gateway GWTN156,Certified,152,2028
 GeoBook 1e,Certified,115,2028
 Giada D613,Certified,117,2032
 Giada DM6,Certified,114,2029
@@ -322,6 +326,8 @@ HP EliteBook 850 G6,Certified,122,2028
 HP EliteBook 850 G7,Certified,131,2028
 HP EliteBook 850 G8,Certified,134,2029
 HP EliteBook 860 G10,Certified,150,2032
+HP EliteBook 865 G10,Certified,151,2033
+HP EliteBook 865 G11,Certified,151,2032
 HP EliteBook Folio 9470m,Decertified,103,2025
 HP EliteBook x360 1030 G2,Certified,103,2028
 HP EliteBook x360 1030 G8,Certified,150,2030
@@ -336,6 +342,8 @@ HP EliteDesk 800 G5,Certified,103,2028
 HP EliteDesk 800 G6,Certified,103,2028
 HP Elitebook 650 G5,Certified,132,2028
 HP Elitebook 830 G8,Certified,128,2030
+HP Elitebook 835 G10,Certified,151,2033
+HP Elitebook 835 G11,Certified,154,2033
 HP Elitebook 835 G8,Certified,141,2031
 HP Elitebook 855 G7,Certified,148,2030
 HP Elitedesk 705 G5,Certified,103,2030
@@ -436,8 +444,10 @@ HP Stream 11 Pro G2,Certified,103,2027
 HP Stream 11 Pro G3,Certified,103,2027
 HP Stream 11 Pro G4 EE,Certified,103,2028
 HP Stream 11 Pro G5,Certified,103,2028
+HP Stream 11 ak0012dx,Certified,152,2028
 HP Stream 13,Certified,103,2026
 HP Stream 14-ax010nr,Certified,103,2027
+HP Stream 14-cb161wm,Certified,154,2028
 HP Stream x360 Convertible PC 11,Certified,103,2026
 HP Z2 Tower G4 Workstation,Certified,115,2028
 HP Z230,Certified,103,2026
@@ -510,6 +520,7 @@ Lenovo 300e 2nd Gen (Intel),Certified,103,2028
 Lenovo 500w Gen 3,Certified,142,2029
 Lenovo B590,Decertified,103,2025
 Lenovo E40-80,Certified,107,2027
+Lenovo IdeaPad 3,Certified,152,2028
 Lenovo IdeaPad S145,Certified,103,2028
 Lenovo Ideapad D330-10IGL,Certified,112,2028
 Lenovo K14 Gen 1,Certified,123,2030
@@ -675,6 +686,8 @@ ProDVX IPPC-10SLB (R24-6702),Certified,134,2030
 Pyramid Flex 21.5,Certified,133,2028
 Pyramid PC Box Alder Lake N97,Certified,142,2030
 Pyramid PC Box Coffee Lake i5,Certified,142,2028
+SPC Life 1,Certified,154,2029
+SPC Z2 Style 3,Certified,154,2030
 Samsung KM24C-3,Certified,116,2030
 Satsuki JWIPC H085,Certified,123,2029
 Satsuki MP-OPS-GX,Certified,118,2030

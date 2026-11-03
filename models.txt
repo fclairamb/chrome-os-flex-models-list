@@ -90,6 +90,7 @@ Dell Inspiron 15 3531
 Dell Inspiron 3280 AIO
 Dell Inspiron 3501
 Dell Inspiron 3505
+Dell Inspiron 5566
 Dell Latitude 3120
 Dell Latitude 3140
 Dell Latitude 3140 2-in-1
@@ -101,7 +102,9 @@ Dell Latitude 3190
 Dell Latitude 3190 2-in-1
 Dell Latitude 3300
 Dell Latitude 3310
+Dell Latitude 3330 (2022)
 Dell Latitude 3340
+Dell Latitude 3340 (2023)
 Dell Latitude 3350
 Dell Latitude 3380
 Dell Latitude 3390 2-in-1
@@ -250,6 +253,7 @@ Fujitsu Lifebook T726
 Fujitsu Stylistic Q738
 FutureNUC Flexbox
 FutureNUC Lux Series
+Gateway GWTN156
 GeoBook 1e
 Giada D613
 Giada DM6
@@ -298,6 +302,8 @@ HP EliteBook 850 G6
 HP EliteBook 850 G7
 HP EliteBook 850 G8
 HP EliteBook 860 G10
+HP EliteBook 865 G10
+HP EliteBook 865 G11
 HP EliteBook x360 1030 G2
 HP EliteBook x360 1030 G8
 HP EliteDesk 705 G3
@@ -310,6 +316,8 @@ HP EliteDesk 800 G5
 HP EliteDesk 800 G6
 HP Elitebook 650 G5
 HP Elitebook 830 G8
+HP Elitebook 835 G10
+HP Elitebook 835 G11
 HP Elitebook 835 G8
 HP Elitebook 855 G7
 HP Elitedesk 705 G5
@@ -404,8 +412,10 @@ HP Stream 11 Pro G2
 HP Stream 11 Pro G3
 HP Stream 11 Pro G4 EE
 HP Stream 11 Pro G5
+HP Stream 11 ak0012dx
 HP Stream 13
 HP Stream 14-ax010nr
+HP Stream 14-cb161wm
 HP Stream x360 Convertible PC 11
 HP Z2 Tower G4 Workstation
 HP Z230
@@ -475,6 +485,7 @@ Lenovo 300e 1st Gen
 Lenovo 300e 2nd Gen (Intel)
 Lenovo 500w Gen 3
 Lenovo E40-80
+Lenovo IdeaPad 3
 Lenovo IdeaPad S145
 Lenovo Ideapad D330-10IGL
 Lenovo K14 Gen 1
@@ -626,6 +637,8 @@ ProDVX IPPC-10SLB (R24-6702)
 Pyramid Flex 21.5
 Pyramid PC Box Alder Lake N97
 Pyramid PC Box Coffee Lake i5
+SPC Life 1
+SPC Z2 Style 3
 Samsung KM24C-3
 Satsuki JWIPC H085
 Satsuki MP-OPS-GX
